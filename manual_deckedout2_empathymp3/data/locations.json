@@ -1,0 +1,1571 @@
+[
+	{
+		"name": "Sneak - 1",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Sneak - 2",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Sneak - 3",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Sneak - 4",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Sneak - 5",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Sneak - 6",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Stability - 1",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Stability - 2",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Stability - 3",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Stability - 4",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Stability - 5",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Stability - 6",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Treasure Hunter - 1",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Treasure Hunter - 2",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Treasure Hunter - 3",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Treasure Hunter - 4",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Treasure Hunter - 5",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Treasure Hunter - 6",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Ember Seeker - 1",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Ember Seeker - 2",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Ember Seeker - 3",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Ember Seeker - 4",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Ember Seeker - 5",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Ember Seeker - 6",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Moment of Clarity - 1",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Moment of Clarity - 2",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Moment of Clarity - 3",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Moment of Clarity - 4",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Moment of Clarity - 5",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Moment of Clarity - 6",
+		"category": [
+			"Common"
+		],
+		"region": "10 Embers"
+	},
+	{
+		"name": "Evasion - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "Evasion - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "Evasion - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "Evasion - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "Evasion - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "Evasion - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "Tread Lightly - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "Tread Lightly - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "Tread Lightly - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "Tread Lightly - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "Tread Lightly - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "Tread Lightly - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "Loot & Scoot - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Loot & Scoot - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Loot & Scoot - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Loot & Scoot - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Loot & Scoot - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Loot & Scoot - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Frost Focus - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Frost Focus - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Frost Focus - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Frost Focus - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Frost Focus - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Frost Focus - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "Second Wind - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Second Wind - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Second Wind - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Second Wind - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Second Wind - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Second Wind - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Beast Sense - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Beast Sense - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Beast Sense - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Beast Sense - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Beast Sense - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Beast Sense - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Bounding Strides - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "Bounding Strides - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "Bounding Strides - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "Bounding Strides - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "Bounding Strides - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "Bounding Strides - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "Reckless Charge - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "Reckless Charge - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "Reckless Charge - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "Reckless Charge - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "Reckless Charge - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "Reckless Charge - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "Sprint - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "Sprint - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "Sprint - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "Sprint - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "Sprint - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "Sprint - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "Nimble Looting - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "Nimble Looting - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "Nimble Looting - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "Nimble Looting - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "Nimble Looting - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "Nimble Looting - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "Smash & Grab - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "Smash & Grab - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "Smash & Grab - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "Smash & Grab - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "Smash & Grab - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "Smash & Grab - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "Quickstep - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "Quickstep - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "Quickstep - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "Quickstep - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "Quickstep - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "Quickstep - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "Suit Up - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "Suit Up - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "Suit Up - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "Suit Up - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "Suit Up - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "Suit Up - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "Adrenaline Rush - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "Adrenaline Rush - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "Adrenaline Rush - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "Adrenaline Rush - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "Adrenaline Rush - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "Adrenaline Rush - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "Eerie Silence - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "Eerie Silence - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "Eerie Silence - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "Eerie Silence - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "Eerie Silence - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "Eerie Silence - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "Dungeon Repairs - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "Dungeon Repairs - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "Dungeon Repairs - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "Dungeon Repairs - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "Dungeon Repairs - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "Dungeon Repairs - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "Swagger - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "Swagger - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "Swagger - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "Swagger - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "Swagger - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "Swagger - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "Chill Step - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "Chill Step - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "Chill Step - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "Chill Step - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "Chill Step - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "Chill Step - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "Speed Runner - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "Speed Runner - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "Speed Runner - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "Speed Runner - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "Speed Runner - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "Speed Runner - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "Eyes on the Prize - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "Eyes on the Prize - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "Eyes on the Prize - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "Eyes on the Prize - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "Eyes on the Prize - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "Eyes on the Prize - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "Pirate's Booty - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "Pirate's Booty - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "Pirate's Booty - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "Pirate's Booty - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "Pirate's Booty - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "Pirate's Booty - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "Cold Snap - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "Cold Snap - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "Cold Snap - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "Cold Snap - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "Cold Snap - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "Cold Snap - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "Silent Runner - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "Silent Runner - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "Silent Runner - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "Silent Runner - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "Silent Runner - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "Silent Runner - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "Fuzzy Bunny Slippers - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "Fuzzy Bunny Slippers - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "Fuzzy Bunny Slippers - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "Fuzzy Bunny Slippers - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "Fuzzy Bunny Slippers - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "Fuzzy Bunny Slippers - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "Deepfrost - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "Deepfrost - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "Deepfrost - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "Deepfrost - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "Deepfrost - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "Deepfrost - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "Brilliance - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Brilliance - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Brilliance - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Brilliance - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Brilliance - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Brilliance - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Frozen Shard - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Frozen Shard - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Frozen Shard - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Frozen Shard - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Frozen Shard - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Frozen Shard - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Dungeon Master Lackey - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Dungeon Master Lackey - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Dungeon Master Lackey - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Dungeon Master Lackey - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Dungeon Master Lackey - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "Dungeon Master Lackey - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "Crown Shop"
+	},
+	{
+		"name": "1 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "16 Embers"
+	},
+	{
+		"name": "2 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "18 Embers"
+	},
+	{
+		"name": "3 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "20 Embers"
+	},
+	{
+		"name": "4 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "5 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "6 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "26 Embers"
+	},
+	{
+		"name": "7 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "28 Embers"
+	},
+	{
+		"name": "8 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "30 Embers"
+	},
+	{
+		"name": "10 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "32 Embers"
+	},
+	{
+		"name": "12 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "34 Embers"
+	},
+	{
+		"name": "14 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "36 Embers"
+	},
+	{
+		"name": "16 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "38 Embers"
+	},
+	{
+		"name": "18 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "40 Embers"
+	},
+	{
+		"name": "20 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "42 Embers"
+	},
+	{
+		"name": "22 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "44 Embers"
+	},
+	{
+		"name": "24 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "46 Embers"
+	},
+	{
+		"name": "27 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "48 Embers"
+	},
+	{
+		"name": "30 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "50 Embers"
+	},
+	{
+		"name": "33 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "52 Embers"
+	},
+	{
+		"name": "36 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "56 Embers"
+	},
+	{
+		"name": "39 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "58 Embers"
+	},
+	{
+		"name": "42 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "60 Embers"
+	},
+	{
+		"name": "45 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "62 Embers"
+	},
+	{
+		"name": "49 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "64 Embers"
+	},
+	{
+		"name": "53 Victory Tomes",
+		"category": [
+			"Victory Tomes"
+		],
+		"region": "66 Embers"
+	},
+	{
+		"name": "Enter the Hideout",
+		"region": "win",
+		"victory": true
+	},
+	{
+		"name": "__Manual Game Complete__"
+	}
+]

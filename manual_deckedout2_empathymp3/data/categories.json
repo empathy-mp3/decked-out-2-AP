@@ -1,0 +1,29 @@
+{
+    "Card": {
+        "hidden": true
+    },
+    "Clank Block": {
+        "hidden": true
+    },
+    "Hazard Block": {
+        "hidden": true
+    },
+    "Treasure": {
+        "hidden": true
+    },
+    "Frost Ember": {
+        "hidden": true
+    },
+    "Speed": {
+        "hidden": true
+    },
+    "Survival": {
+        "hidden": true
+    },
+    "Level 2 Useful": {
+        "hidden": true
+    },
+    "Level 3 Useful": {
+        "hidden": true
+    }
+}
