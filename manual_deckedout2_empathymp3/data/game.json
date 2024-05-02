@@ -1,5 +1,19 @@
 {
 	"game": "DeckedOut2",
 	"creator": "empathymp3",
-	"filler_item_name": "Moment of Clarity"
+	"filler_item_name": "Moment of Clarity",
+	"starting_items": [
+		{
+			"items": [
+				"Sneak"
+			],
+			"random": 1
+		},
+		{
+			"items": [
+				"Treasure Hunter"
+			],
+			"random": 1
+		}
+	]
 }

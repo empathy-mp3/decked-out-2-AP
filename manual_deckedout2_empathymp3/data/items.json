@@ -1,31 +1,36 @@
 [
 	{
-		"count": 12,
 		"name": "Stumble",
+		"count": 12,
 		"trap": true
 	},
 	{
 		"name": "Tactical Approach",
-		"count": 5,
-		"filler": true
+		"count": 10,
+		"useful": true
 	},
 	{
 		"name": "Pork Chop Power",
-		"count": 5,
-		"filler": true
+		"count": 10,
+		"useful": true
 	},
 	{
 		"name": "Dungeon Lackey",
-		"count": 5,
-		"filler": true
+		"count": 10,
+		"useful": true
 	},
 	{
 		"name": "Pay to Win",
-		"count": 5,
-		"filler": true
+		"count": 10,
+		"useful": true
 	},
 	{
-		"count": 4,
+		"name": "Eureka",
+		"count": 1,
+		"useful": true
+	},
+	{
+		"count": 5,
 		"name": "Sneak",
 		"category": [
 			"Card",
@@ -45,7 +50,7 @@
 		"progression": true
 	},
 	{
-		"count": 4,
+		"count": 5,
 		"name": "Treasure Hunter",
 		"category": [
 			"Card",
@@ -323,6 +328,68 @@
 			"Card",
 			"Rare",
 			"Level 2 Useful"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Beast Master",
+		"category": [
+			"Card",
+			"Legendary",
+			"Survival"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Enlightenment",
+		"category": [
+			"Card",
+			"Legendary",
+			"Survival",
+			"Clank Block"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Boots of Swiftness",
+		"category": [
+			"Card",
+			"Legendary",
+			"Speed"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Glorious Moment",
+		"category": [
+			"Card",
+			"Legendary",
+			"Hazard Block",
+			"Clank Block"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Cash Cow",
+		"category": [
+			"Card",
+			"Legendary",
+			"Treasure"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Avalanche",
+		"category": [
+			"Card",
+			"Legendary",
+			"Frost Ember"
 		],
 		"progression": true
 	}

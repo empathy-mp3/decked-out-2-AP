@@ -25,5 +25,10 @@
     },
     "Level 3 Useful": {
         "hidden": true
+    },
+    "Victory Tomes": {
+        "yaml_option": [
+            "victory_tome_locations"
+        ]
     }
 }
