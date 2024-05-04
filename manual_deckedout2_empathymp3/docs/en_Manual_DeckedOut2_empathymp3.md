@@ -37,23 +37,23 @@ Cards and Keys.
 
 ## how do i get legendary card locations?
 
-firstly, you need to find the "warden's office" on either level 3 and pick up a key there. there's a black market near the boat that requires some parkour to get to, and you can use the key to open it up.
-you'll be able to acquire templates for the legendary cards, which you can use, along with the 3 ingredients they list, at the forge in the back of the frost ember shop (which can be opened up for 40 embers).
+- firstly, you need to find the "warden's office" on either level 3 and pick up a key there. there's a black market near the boat that requires some parkour to get to, and you can use the key to open it up.
+- you'll be able to acquire templates for the legendary cards, which you can use, along with the 3 ingredients they list, at the forge in the back of the frost ember shop (which can be opened up for 40 embers).
 
 the methods to obtain those ingredients are as follows:
 
-melon - hidden button on boat
-glow ink sac - lake/flooded depths (you're allowed to kill glow squids)
-tropical fish - lake/flooded depths (you're allowed to kill tropical fish)
-basalt - burning dark entrance (from black mines)
-spider eye - spider cave (in caves of carnage) (you're allowed to kill them)
-sugar - caves of carnage. button on the back of the axolotl pond
-slimeball - black mines (you're allowed to kill them)
-sweet berry - anywhere
-cactus - use a trapdoor to crouch into a secret area in pearl's desert room in caves of carnage. there's a button
-egg - rusty room (caves of carnage). you have to do parkour
-bone meal - to my knowledge, you just use berries on the composters on the boat. lmk if you find more "legal" ways of doing it
-twisted vine - burning dark. there's a button in a very secluded corner next to the area with a lot of vines
-glow berry -  to my knowledge, you just use bone meal on the cave vines near the boat and then harvest those glow berries, but not preexisting ones. lmk if you find more "legal" ways of doing it
-pumpkin - caves of carnage: halloween house (secret button at the back of the house)
-amethyst - caves of carnage (you're allowed to break the amethyst on the budding amethyst blocks)
+- melon: hidden button on boat
+- glow ink sac: lake/flooded depths (you're allowed to kill glow squids)
+- tropical fish: lake/flooded depths (you're allowed to kill tropical fish)
+- basalt: burning dark entrance (from black mines)
+- spider eye: spider cave (in caves of carnage) (you're allowed to kill them)
+- sugar: caves of carnage. button on the back of the axolotl pond
+- slimeball: black mines (you're allowed to kill them)
+- sweet berry: anywhere
+- cactus: use a trapdoor to crouch into a secret area in pearl's desert room in caves of carnage. there's a button
+- egg: rusty room (caves of carnage). you have to do parkour
+- bone meal: to my knowledge, you just use berries on the composters on the boat. lmk if you find more "legal" ways of doing it
+- twisted vine: burning dark. there's a button in a very secluded corner next to the area with a lot of vines
+- glow berry: to my knowledge, you just use bone meal on the cave vines near the boat and then harvest those glow berries, but not preexisting ones. lmk if you find more "legal" ways of doing it
+- pumpkin: caves of carnage: halloween house (secret button at the back of the house)
+- amethyst: caves of carnage (you're allowed to break the amethyst on the budding amethyst blocks)

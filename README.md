@@ -42,11 +42,14 @@ Cards and Keys.
 - Archipelago from the [Archipelago Releases Page](https://github.com/ArchipelagoMW/Archipelago/releases)
 - The [Decked Out Expansion Pack 2.0](https://www.curseforge.com/minecraft/worlds/decked-out-expansion-pack/files/)
 - The following mods:
+
   - [AudioPlayer](https://modrinth.com/mod/audioplayer/version/fabric-1.20.1-1.8.6)
   - [Carpet](https://modrinth.com/mod/carpet/version/1.4.112)
   - [Fabric API](https://modrinth.com/mod/fabric-api/version/0.91.0+1.20.1)
   - [VoiceChat](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.20.1-2.4.32)
+
 - It's also recommended that you use these (for better optimizations):
+
   - [Lithium](https://modrinth.com/mod/lithium/version/mc1.20.1-0.11.2) if you're doing this singleplayer
   - [Sodium](https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.3)
 
@@ -66,25 +69,26 @@ Drop the Decked Out Expansion Pack into your saves folder in your Minecraft inst
 
 ## Manual Client
 
-In the "Tracker and Locations" tab you'll find buttons corresponding with all the available locations in the Randomizer.  
-Since this is a manual game its built on trust™ you press the locations when you get to them,  
-hopefully in the future only what you can access will be visible but at the moment  
-you could press victory and it would accept it.
+In the "Tracker and Locations" tab you'll find buttons corresponding with all the available locations in the Randomizer. Since this is a manual game its built on trust™ you press the locations when you get to them, hopefully in the future only what you can access will be visible but at the moment you could press victory and it would accept it.
 
 ## Multiplayer Manual
 
 You can play this with other players (if you use the Decked Out 2 Modpack).
 You'll need to host a fabric server, explained in [This Guide](https://fabricmc.net/wiki/player:tutorials:server:windows).
 You'll also need to install the following mods onto the server (mostly the same mods as earlier):
+
 - [AudioPlayer](https://modrinth.com/mod/audioplayer/version/fabric-1.20.1-1.8.6)
 - [Carpet](https://modrinth.com/mod/carpet/version/1.4.112)
 - [Fabric API](https://modrinth.com/mod/fabric-api/version/0.91.0+1.20.1)
 - [VoiceChat](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.20.1-2.4.32)
+  
 Also, you can install [Lithium](https://modrinth.com/mod/lithium/version/mc1.20.1-0.11.2) for better server optimizations.
-You'll also need to give the resources.zip file that comes with the world download to everyone who joins the server, including yourself.
-After that, go get the Dungeon Lackey item from the Dungeon Master Locker (make sure to make more copies in creative mode), and put one into where it's indicated (*before* putting in the deck).
-I recommend you also go into creative mode and put a chest with several copies of the map you get at the start.
-If you have 3 or more players, you should have a command block set up that says "/tp @p -620 50 1950" so the third and fourth etc. players can join runs. However, more players than 2 does make it more difficult.
+
+- You'll also need to give the resources.zip file that comes with the world download to everyone who joins the server, including yourself.
+- After that, go get the Dungeon Lackey item from the Dungeon Master Locker (make sure to make more copies in creative mode), and put one into where it's indicated (*before* putting in the deck).
+- I recommend you also go into creative mode and put a chest with several copies of the map you get at the start.
+- If you have 3 or more players, you should have a command block set up that says "/tp @p -620 50 1950" so the third and fourth etc. players can join runs.
+- However, more players than 2 does make it more difficult.
 
 ## Main Game
 
@@ -95,23 +99,23 @@ If you have 3 or more players, you should have a command block set up that says 
 
 ## how do i get legendary card locations?
 
-firstly, you need to find the "warden's office" on either level 3 and pick up a key there. there's a black market near the boat that requires some parkour to get to, and you can use the key to open it up.
-you'll be able to acquire templates for the legendary cards, which you can use, along with the 3 ingredients they list, at the forge in the back of the frost ember shop (which can be opened up for 40 embers).
+- firstly, you need to find the "warden's office" on either level 3 and pick up a key there. there's a black market near the boat that requires some parkour to get to, and you can use the key to open it up.
+- you'll be able to acquire templates for the legendary cards, which you can use, along with the 3 ingredients they list, at the forge in the back of the frost ember shop (which can be opened up for 40 embers).
 
 the methods to obtain those ingredients are as follows:
 
-melon - hidden button on boat
-glow ink sac - lake/flooded depths (you're allowed to kill glow squids)
-tropical fish - lake/flooded depths (you're allowed to kill tropical fish)
-basalt - burning dark entrance (from black mines)
-spider eye - spider cave (in caves of carnage) (you're allowed to kill them)
-sugar - caves of carnage. button on the back of the axolotl pond
-slimeball - black mines (you're allowed to kill them)
-sweet berry - anywhere
-cactus - use a trapdoor to crouch into a secret area in pearl's desert room in caves of carnage. there's a button
-egg - rusty room (caves of carnage). you have to do parkour
-bone meal - to my knowledge, you just use berries on the composters on the boat. lmk if you find more "legal" ways of doing it
-twisted vine - burning dark. there's a button in a very secluded corner next to the area with a lot of vines
-glow berry -  to my knowledge, you just use bone meal on the cave vines near the boat and then harvest those glow berries, but not preexisting ones. lmk if you find more "legal" ways of doing it
-pumpkin - caves of carnage: halloween house (secret button at the back of the house)
-amethyst - caves of carnage (you're allowed to break the amethyst on the budding amethyst blocks)
+- melon: hidden button on boat
+- glow ink sac: lake/flooded depths (you're allowed to kill glow squids)
+- tropical fish: lake/flooded depths (you're allowed to kill tropical fish)
+- basalt: burning dark entrance (from black mines)
+- spider eye: spider cave (in caves of carnage) (you're allowed to kill them)
+- sugar: caves of carnage. button on the back of the axolotl pond
+- slimeball: black mines (you're allowed to kill them)
+- sweet berry: anywhere
+- cactus: use a trapdoor to crouch into a secret area in pearl's desert room in caves of carnage. there's a button
+- egg: rusty room (caves of carnage). you have to do parkour
+- bone meal: to my knowledge, you just use berries on the composters on the boat. lmk if you find more "legal" ways of doing it
+- twisted vine: burning dark. there's a button in a very secluded corner next to the area with a lot of vines
+- glow berry: to my knowledge, you just use bone meal on the cave vines near the boat and then harvest those glow berries, but not preexisting ones. lmk if you find more "legal" ways of doing it
+- pumpkin: caves of carnage: halloween house (secret button at the back of the house)
+- amethyst: caves of carnage (you're allowed to break the amethyst on the budding amethyst blocks)
