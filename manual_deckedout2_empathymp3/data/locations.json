@@ -378,84 +378,126 @@
 		"region": "20 Embers"
 	},
 	{
-		"name": "Second Wind - 1",
+		"name": "Revelation - 1",
 		"category": [
 			"Uncommon"
 		],
-		"region": "22 Embers"
+		"region": "12 Embers"
 	},
 	{
-		"name": "Second Wind - 2",
+		"name": "Revelation - 2",
 		"category": [
 			"Uncommon"
 		],
-		"region": "22 Embers"
+		"region": "12 Embers"
 	},
 	{
-		"name": "Second Wind - 3",
+		"name": "Revelation - 3",
 		"category": [
 			"Uncommon"
 		],
-		"region": "22 Embers"
+		"region": "12 Embers"
 	},
 	{
-		"name": "Second Wind - 4",
+		"name": "Revelation - 4",
 		"category": [
 			"Uncommon"
 		],
-		"region": "22 Embers"
+		"region": "12 Embers"
 	},
 	{
-		"name": "Second Wind - 5",
+		"name": "Revelation - 5",
 		"category": [
 			"Uncommon"
 		],
-		"region": "22 Embers"
+		"region": "12 Embers"
 	},
 	{
-		"name": "Second Wind - 6",
+		"name": "Revelation - 6",
 		"category": [
 			"Uncommon"
 		],
-		"region": "22 Embers"
+		"region": "12 Embers"
 	},
 	{
 		"name": "Beast Sense - 1",
 		"category": [
 			"Uncommon"
 		],
-		"region": "24 Embers"
+		"region": "22 Embers"
 	},
 	{
 		"name": "Beast Sense - 2",
 		"category": [
 			"Uncommon"
 		],
-		"region": "24 Embers"
+		"region": "22 Embers"
 	},
 	{
 		"name": "Beast Sense - 3",
 		"category": [
 			"Uncommon"
 		],
-		"region": "24 Embers"
+		"region": "22 Embers"
 	},
 	{
 		"name": "Beast Sense - 4",
 		"category": [
 			"Uncommon"
 		],
-		"region": "24 Embers"
+		"region": "22 Embers"
 	},
 	{
 		"name": "Beast Sense - 5",
 		"category": [
 			"Uncommon"
 		],
-		"region": "24 Embers"
+		"region": "22 Embers"
 	},
 	{
 		"name": "Beast Sense - 6",
+		"category": [
+			"Uncommon"
+		],
+		"region": "22 Embers"
+	},
+	{
+		"name": "Second Wind - 1",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Second Wind - 2",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Second Wind - 3",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Second Wind - 4",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Second Wind - 5",
+		"category": [
+			"Uncommon"
+		],
+		"region": "24 Embers"
+	},
+	{
+		"name": "Second Wind - 6",
 		"category": [
 			"Uncommon"
 		],
@@ -588,42 +630,42 @@
 		"region": "30 Embers"
 	},
 	{
-		"name": "Nimble Looting - 1",
+		"name": "Adrenaline Rush - 1",
 		"category": [
 			"Uncommon"
 		],
 		"region": "32 Embers"
 	},
 	{
-		"name": "Nimble Looting - 2",
+		"name": "Adrenaline Rush - 2",
 		"category": [
 			"Uncommon"
 		],
 		"region": "32 Embers"
 	},
 	{
-		"name": "Nimble Looting - 3",
+		"name": "Adrenaline Rush - 3",
 		"category": [
 			"Uncommon"
 		],
 		"region": "32 Embers"
 	},
 	{
-		"name": "Nimble Looting - 4",
+		"name": "Adrenaline Rush - 4",
 		"category": [
 			"Uncommon"
 		],
 		"region": "32 Embers"
 	},
 	{
-		"name": "Nimble Looting - 5",
+		"name": "Adrenaline Rush - 5",
 		"category": [
 			"Uncommon"
 		],
 		"region": "32 Embers"
 	},
 	{
-		"name": "Nimble Looting - 6",
+		"name": "Adrenaline Rush - 6",
 		"category": [
 			"Uncommon"
 		],
@@ -756,42 +798,42 @@
 		"region": "38 Embers"
 	},
 	{
-		"name": "Adrenaline Rush - 1",
+		"name": "Nimble Looting - 1",
 		"category": [
 			"Uncommon"
 		],
 		"region": "40 Embers"
 	},
 	{
-		"name": "Adrenaline Rush - 2",
+		"name": "Nimble Looting - 2",
 		"category": [
 			"Uncommon"
 		],
 		"region": "40 Embers"
 	},
 	{
-		"name": "Adrenaline Rush - 3",
+		"name": "Nimble Looting - 3",
 		"category": [
 			"Uncommon"
 		],
 		"region": "40 Embers"
 	},
 	{
-		"name": "Adrenaline Rush - 4",
+		"name": "Nimble Looting - 4",
 		"category": [
 			"Uncommon"
 		],
 		"region": "40 Embers"
 	},
 	{
-		"name": "Adrenaline Rush - 5",
+		"name": "Nimble Looting - 5",
 		"category": [
 			"Uncommon"
 		],
 		"region": "40 Embers"
 	},
 	{
-		"name": "Adrenaline Rush - 6",
+		"name": "Nimble Looting - 6",
 		"category": [
 			"Uncommon"
 		],
@@ -1050,6 +1092,48 @@
 		"region": "52 Embers"
 	},
 	{
+		"name": "Ambrosia - 1",
+		"category": [
+			"Rare"
+		],
+		"region": "54 Embers"
+	},
+	{
+		"name": "Ambrosia - 2",
+		"category": [
+			"Rare"
+		],
+		"region": "54 Embers"
+	},
+	{
+		"name": "Ambrosia - 3",
+		"category": [
+			"Rare"
+		],
+		"region": "54 Embers"
+	},
+	{
+		"name": "Ambrosia - 4",
+		"category": [
+			"Rare"
+		],
+		"region": "54 Embers"
+	},
+	{
+		"name": "Ambrosia - 5",
+		"category": [
+			"Rare"
+		],
+		"region": "54 Embers"
+	},
+	{
+		"name": "Ambrosia - 6",
+		"category": [
+			"Rare"
+		],
+		"region": "54 Embers"
+	},
+	{
 		"name": "Pirate's Booty - 1",
 		"category": [
 			"Rare"
@@ -1306,259 +1390,378 @@
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "20 Crowns"
 	},
 	{
 		"name": "Frozen Shard - 2",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "20 Crowns"
 	},
 	{
 		"name": "Frozen Shard - 3",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "20 Crowns"
 	},
 	{
 		"name": "Frozen Shard - 4",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "20 Crowns"
 	},
 	{
 		"name": "Frozen Shard - 5",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "20 Crowns"
 	},
 	{
 		"name": "Frozen Shard - 6",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "20 Crowns"
+	},
+	{
+		"name": "Pay to Win - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pay to Win - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pay to Win - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pay to Win - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pay to Win - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pay to Win - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pork Chop Power - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pork Chop Power - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pork Chop Power - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pork Chop Power - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pork Chop Power - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Pork Chop Power - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Tailor for Success - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Tailor for Success - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Tailor for Success - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Tailor for Success - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Tailor for Success - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Tailor for Success - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Last Stand - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Last Stand - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Last Stand - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Last Stand - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Last Stand - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Last Stand - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Suspicious Stew - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Suspicious Stew - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Suspicious Stew - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Suspicious Stew - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Suspicious Stew - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Suspicious Stew - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Mystery Item - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Mystery Item - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Mystery Item - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Mystery Item - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Mystery Item - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Mystery Item - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "4 Crowns"
+	},
+	{
+		"name": "Random Key - 1",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Random Key - 2",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Random Key - 3",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Random Key - 4",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Random Key - 5",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
+	},
+	{
+		"name": "Random Key - 6",
+		"category": [
+			"Crown Shop"
+		],
+		"region": "2 Crowns"
 	},
 	{
 		"name": "Dungeon Master Lackey - 1",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "8 Crowns"
 	},
 	{
 		"name": "Dungeon Master Lackey - 2",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "8 Crowns"
 	},
 	{
 		"name": "Dungeon Master Lackey - 3",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "8 Crowns"
 	},
 	{
 		"name": "Dungeon Master Lackey - 4",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "8 Crowns"
 	},
 	{
 		"name": "Dungeon Master Lackey - 5",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
+		"region": "8 Crowns"
 	},
 	{
 		"name": "Dungeon Master Lackey - 6",
 		"category": [
 			"Crown Shop"
 		],
-		"region": "Crown Shop"
-	},
-	{
-		"name": "1 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "16 Embers"
-	},
-	{
-		"name": "2 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "18 Embers"
-	},
-	{
-		"name": "3 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "20 Embers"
-	},
-	{
-		"name": "4 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "22 Embers"
-	},
-	{
-		"name": "5 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "24 Embers"
-	},
-	{
-		"name": "6 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "26 Embers"
-	},
-	{
-		"name": "7 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "28 Embers"
-	},
-	{
-		"name": "8 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "30 Embers"
-	},
-	{
-		"name": "10 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "32 Embers"
-	},
-	{
-		"name": "12 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "34 Embers"
-	},
-	{
-		"name": "14 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "36 Embers"
-	},
-	{
-		"name": "16 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "38 Embers"
-	},
-	{
-		"name": "18 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "40 Embers"
-	},
-	{
-		"name": "20 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "42 Embers"
-	},
-	{
-		"name": "22 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "44 Embers"
-	},
-	{
-		"name": "24 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "46 Embers"
-	},
-	{
-		"name": "27 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "48 Embers"
-	},
-	{
-		"name": "30 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "50 Embers"
-	},
-	{
-		"name": "33 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "52 Embers"
-	},
-	{
-		"name": "36 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "56 Embers"
-	},
-	{
-		"name": "39 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "58 Embers"
-	},
-	{
-		"name": "42 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "60 Embers"
-	},
-	{
-		"name": "45 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "62 Embers"
-	},
-	{
-		"name": "49 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "64 Embers"
-	},
-	{
-		"name": "53 Victory Tomes",
-		"category": [
-			"Victory Tomes"
-		],
-		"region": "66 Embers"
+		"region": "8 Crowns"
 	},
 	{
 		"name": "Enter the Hideout",

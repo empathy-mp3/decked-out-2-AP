@@ -1,32 +1,133 @@
 [
 	{
 		"name": "Stumble",
-		"count": 12,
+		"count": 0,
+		"category": [
+			"Ethereal",
+			"Bane"
+		],
 		"trap": true
 	},
 	{
 		"name": "Tactical Approach",
-		"count": 10,
+		"count": 15,
+		"category": [
+			"Ethereal",
+			"Crown Shop"
+		],
 		"useful": true
 	},
 	{
 		"name": "Pork Chop Power",
-		"count": 10,
+		"count": 15,
+		"category": [
+			"Ethereal",
+			"Crown Shop"
+		],
 		"useful": true
 	},
 	{
 		"name": "Dungeon Lackey",
-		"count": 10,
+		"count": 15,
+		"category": [
+			"Ethereal",
+			"Crown Shop"
+		],
 		"useful": true
 	},
 	{
 		"name": "Pay to Win",
-		"count": 10,
+		"count": 15,
+		"category": [
+			"Ethereal",
+			"Crown Shop"
+		],
+		"useful": true
+	},
+	{
+		"name": "Tailor for Success",
+		"count": 8,
+		"category": [
+			"Ethereal",
+			"Crown Shop"
+		],
+		"useful": true
+	},
+	{
+		"name": "Last Stand",
+		"count": 8,
+		"category": [
+			"Ethereal",
+			"Crown Shop"
+		],
+		"useful": true
+	},
+	{
+		"name": "Revelation",
+		"count": 5,
+		"category": [
+			"Ethereal"
+		],
+		"useful": true
+	},
+	{
+		"name": "Aquata Breather",
+		"count": 5,
+		"category": [
+			"Ethereal"
+		],
+		"useful": true
+	},
+	{
+		"name": "For the Worthy",
+		"count": 4,
+		"category": [
+			"Ethereal"
+		],
 		"useful": true
 	},
 	{
 		"name": "Eureka",
-		"count": 1,
+		"count": 2,
+		"category": [
+			"Ethereal"
+		],
+		"useful": true
+	},
+	{
+		"name": "The Caves of Carnage Key",
+		"count": 9,
+		"category": [
+			"Key",
+			"Crown Shop"
+		],
+		"useful": true
+	},
+	{
+		"name": "The Black Mines Key",
+		"count": 6,
+		"category": [
+			"Key",
+			"Crown Shop"
+		],
+		"useful": true
+	},
+	{
+		"name": "The Flooded Depths Key",
+		"count": 6,
+		"category": [
+			"Key",
+			"Crown Shop"
+		],
+		"useful": true
+	},
+	{
+		"name": "The Burning Dark Key",
+		"count": 6,
+		"category": [
+			"Key",
+			"Crown Shop"
+		],
 		"useful": true
 	},
 	{
@@ -333,6 +434,16 @@
 	},
 	{
 		"count": 1,
+		"name": "Ambrosia",
+		"category": [
+			"Card",
+			"Rare",
+			"Survival"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
 		"name": "Beast Master",
 		"category": [
 			"Card",
@@ -369,7 +480,8 @@
 			"Card",
 			"Legendary",
 			"Hazard Block",
-			"Clank Block"
+			"Clank Block",
+			"Level 2 Useful"
 		],
 		"progression": true
 	},

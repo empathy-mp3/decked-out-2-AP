@@ -1,23 +1,36 @@
-# Manual
+# Decked Out 2 Manual Randomizer Guide
 
-## What is a Manual game?
-A Manual game is a custom game that you've set an item list and location list for so that any game can be included in a multiworld game. You'll manually mark locations checked, and you'll manually restrict what items you use based on the items you've been sent. 
+## What is Decked Out 2, anyway?
+
+It's a Roguelike built entirely in survival minecraft. Check out [this video](https://youtu.be/aoVVCwx6k1w) to learn more.
 
 ## Where is the settings page?
-The player settings page for this game is located <a href="../player-settings">here</a>. It contains all the options
-you need to configure and export a config file.
+
+The .yaml file is included with the GitHub release.
 
 ## What does randomization do to this game?
-You specify your list of "items" and "locations", and Archipelago will randomize your items across your world and others, and items from this world and others into your locations. Essentially, anything you can use or that progresses your goal can be an item. Anything you can check can be a location. If multiple people are playing the same game as a Manual game, they can all have different items and locations.
+
+There are cards that help you stay alive in the dungeon for longer, and these are randomized. There are 6 locations corresponding to each card in the Frost Ember shop at the end of each run, and 6 locations corresponding to everything you can buy at the Crown Shop in the foyer. Once you buy something, check off all 6 corresponding locations, and throw away whatever it was you purchased.
+
+If you obtain an item, go into the Master Dungeon Locker on the far back of the foyer, and what you do with it depends on what it is:
+- If it is a Non-Ethereal card, you can put it into your deck before you start a run, but make sure there's only 40 cards in your deck at maximum. You can use the helpful Card Counter to make sure it's within limits! You can store the unused ones in your Ender Chest (though please throw out the cards that start in your ender chest).
+- If it is an Ethereal card, but *not* a Stumble card, you can put it into your deck when you please, but it will be consumed on use, so plan when you use them!
+- If it is a Stumble (a trap), you *must* put it into your deck in your next run, and if you already have 40 cards, some of them will have to be temporarily removed. Just, please still try in spite of having a very clear temporary disadvantage
+- If it is a Key, you can enter the dungeon with it in your inventory, but like Ethereal cards, they will be consumed, so use them wisely.
+
+## Some random notes
+
+- Get rid of everything that's in your ender chest by default.
+- The pancake that spawns at the start of each run is for making sure you're topped off on food at the start of the run, not for bringing into the dungeon. If you're full on hunger, ignore it.
+- The game doesn't start if you have an empty deck, and breaks if you have a deck with only Ethereal cards. If you have no cards, put a Sneak into your deck, temporarily, until you get any non-Ethereal cards. It should happen relatively quickly, unless you're playing in a really cursed async.
+- I recommend that you use 50% filler items replaced by traps (or more). There's a lot of very useful items not accounted for in logic because they're Ethereal.
 
 ## What is the goal of a Manual game when randomized?
-The goal is to achieve a "Victory" condition, which is available in the location list in the client. What that Victory condition is... is up to you! It can be beating the game, beating a subset of the game, checking all locations, race to get to an important objective, etc.
+
+The goal is to make it down to **The Burning Dark** (Level 4), obtain **The Bomb** that spawns in the towers around the level, and bring it to the giant gateway, and put it in the barrel, go in, and push the button to open **The Hideout**, and, in the same run, you need to have obtained a **The Master's Key** artifact from Level 4 (Deepfrost difficulty). Once you've done both of those things, go to the flat structure nearby the gateway, and quickly run through the gap in the side of it (across the pressuren plate), while burning on the magma blocks. There should be a hole to fall down (if there's too small a gap to fit through, you weren't fast enough), and from there you put the master's key into the barrel, and proceed into the hideout. Once you've done that, you've won!
+
+It's a really hard goal, and I might add more difficult goals in the future.
 
 ## Which items can be in another player's world?
-All of the items that you specify in your item list can be in another player's world.
 
-## What if I have items, unlocks, or locations that I'd like to not have randomized?
-It's all manual. Just exclude them from either the item or location list. 
-
-## How do I install the mod for a Manual game?
-You don't. There is no mod. The tasks of marking locations as checked and limiting your items used based on items received is all performed by you (the player) while using the Manual client and its accompanying tracker.
+Cards and Keys.
