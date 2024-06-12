@@ -37,7 +37,8 @@
 	{
 		"name": "Sneak - 6",
 		"category": [
-			"Common"
+			"Common",
+			"6th Locations"
 		],
 		"region": "10 Embers"
 	},
@@ -79,7 +80,8 @@
 	{
 		"name": "Stability - 6",
 		"category": [
-			"Common"
+			"Common",
+			"6th Locations"
 		],
 		"region": "10 Embers"
 	},
@@ -121,7 +123,8 @@
 	{
 		"name": "Treasure Hunter - 6",
 		"category": [
-			"Common"
+			"Common",
+			"6th Locations"
 		],
 		"region": "10 Embers"
 	},
@@ -163,7 +166,8 @@
 	{
 		"name": "Ember Seeker - 6",
 		"category": [
-			"Common"
+			"Common",
+			"6th Locations"
 		],
 		"region": "10 Embers"
 	},
@@ -205,7 +209,8 @@
 	{
 		"name": "Moment of Clarity - 6",
 		"category": [
-			"Common"
+			"Common",
+			"6th Locations"
 		],
 		"region": "10 Embers"
 	},
@@ -247,7 +252,8 @@
 	{
 		"name": "Evasion - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "16 Embers"
 	},
@@ -289,7 +295,8 @@
 	{
 		"name": "Tread Lightly - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "18 Embers"
 	},
@@ -331,7 +338,8 @@
 	{
 		"name": "Loot & Scoot - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "20 Embers"
 	},
@@ -373,7 +381,8 @@
 	{
 		"name": "Frost Focus - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "20 Embers"
 	},
@@ -415,7 +424,8 @@
 	{
 		"name": "Revelation - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "12 Embers"
 	},
@@ -457,7 +467,8 @@
 	{
 		"name": "Beast Sense - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "22 Embers"
 	},
@@ -499,7 +510,8 @@
 	{
 		"name": "Second Wind - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "24 Embers"
 	},
@@ -541,7 +553,8 @@
 	{
 		"name": "Bounding Strides - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "26 Embers"
 	},
@@ -583,7 +596,8 @@
 	{
 		"name": "Reckless Charge - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "28 Embers"
 	},
@@ -625,7 +639,8 @@
 	{
 		"name": "Sprint - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "30 Embers"
 	},
@@ -667,7 +682,8 @@
 	{
 		"name": "Adrenaline Rush - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "32 Embers"
 	},
@@ -709,7 +725,8 @@
 	{
 		"name": "Smash & Grab - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "34 Embers"
 	},
@@ -751,7 +768,8 @@
 	{
 		"name": "Quickstep - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "36 Embers"
 	},
@@ -793,7 +811,8 @@
 	{
 		"name": "Suit Up - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "38 Embers"
 	},
@@ -835,7 +854,8 @@
 	{
 		"name": "Nimble Looting - 6",
 		"category": [
-			"Uncommon"
+			"Uncommon",
+			"6th Locations"
 		],
 		"region": "40 Embers"
 	},
@@ -877,7 +897,8 @@
 	{
 		"name": "Eerie Silence - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "42 Embers"
 	},
@@ -919,7 +940,8 @@
 	{
 		"name": "Dungeon Repairs - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "44 Embers"
 	},
@@ -961,7 +983,8 @@
 	{
 		"name": "Swagger - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "46 Embers"
 	},
@@ -1003,7 +1026,8 @@
 	{
 		"name": "Chill Step - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "48 Embers"
 	},
@@ -1045,7 +1069,8 @@
 	{
 		"name": "Speed Runner - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "50 Embers"
 	},
@@ -1087,7 +1112,8 @@
 	{
 		"name": "Eyes on the Prize - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "52 Embers"
 	},
@@ -1129,7 +1155,8 @@
 	{
 		"name": "Ambrosia - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "54 Embers"
 	},
@@ -1171,7 +1198,8 @@
 	{
 		"name": "Pirate's Booty - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "56 Embers"
 	},
@@ -1213,7 +1241,8 @@
 	{
 		"name": "Cold Snap - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "58 Embers"
 	},
@@ -1255,7 +1284,8 @@
 	{
 		"name": "Silent Runner - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "60 Embers"
 	},
@@ -1297,7 +1327,8 @@
 	{
 		"name": "Fuzzy Bunny Slippers - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "62 Embers"
 	},
@@ -1339,7 +1370,8 @@
 	{
 		"name": "Deepfrost - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "64 Embers"
 	},
@@ -1381,9 +1413,353 @@
 	{
 		"name": "Brilliance - 6",
 		"category": [
-			"Rare"
+			"Rare",
+			"6th Locations"
 		],
 		"region": "66 Embers"
+	},
+	{
+		"name": "Eureka - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Eureka"
+	},
+	{
+		"name": "Eureka - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Eureka"
+	},
+	{
+		"name": "Eureka - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Eureka"
+	},
+	{
+		"name": "Eureka - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Eureka"
+	},
+	{
+		"name": "Eureka - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Eureka"
+	},
+	{
+		"name": "Eureka - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Eureka"
+	},
+	{
+		"name": "Avalanche - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Avalanche"
+	},
+	{
+		"name": "Avalanche - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Avalanche"
+	},
+	{
+		"name": "Avalanche - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Avalanche"
+	},
+	{
+		"name": "Avalanche - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Avalanche"
+	},
+	{
+		"name": "Avalanche - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Avalanche"
+	},
+	{
+		"name": "Avalanche - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Avalanche"
+	},
+	{
+		"name": "Cash Cow - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Cash Cow"
+	},
+	{
+		"name": "Cash Cow - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Cash Cow"
+	},
+	{
+		"name": "Cash Cow - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Cash Cow"
+	},
+	{
+		"name": "Cash Cow - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Cash Cow"
+	},
+	{
+		"name": "Cash Cow - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Cash Cow"
+	},
+	{
+		"name": "Cash Cow - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Cash Cow"
+	},
+	{
+		"name": "Beast Master - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Beast Master"
+	},
+	{
+		"name": "Beast Master - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Beast Master"
+	},
+	{
+		"name": "Beast Master - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Beast Master"
+	},
+	{
+		"name": "Beast Master - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Beast Master"
+	},
+	{
+		"name": "Beast Master - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Beast Master"
+	},
+	{
+		"name": "Beast Master - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Beast Master"
+	},
+	{
+		"name": "Boots of Swiftness - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Boots of Swiftness"
+	},
+	{
+		"name": "Boots of Swiftness - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Boots of Swiftness"
+	},
+	{
+		"name": "Boots of Swiftness - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Boots of Swiftness"
+	},
+	{
+		"name": "Boots of Swiftness - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Boots of Swiftness"
+	},
+	{
+		"name": "Boots of Swiftness - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Boots of Swiftness"
+	},
+	{
+		"name": "Boots of Swiftness - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Boots of Swiftness"
+	},
+	{
+		"name": "Glorious Moment - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Glorious Moment"
+	},
+	{
+		"name": "Glorious Moment - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Glorious Moment"
+	},
+	{
+		"name": "Glorious Moment - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Glorious Moment"
+	},
+	{
+		"name": "Glorious Moment - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Glorious Moment"
+	},
+	{
+		"name": "Glorious Moment - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Glorious Moment"
+	},
+	{
+		"name": "Glorious Moment - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Glorious Moment"
+	},
+	{
+		"name": "Enlightenment - 1",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Enlightenment"
+	},
+	{
+		"name": "Enlightenment - 2",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Enlightenment"
+	},
+	{
+		"name": "Enlightenment - 3",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Enlightenment"
+	},
+	{
+		"name": "Enlightenment - 4",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Enlightenment"
+	},
+	{
+		"name": "Enlightenment - 5",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations"
+		],
+		"region": "Enlightenment"
+	},
+	{
+		"name": "Enlightenment - 6",
+		"category": [
+			"Legendary",
+			"Legendary Card Locations",
+			"6th Locations"
+		],
+		"region": "Enlightenment"
 	},
 	{
 		"name": "Frozen Shard - 1",
@@ -1423,7 +1799,8 @@
 	{
 		"name": "Frozen Shard - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "20 Crowns"
 	},
@@ -1465,7 +1842,8 @@
 	{
 		"name": "Pay to Win - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "2 Crowns"
 	},
@@ -1507,7 +1885,8 @@
 	{
 		"name": "Pork Chop Power - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "2 Crowns"
 	},
@@ -1549,7 +1928,8 @@
 	{
 		"name": "Tailor for Success - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "4 Crowns"
 	},
@@ -1591,7 +1971,8 @@
 	{
 		"name": "Last Stand - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "4 Crowns"
 	},
@@ -1633,7 +2014,8 @@
 	{
 		"name": "Suspicious Stew - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "2 Crowns"
 	},
@@ -1675,7 +2057,8 @@
 	{
 		"name": "Mystery Item - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "4 Crowns"
 	},
@@ -1717,7 +2100,8 @@
 	{
 		"name": "Random Key - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "2 Crowns"
 	},
@@ -1759,7 +2143,8 @@
 	{
 		"name": "Dungeon Master Lackey - 6",
 		"category": [
-			"Crown Shop"
+			"Crown Shop",
+			"6th Locations"
 		],
 		"region": "8 Crowns"
 	},

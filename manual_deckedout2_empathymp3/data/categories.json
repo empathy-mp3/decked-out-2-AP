@@ -25,5 +25,20 @@
     },
     "Level 3 Useful": {
         "hidden": true
+    },
+    "Legendary Card Locations": {
+        "hidden": true,
+        "yaml_option": [
+            "Enable_Legendary_Card_Locations"
+        ]
+    },
+    "6th Locations": {
+        "hidden": true,
+        "yaml_option": [
+            "Enabled_Sixth_Locations"
+        ]
+    },
+    "5th Locations": {
+        "hidden": true
     }
 }

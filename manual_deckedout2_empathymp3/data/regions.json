@@ -102,19 +102,19 @@
 		"connects_to": [
 			"44 Embers"
 		],
-		"requires": "(((|@Clank Block:5| and (|Silent Runner| and (|@Speed:2| or |Sprint| or |Boots of Swiftness|)) or (|Evasion| and |Eerie Silence|) or |Eerie Silence:2| or |Fuzzy Bunny Slippers|)) and ((|@Hazard Block:5| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:32|"
+		"requires": "(((|@Clank Block:5| and (|Silent Runner| and (|@Speed:2| or |Sprint| or |Boots of Swiftness|)) or (|Evasion| and |Eerie Silence|) or |Eerie Silence:2| or |Fuzzy Bunny Slippers|)) and ((|@Hazard Block:5| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:33|"
 	},
 	"44 Embers": {
 		"connects_to": [
 			"46 Embers"
 		],
-		"requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:5| and |Bounding Strides:3|) or (((|@Treasure:2| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:3|) or (|@Frost Ember:4| and (|@Level 2 Useful| or |Avalanche| or |Frost Focus| or |Swagger| or |Reckless Charge|))) or ((|@Treasure:2| or |Cash Cow|) and ((|Chill Step:2| and |Sneak:4|) or (|@Frost Ember:4| and |Avalanche|) or (|@Frost Ember:7| and (|@Level 2 Useful| or |Avalanche| or |Frost Focus| or |Swagger| or |Reckless Charge|))) and |@Card:34|"
+		"requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:5| and |Bounding Strides:3|) or (((|@Treasure:2| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:3|) or (|@Frost Ember:4| and (|@Level 2 Useful| or |Avalanche| or |Frost Focus| or |Swagger| or |Reckless Charge|))) or ((|@Treasure:2| or |Cash Cow|) and ((|Chill Step:2| and |Sneak:4|) or (|@Frost Ember:4| and |Avalanche|) or (|@Frost Ember:7| and (|@Level 2 Useful| or |Avalanche| or |Frost Focus| or |Swagger| or |Reckless Charge|))) and |@Card:35|"
 	},
 	"46 Embers": {
 		"connects_to": [
 			"48 Embers"
 		],
-		"requires": "(|@Uncommon:17| or |@Rare:5| or (|@Rare:2| and |@Legendary|)) and |@Card:35|"
+		"requires": "(|@Uncommon:17| or |@Rare:5| or (|@Rare:2| and |@Legendary|)) and |@Card:37|"
 	},
 	"48 Embers": {
 		"connects_to": [
@@ -126,19 +126,19 @@
 		"connects_to": [
 			"52 Embers"
 		],
-		"requires": "(((|@Clank Block:6| and (|Silent Runner| and (|@Speed:3| or |Sprint:2| or |Boots of Swiftness|)) or (|Evasion:2| and |Eerie Silence|) or |Eerie Silence:2| or (|Fuzzy Bunny Slippers| and (|Evasion| or |Eerie Silence|)))) and ((|@Hazard Block:6| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:36|"
+		"requires": "(((|@Clank Block:6| and (|Silent Runner| and (|@Speed:3| or |Sprint:2| or |Boots of Swiftness|)) or (|Evasion:2| and |Eerie Silence|) or |Eerie Silence:2| or (|Fuzzy Bunny Slippers| and (|Evasion| or |Eerie Silence|)))) and ((|@Hazard Block:6| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:40|"
 	},
 	"52 Embers": {
 		"connects_to": [
 			"54 Embers"
 		],
-		"requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:7| and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|))) or (((|@Treasure:4| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |Boots of Swiftness| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:5|) or (|@Frost Ember:6| and (|@Level 2 Useful| or |Frost Focus| or |Swagger| or |Avalanche| or |Reckless Charge|))) or (|@Treasure:3| and (|Loot & Scoot| or |Cash Cow| or |Swagger| or |Smash & Grab| or |@Level 3 Useful|) and ((|Chill Step| and |Sneak:5|) or (|@Frost Ember:5| and |Avalanche|) or (|@Frost Ember:9| and (|@Level 2 Useful| or |Swagger| or |Reckless Charge|))) and |@Card:37|"
+		"requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:7| and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|))) or (((|@Treasure:4| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |Boots of Swiftness| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:5|) or (|@Frost Ember:6| and (|@Level 2 Useful| or |Frost Focus| or |Swagger| or |Avalanche| or |Reckless Charge|))) or (|@Treasure:3| and (|Loot & Scoot| or |Cash Cow| or |Swagger| or |Smash & Grab| or |@Level 3 Useful|) and ((|Chill Step| and |Sneak:5|) or (|@Frost Ember:5| and |Avalanche|) or (|@Frost Ember:9| and (|@Level 2 Useful| or |Swagger| or |Reckless Charge|)))"
 	},
 	"54 Embers": {
 		"connects_to": [
 			"56 Embers"
 		],
-		"requires": "(|@Uncommon:22| or |@Rare:6| or (|@Rare:3| and |@Legendary|)) and |@Card:39|"
+		"requires": "(|@Uncommon:22| or |@Rare:6| or (|@Rare:3| and |@Legendary|))"
 	},
 	"56 Embers": {
 		"connects_to": [
@@ -146,7 +146,7 @@
 			"Avalanche",
 			"Enlightenment"
 		],
-		"requires": "(((|@Clank Block:7| and (|Silent Runner| and (|@Speed:4| or (|@Speed:3| and |Sprint|) or |Sprint:2| or (|@Speed:2| and |Boots of Swiftness|))) or (|Evasion:3| and |Eerie Silence:2|) or |Eerie Silence:3| or (|Fuzzy Bunny Slippers| and (|Evasion:3| or |Eerie Silence:2|)))) and ((|@Hazard Block:7| and ((|Tread Lightly:2| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:3|) and |@Card:40|"
+		"requires": "(((|@Clank Block:7| and (|Silent Runner| and (|@Speed:4| or (|@Speed:3| and |Sprint|) or |Sprint:2| or (|@Speed:2| and |Boots of Swiftness|))) or (|Evasion:3| and |Eerie Silence:2|) or |Eerie Silence:3| or (|Fuzzy Bunny Slippers| and (|Evasion:3| or |Eerie Silence:2|)))) and ((|@Hazard Block:7| and ((|Tread Lightly:2| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:3|)"
 	},
 	"58 Embers": {
 		"connects_to": [
@@ -176,51 +176,51 @@
 		"requires": "(|Bounding Strides:3| and |@Speed:2|) or (|Bounding Strides:2| and |@Speed:4|) or (|@Speed:6| and |Bounding Strides|) or (|@Speed:2| and |Bounding Strides| and |Boots of Swiftness|)"
 	},
 	"win": {
-		"requires": "((|Bounding Strides:3| and |@Speed:2|) or (|Bounding Strides:2| and |@Speed:4|) or (|Bounding Strides| and |@Speed:6|) or (|@Speed:2| and |Bounding Strides| and |Boots of Swiftness|)) and (|@Uncommon:32| or (|@Uncommon:22| and |@Rare:7|) or |@Rare:13| or (|@Rare:7| and |@Legendary|) or (|@Rare:3| and |@Legendary:2|) or |@Legendary:3|) and |@Clank Block:8| and |@Hazard Block:8| and (|@Treasure:8| or (|@Treasure:6| and |Cash Cow|)) and (|Second Wind:2| or |Ambrosia| or |Enlightenment|) and |@Card:40|"
+		"requires": "((|Bounding Strides:3| and |@Speed:3|) or (|Bounding Strides:2| and |@Speed:6|) or (|@Speed:3| and |Bounding Strides| and |Boots of Swiftness|)) and (|@Uncommon:36| or (|@Uncommon:24| and |@Rare:11|) or |@Rare:17| or (|@Rare:15| and |@Legendary|) or (|@Rare:13| and |@Legendary:2|) or (|@Rare:11| and |@Legendary:3|) or (|@Rare:9| and |@Legendary:4|) or (|@Rare:7| and |@Legendary:5|) or (|@Rare:5| and |@Legendary:6|)) and |@Clank Block:10| and |@Hazard Block:10| and (|@Treasure:8| or (|@Treasure:6| and |Cash Cow|)) and (|Second Wind:2| or |Ambrosia| or |Enlightenment|) and |@Card:40|"
 	},
 	"1 Crown": {
-		"requires": "|@Treasure:2| or |Loot & Scoot| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:5|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
+		"requires": "|@Treasure:2| or |Loot & Scoot| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
 		"connects_to": [
 			"2 Crowns"
 		]
 	},
 	"2 Crowns": {
-		"requires": "|@Treasure:3| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:5|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
+		"requires": "|@Treasure:3| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
 		"connects_to": [
 			"4 Crowns"
 		]
 	},
 	"4 Crowns": {
-		"requires": "|@Treasure:4| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:8|) or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|",
+		"requires": "|@Treasure:4| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:13|) or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|",
 		"connects_to": [
 			"8 Crowns"
 		]
 	},
 	"8 Crowns": {
-		"requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:20|)"
+		"requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:24|)"
 	},
 	"20 Crowns": {
-		"requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:37|)"
+		"requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)"
 	},
 	"Eureka": {
-		"requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:20|)"
+		"requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:26|)"
 	},
 	"Avalanche": {
-		"requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:33|)"
+		"requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:38|)"
 	},
 	"Cash Cow": {
-		"requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:37|)"
+		"requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)"
 	},
 	"Beast Master": {
-		"requires": "(|@Treasure:7| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:30|)"
+		"requires": "(|@Treasure:7| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:33|)"
 	},
 	"Boots of Swiftness": {
-		"requires": "((|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:37|)) and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))"
+		"requires": "((|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)) and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))"
 	},
 	"Glorious Moment": {
-		"requires": "((|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:37|)) and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))"
+		"requires": "((|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)) and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))"
 	},
 	"Enlightenment": {
-		"requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:33|)"
+		"requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:38|)"
 	}
 }
