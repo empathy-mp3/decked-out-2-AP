@@ -39,3 +39,8 @@ Manual_DeckedOut2_empathymp3:
     # Should there be 6 locations for each purchase, or 5?
     false: 0
     true: 50
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    false: 50
+    true: 0

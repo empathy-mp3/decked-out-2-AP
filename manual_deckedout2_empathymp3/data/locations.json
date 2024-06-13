@@ -2152,8 +2152,5 @@
 		"name": "Enter the Hideout",
 		"region": "win",
 		"victory": true
-	},
-	{
-		"name": "__Manual Game Complete__"
 	}
 ]

@@ -10,7 +10,7 @@ The .yaml file is included with the GitHub release.
 
 ## What does randomization do to this game?
 
-There are cards that help you stay alive in the dungeon for longer, and these are randomized. There are 6 locations corresponding to each card in the Frost Ember shop at the end of each run, and 4/5/6 locations corresponding to everything you can buy at the Crown Shop in the foyer. Once you buy something, check off all 6 corresponding locations, and throw away whatever it was you purchased.
+There are cards that help you stay alive in the dungeon for longer, and these are randomized. There are 6 locations corresponding to each card in the Frost Ember shop at the end of each run, and 5 or 6 locations corresponding to everything you can buy at the Crown Shop in the foyer. Once you buy something, check off all 6 corresponding locations, and throw away whatever it was you purchased.
 
 You can also buy more Ethereal cards and Crown Shop items after you get their locations (so that you have *something* to do with spare crowns and embers). Just don't keep any cards that aren't Ethereal.
 
