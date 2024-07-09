@@ -29,13 +29,13 @@
     "Legendary Card Locations": {
         "hidden": true,
         "yaml_option": [
-            "Enable_Legendary_Card_Locations"
+            "Legendary_Card_Locations"
         ]
     },
     "6th Locations": {
         "hidden": true,
         "yaml_option": [
-            "Enabled_Sixth_Locations"
+            "Sixth_Locations"
         ]
     },
     "5th Locations": {

@@ -5,37 +5,72 @@ description: Default Manual_DeckedOut2_mp3 Template
 
 game: Manual_DeckedOut2_mp3
 requires:
-  version: 0.4.6 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_DeckedOut2_mp3:
-  progression_balancing:
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
-    normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+  # Game Options
+  progression_balancing: 50
 
-  accessibility:
-    locations: 0
-    items: 50
-    minimal: 0
+  accessibility: 50
+
+  Legendary_Card_Locations:
+    # Should there be locations for the Legendary Cards (which are much harder to get, but a lot more interesting, logic-wise!)
+    # Don't disable both this and Sixth_Locations.
+    'false': 50
+    'true': 0
+
+  Sixth_Locations:
+    # Should there be 6 locations for each purchase, or 5?
+    # Don't disable both this and Legendary_Card_Locations.
+    'false': 50
+    'true': 0
 
   filler_traps:
-    # What percentage of Moments of Clarity should be replaced by Stumbles?
+    # What percentage of Moments of Clarity (filler) should be replaced by Stumbles (traps)?
+    # 0 means no Stumbles, 100 means all Moments of Clarity are replaced with Stumbles.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
     0: 50
     random: 0
     random-low: 0
     random-high: 0
-#
-# For the next 2 options, don't disable both.
-#
-  Enable_Legendary_Card_Locations:
-    # Should there be locations for the Legendary Cards (which are much harder to get, but a lot more interesting, logic-wise!)
-    false: 0
-    true: 50
 
-  Enabled_Sixth_Locations:
-    # Should there be 6 locations for each purchase, or 5?
-    false: 0
-    true: 50
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    'false': 50
+    'true': 0
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
