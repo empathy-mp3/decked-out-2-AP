@@ -1,0 +1,226 @@
+{
+    "10 Embers": {
+        "connects_to": [
+            "12 Embers",
+            "2 Crowns",
+            "win"
+        ],
+        "starting": true,
+        "requires": []
+    },
+    "12 Embers": {
+        "connects_to": [
+            "16 Embers"
+        ],
+        "requires": "|@Card|"
+    },
+    "16 Embers": {
+        "connects_to": [
+            "18 Embers"
+        ],
+        "requires": "(((|@Clank Block:2| or (|Silent Runner| and |@Speed|)) and |@Hazard Block:1|) or (|@Frost Ember:2| or |Swagger| or (|Chill Step| and |Sneak:2|)) or |@Survival|) or |@Legendary| and |@Card:3|"
+    },
+    "18 Embers": {
+        "connects_to": [
+            "20 Embers"
+        ],
+        "requires": "|@Card:4|"
+    },
+    "20 Embers": {
+        "connects_to": [
+            "22 Embers"
+        ],
+        "requires": "(((|@Clank Block:2| or (|Silent Runner| and (|@Speed:2| or |Boots of Swiftness|)) or |Evasion| or |Eerie Silence| or (|@Clank Block| and |@Survival|) or |Enlightenment| or |Glorious Moment|) and (|@Hazard Block:2| or |Tread Lightly| or |Dungeon Repairs| or |Bounding Strides| or |Boots of Swiftness| or (|@Hazard Block:1| and |@Survival|) or |Enlightenment| or |Glorious Moment|) and (|@Treasure| or |Bounding Strides| or |Boots of Swiftness| or (|Chill Step| and |Sneak|))) or |@Frost Ember:3| or (|@Frost Ember:2| and (|Swagger| or |Avalanche| or |Frost Focus| or |Reckless Charge|)) or (|Chill Step| and (|Sneak:3| or (|Sneak:2| and |@Frost Ember|)))) and |@Card:7|"
+    },
+    "22 Embers": {
+        "connects_to": [
+            "24 Embers"
+        ],
+        "requires": "(((|@Clank Block:3| or (|Silent Runner| and (|@Speed:3| or |Boots of Swiftness|)) or (|@Clank Block:2| and |Evasion|) or |Eerie Silence|) or (|@Clank Block:2| and |@Survival|)) and (|@Hazard Block:3| or (|@Hazard Block:2| and |Tread Lightly|) or |Dungeon Repairs| or |@Survival| or |Bounding Strides|) and (|@Treasure:2| or |Swagger| or |Smash & Grab| or |Bounding Strides| or |Cash Cow|) and (|@Frost Ember| or (|Chill Step| and |Sneak|) or |@Level 2 Useful|)) or |@Frost Ember:5| or (|@Frost Ember:4| and (|Swagger| or |Frost Focus| or |Avalanche| or |Reckless Charge|)) or (|Chill Step:2| and (|Sneak:4| or (|Sneak:3| and |@Frost Ember|) or (|Sneak:2| and (|@Frost Ember:2| or |Avalanche|)))) and |@Card:11|"
+    },
+    "24 Embers": {
+        "connects_to": [
+            "26 Embers"
+        ],
+        "requires": "(|@Treasure:3| or (|@Treasure:2| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |Bounding Strides| or |Boots of Swiftness|))) or (|@Frost Ember:2| or (|Chill Step| and |Sneak:2|) or |@Level 2 Useful| or (|Swagger| or |Frost Focus| or |Avalanche| or |Reckless Charge|)) and (|@Uncommon| or |@Rare| or |@Legendary|) and |@Card:14|"
+    },
+    "26 Embers": {
+        "connects_to": [
+            "28 Embers"
+        ],
+        "requires": "(((|@Clank Block:4| or (|Silent Runner| and (|@Speed:3| or |Boots of Swiftness|)) or (|@Clank Block:3| and |Evasion|) or (|@Clank Block:2| and |Eerie Silence|))) and (|@Hazard Block:4| or (|@Hazard Block:3| and (|Tread Lightly| or |Bounding Strides|)) or (|@Hazard Block:2| and |Dungeon Repairs|)) and |@Card:16|"
+    },
+    "28 Embers": {
+        "connects_to": [
+            "30 Embers"
+        ],
+        "requires": "(|@Treasure:5| or (|@Treasure:3| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |Bounding Strides| or |Boots of Swiftness|))) or (|@Frost Ember:7| or (|Chill Step:2| and |Sneak:5|) or (|@Frost Ember:6| and |Frost Focus|) or (|@Frost Ember:4| and (|@Level 2 Useful| or |Swagger| or |Reckless Charge| or |Avalanche|)) and (|@Uncommon:4| or |@Rare| or |@Legendary|) and |@Card:19|"
+    },
+    "30 Embers": {
+        "connects_to": [
+            "32 Embers"
+        ],
+        "requires": "((((|@Clank Block:3| and |Silent Runner| and ((|@Speed:3| and (|Sprint| or |Quickstep|)) or |Boots of Swiftness|)) or (|@Clank Block:4| and |Evasion:2|) or (|@Clank Block:3| and |Eerie Silence| and |Eerie Silence|) or (|@Clank Block:3| and |Eerie Silence:2|) or (|@Clank Block:3| and |Fuzzy Bunny Slippers|))) and ((|@Hazard Block:4| and (|Tread Lightly:2| or |Bounding Strides| or (|Tread Lightly| and |Dungeon Repairs|)) or (|@Hazard Block:3| and |Dungeon Repairs:2|) and |@Card:21|"
+    },
+    "32 Embers": {
+        "connects_to": [
+            "34 Embers"
+        ],
+        "requires": "(|@Treasure:3| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |Bounding Strides| or |Boots of Swiftness| or |@Level 3 Useful|)) or (((|@Treasure:2| and (|Swagger| or |Smash & Grab| or |Bounding Strides| or |Cash Cow| or |Boots of Swiftness| or |@Level 3 Useful|))) and ((|Chill Step| and |Sneak:2|) or (|@Frost Ember:2| and (|@Level 2 Useful| or |Frost Focus| or |Avalanche| or |Swagger| or |Reckless Charge|))) and (|@Uncommon:4| or |@Rare:2| or |@Legendary|) and |@Card:23|"
+    },
+    "34 Embers": {
+        "connects_to": [
+            "36 Embers"
+        ],
+        "requires": "(|@Uncommon:8| or |@Rare:3| or |@Legendary|) and |@Card:26|"
+    },
+    "36 Embers": {
+        "connects_to": [
+            "38 Embers"
+        ],
+        "requires": "(((|@Clank Block:4| and (|Silent Runner| and ((|Sprint| or |Quickstep|) or |Boots of Swiftness|)) or (|Evasion| and |Eerie Silence|) or |Eerie Silence:2| or |Fuzzy Bunny Slippers|)) and ((|@Hazard Block:4| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:27|"
+    },
+    "38 Embers": {
+        "connects_to": [
+            "40 Embers"
+        ],
+        "requires": "(|@Treasure:4| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:3| and (|Bounding Strides:2| or |Boots of Swiftness|)) or (((|@Treasure:2| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |Boots of Swiftness| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:2|) or (|@Frost Ember:2| and (|@Level 2 Useful| or |Frost Focus| or |Avalanche| or |Swagger| or |Reckless Charge|))) and |@Card:29|"
+    },
+    "40 Embers": {
+        "connects_to": [
+            "42 Embers",
+            "Eureka",
+            "Cash Cow",
+            "Beast Master",
+            "Boots of Swiftness",
+            "Glorious Moment",
+            "20 Crowns"
+        ],
+        "requires": "(|@Uncommon:12| or |@Rare:4| or (|@Rare| and |@Legendary|)) and |@Card:31|"
+    },
+    "42 Embers": {
+        "connects_to": [
+            "44 Embers"
+        ],
+        "requires": "(((|@Clank Block:5| and (|Silent Runner| and (|@Speed:2| or |Sprint| or |Boots of Swiftness|)) or (|Evasion| and |Eerie Silence|) or |Eerie Silence:2| or |Fuzzy Bunny Slippers|)) and ((|@Hazard Block:5| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:33|"
+    },
+    "44 Embers": {
+        "connects_to": [
+            "46 Embers"
+        ],
+        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:5| and |Bounding Strides:3|) or (((|@Treasure:2| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:3|) or (|@Frost Ember:4| and (|@Level 2 Useful| or |Avalanche| or |Frost Focus| or |Swagger| or |Reckless Charge|))) or ((|@Treasure:2| or |Cash Cow|) and ((|Chill Step:2| and |Sneak:4|) or (|@Frost Ember:4| and |Avalanche|) or (|@Frost Ember:7| and (|@Level 2 Useful| or |Avalanche| or |Frost Focus| or |Swagger| or |Reckless Charge|))) and |@Card:35|"
+    },
+    "46 Embers": {
+        "connects_to": [
+            "48 Embers"
+        ],
+        "requires": "(|@Uncommon:17| or |@Rare:5| or (|@Rare:2| and |@Legendary|)) and |@Card:37|"
+    },
+    "48 Embers": {
+        "connects_to": [
+            "50 Embers"
+        ],
+        "requires": "|Eyes on the Prize| or |@Rare:9| or |@Legendary:4|"
+    },
+    "50 Embers": {
+        "connects_to": [
+            "52 Embers"
+        ],
+        "requires": "(((|@Clank Block:6| and (|Silent Runner| and (|@Speed:3| or |Sprint:2| or |Boots of Swiftness|)) or (|Evasion:2| and |Eerie Silence|) or |Eerie Silence:2| or (|Fuzzy Bunny Slippers| and (|Evasion| or |Eerie Silence|)))) and ((|@Hazard Block:6| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:40|"
+    },
+    "52 Embers": {
+        "connects_to": [
+            "54 Embers"
+        ],
+        "requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:7| and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|))) or (((|@Treasure:4| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |Boots of Swiftness| or |@Level 3 Useful|))) and ((|Chill Step:2| and |Sneak:5|) or (|@Frost Ember:6| and (|@Level 2 Useful| or |Frost Focus| or |Swagger| or |Avalanche| or |Reckless Charge|))) or (|@Treasure:3| and (|Loot & Scoot| or |Cash Cow| or |Swagger| or |Smash & Grab| or |@Level 3 Useful|) and ((|Chill Step| and |Sneak:5|) or (|@Frost Ember:5| and |Avalanche|) or (|@Frost Ember:9| and (|@Level 2 Useful| or |Swagger| or |Reckless Charge|)))"
+    },
+    "54 Embers": {
+        "connects_to": [
+            "56 Embers"
+        ],
+        "requires": "(|@Uncommon:22| or |@Rare:6| or (|@Rare:3| and |@Legendary|))"
+    },
+    "56 Embers": {
+        "connects_to": [
+            "58 Embers",
+            "Avalanche",
+            "Enlightenment"
+        ],
+        "requires": "(((|@Clank Block:7| and (|Silent Runner| and (|@Speed:4| or (|@Speed:3| and |Sprint|) or |Sprint:2| or (|@Speed:2| and |Boots of Swiftness|))) or (|Evasion:3| and |Eerie Silence:2|) or |Eerie Silence:3| or (|Fuzzy Bunny Slippers| and (|Evasion:3| or |Eerie Silence:2|)))) and ((|@Hazard Block:7| and ((|Tread Lightly:2| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:3|)"
+    },
+    "58 Embers": {
+        "connects_to": [
+            "60 Embers"
+        ],
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or |@Level 3 Useful|)) or (|@Treasure:8| and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|))) or (((|@Treasure:5| and (|Swagger| or |Cash Cow| or |Smash & Grab| or |Bounding Strides| or |Boots of Swiftness| or |@Level 3 Useful|))) and ((|Chill Step:3| and |Sneak:5|) or (|@Frost Ember:7| and |Avalanche|) or (|@Frost Ember:12| and (|@Level 2 Useful:2| or |Swagger:2| or |Reckless Charge:2|)))"
+    },
+    "60 Embers": {
+        "connects_to": [
+            "62 Embers"
+        ],
+        "requires": "(|Bounding Strides:2| and |@Speed:1|) or (|Bounding Strides| and |@Speed:3|) or (|@Speed:5|)"
+    },
+    "62 Embers": {
+        "connects_to": [
+            "64 Embers"
+        ],
+        "requires": "(((|@Clank Block:8| and (|Silent Runner| and (|@Speed:5| or (|@Speed:4| and |Sprint:2|) or |Sprint:3|)) or (|Evasion:3| and |Eerie Silence:2|) or |Eerie Silence:3| or (|Fuzzy Bunny Slippers| and (|Evasion:3| or |Eerie Silence:2|)))) and ((|@Hazard Block:8| and ((|Tread Lightly:2| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:3| or (|Bounding Strides:2| and |Boots of Swiftness|))"
+    },
+    "64 Embers": {
+        "connects_to": [
+            "66 Embers"
+        ],
+        "requires": "|Second Wind| or |Ambrosia| or |Enlightenment|"
+    },
+    "66 Embers": {
+        "requires": "(|Bounding Strides:3| and |@Speed:2|) or (|Bounding Strides:2| and |@Speed:4|) or (|@Speed:6| and |Bounding Strides|) or (|@Speed:2| and |Bounding Strides| and |Boots of Swiftness|)"
+    },
+    "win": {
+        "requires": "((|Bounding Strides:3| and |@Speed:3|) or (|Bounding Strides:2| and |@Speed:6|) or (|@Speed:3| and |Bounding Strides| and |Boots of Swiftness|)) and (|@Uncommon:36| or (|@Uncommon:24| and |@Rare:11|) or |@Rare:17| or (|@Rare:15| and |@Legendary|) or (|@Rare:13| and |@Legendary:2|) or (|@Rare:11| and |@Legendary:3|) or (|@Rare:9| and |@Legendary:4|) or (|@Rare:7| and |@Legendary:5|) or (|@Rare:5| and |@Legendary:6|)) and |@Clank Block:10| and |@Hazard Block:10| and (|@Treasure:8| or (|@Treasure:6| and |Cash Cow|)) and (|Second Wind:2| or |Ambrosia| or |Enlightenment|) and |@Card:40|"
+    },
+    "1 Crown": {
+        "requires": "|@Treasure:2| or |Loot & Scoot| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
+        "connects_to": [
+            "2 Crowns"
+        ]
+    },
+    "2 Crowns": {
+        "requires": "|@Treasure:3| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
+        "connects_to": [
+            "4 Crowns"
+        ]
+    },
+    "4 Crowns": {
+        "requires": "|@Treasure:4| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:13|) or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|",
+        "connects_to": [
+            "8 Crowns"
+        ]
+    },
+    "8 Crowns": {
+        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:24|)"
+    },
+    "20 Crowns": {
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)"
+    },
+    "Eureka": {
+        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:26|)"
+    },
+    "Avalanche": {
+        "requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:38|)"
+    },
+    "Cash Cow": {
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)"
+    },
+    "Beast Master": {
+        "requires": "(|@Treasure:7| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:33|)"
+    },
+    "Boots of Swiftness": {
+        "requires": "((|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)) and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))"
+    },
+    "Glorious Moment": {
+        "requires": "((|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:40|)) and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))"
+    },
+    "Enlightenment": {
+        "requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:38|)"
+    }
+}

@@ -1,13 +1,13 @@
 ﻿name: Etho
 
 # Used to describe your yaml. Useful if you have multiple files.
-description: Default Manual_DeckedOut2_empathymp3 Template
+description: Default Manual_DeckedOut2_mp3 Template
 
-game: Manual_DeckedOut2_empathymp3
+game: Manual_DeckedOut2_mp3
 requires:
   version: 0.4.6 # Version of Archipelago required for this yaml to work as expected.
 
-Manual_DeckedOut2_empathymp3:
+Manual_DeckedOut2_mp3:
   progression_balancing:
     random: 0
     random-low: 0

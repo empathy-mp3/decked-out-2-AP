@@ -29,7 +29,7 @@ Drop the Decked Out Expansion Pack into your saves folder in your Minecraft inst
 1. Launch the launcher.
 2. Click on Manual client on the right.
 3. At the top enter your server's ip with the port provided (by default archipelago.gg:38281).
-4. In Manual Game ID put "Manual_DeckedOut2_empathymp3" then press the Connect button on the top right.
+4. In Manual Game ID put "Manual_DeckedOut2_mp3" then press the Connect button on the top right.
 5. In the command field at the bottom enter the name of your slot you chose in your Player.yaml then press enter
 
 ## Manual Client

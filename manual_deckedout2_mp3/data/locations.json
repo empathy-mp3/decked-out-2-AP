@@ -1,0 +1,2156 @@
+[
+    {
+        "name": "Sneak - 1",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Sneak - 2",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Sneak - 3",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Sneak - 4",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Sneak - 5",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Sneak - 6",
+        "category": [
+            "Common",
+            "6th Locations"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Stability - 1",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Stability - 2",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Stability - 3",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Stability - 4",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Stability - 5",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Stability - 6",
+        "category": [
+            "Common",
+            "6th Locations"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Treasure Hunter - 1",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Treasure Hunter - 2",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Treasure Hunter - 3",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Treasure Hunter - 4",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Treasure Hunter - 5",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Treasure Hunter - 6",
+        "category": [
+            "Common",
+            "6th Locations"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Ember Seeker - 1",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Ember Seeker - 2",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Ember Seeker - 3",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Ember Seeker - 4",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Ember Seeker - 5",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Ember Seeker - 6",
+        "category": [
+            "Common",
+            "6th Locations"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Moment of Clarity - 1",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Moment of Clarity - 2",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Moment of Clarity - 3",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Moment of Clarity - 4",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Moment of Clarity - 5",
+        "category": [
+            "Common"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Moment of Clarity - 6",
+        "category": [
+            "Common",
+            "6th Locations"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Evasion - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Evasion - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Evasion - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Evasion - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Evasion - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Evasion - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Tread Lightly - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Tread Lightly - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Tread Lightly - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Tread Lightly - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Tread Lightly - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Tread Lightly - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Loot & Scoot - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Loot & Scoot - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Loot & Scoot - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Loot & Scoot - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Loot & Scoot - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Loot & Scoot - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Frost Focus - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Frost Focus - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Frost Focus - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Frost Focus - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Frost Focus - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Frost Focus - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Revelation - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Revelation - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Revelation - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Revelation - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Revelation - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Revelation - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Beast Sense - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beast Sense - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beast Sense - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beast Sense - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beast Sense - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beast Sense - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Second Wind - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Second Wind - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Second Wind - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Second Wind - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Second Wind - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Second Wind - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Bounding Strides - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Bounding Strides - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Bounding Strides - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Bounding Strides - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Bounding Strides - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Bounding Strides - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Reckless Charge - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Reckless Charge - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Reckless Charge - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Reckless Charge - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Reckless Charge - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Reckless Charge - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Sprint - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Sprint - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Sprint - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Sprint - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Sprint - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Sprint - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Adrenaline Rush - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Adrenaline Rush - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Adrenaline Rush - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Adrenaline Rush - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Adrenaline Rush - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Adrenaline Rush - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Smash & Grab - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Smash & Grab - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Smash & Grab - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Smash & Grab - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Smash & Grab - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Smash & Grab - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Quickstep - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Quickstep - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Quickstep - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Quickstep - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Quickstep - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Quickstep - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Suit Up - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Suit Up - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Suit Up - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Suit Up - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Suit Up - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Suit Up - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Nimble Looting - 1",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Nimble Looting - 2",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Nimble Looting - 3",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Nimble Looting - 4",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Nimble Looting - 5",
+        "category": [
+            "Uncommon"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Nimble Looting - 6",
+        "category": [
+            "Uncommon",
+            "6th Locations"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Eerie Silence - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Eerie Silence - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Eerie Silence - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Eerie Silence - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Eerie Silence - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Eerie Silence - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Dungeon Repairs - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Dungeon Repairs - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Dungeon Repairs - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Dungeon Repairs - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Dungeon Repairs - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Dungeon Repairs - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Swagger - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Swagger - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Swagger - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Swagger - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Swagger - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Swagger - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Chill Step - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Chill Step - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Chill Step - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Chill Step - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Chill Step - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Chill Step - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Speed Runner - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Speed Runner - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Speed Runner - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Speed Runner - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Speed Runner - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Speed Runner - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Eyes on the Prize - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "52 Embers"
+    },
+    {
+        "name": "Eyes on the Prize - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "52 Embers"
+    },
+    {
+        "name": "Eyes on the Prize - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "52 Embers"
+    },
+    {
+        "name": "Eyes on the Prize - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "52 Embers"
+    },
+    {
+        "name": "Eyes on the Prize - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "52 Embers"
+    },
+    {
+        "name": "Eyes on the Prize - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "52 Embers"
+    },
+    {
+        "name": "Ambrosia - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Ambrosia - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Ambrosia - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Ambrosia - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Ambrosia - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Ambrosia - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Pirate's Booty - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Pirate's Booty - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Pirate's Booty - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Pirate's Booty - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Pirate's Booty - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Pirate's Booty - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Cold Snap - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Cold Snap - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Cold Snap - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Cold Snap - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Cold Snap - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Cold Snap - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Silent Runner - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Silent Runner - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Silent Runner - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Silent Runner - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Silent Runner - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Silent Runner - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Fuzzy Bunny Slippers - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Fuzzy Bunny Slippers - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Fuzzy Bunny Slippers - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Fuzzy Bunny Slippers - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Fuzzy Bunny Slippers - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Fuzzy Bunny Slippers - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Deepfrost - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Deepfrost - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Deepfrost - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Deepfrost - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Deepfrost - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Deepfrost - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Brilliance - 1",
+        "category": [
+            "Rare"
+        ],
+        "region": "66 Embers"
+    },
+    {
+        "name": "Brilliance - 2",
+        "category": [
+            "Rare"
+        ],
+        "region": "66 Embers"
+    },
+    {
+        "name": "Brilliance - 3",
+        "category": [
+            "Rare"
+        ],
+        "region": "66 Embers"
+    },
+    {
+        "name": "Brilliance - 4",
+        "category": [
+            "Rare"
+        ],
+        "region": "66 Embers"
+    },
+    {
+        "name": "Brilliance - 5",
+        "category": [
+            "Rare"
+        ],
+        "region": "66 Embers"
+    },
+    {
+        "name": "Brilliance - 6",
+        "category": [
+            "Rare",
+            "6th Locations"
+        ],
+        "region": "66 Embers"
+    },
+    {
+        "name": "Eureka - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Eureka"
+    },
+    {
+        "name": "Eureka - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Eureka"
+    },
+    {
+        "name": "Eureka - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Eureka"
+    },
+    {
+        "name": "Eureka - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Eureka"
+    },
+    {
+        "name": "Eureka - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Eureka"
+    },
+    {
+        "name": "Eureka - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Eureka"
+    },
+    {
+        "name": "Avalanche - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Avalanche"
+    },
+    {
+        "name": "Avalanche - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Avalanche"
+    },
+    {
+        "name": "Avalanche - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Avalanche"
+    },
+    {
+        "name": "Avalanche - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Avalanche"
+    },
+    {
+        "name": "Avalanche - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Avalanche"
+    },
+    {
+        "name": "Avalanche - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Avalanche"
+    },
+    {
+        "name": "Cash Cow - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Cash Cow"
+    },
+    {
+        "name": "Cash Cow - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Cash Cow"
+    },
+    {
+        "name": "Cash Cow - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Cash Cow"
+    },
+    {
+        "name": "Cash Cow - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Cash Cow"
+    },
+    {
+        "name": "Cash Cow - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Cash Cow"
+    },
+    {
+        "name": "Cash Cow - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Cash Cow"
+    },
+    {
+        "name": "Beast Master - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Beast Master"
+    },
+    {
+        "name": "Beast Master - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Beast Master"
+    },
+    {
+        "name": "Beast Master - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Beast Master"
+    },
+    {
+        "name": "Beast Master - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Beast Master"
+    },
+    {
+        "name": "Beast Master - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Beast Master"
+    },
+    {
+        "name": "Beast Master - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Beast Master"
+    },
+    {
+        "name": "Boots of Swiftness - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Boots of Swiftness"
+    },
+    {
+        "name": "Boots of Swiftness - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Boots of Swiftness"
+    },
+    {
+        "name": "Boots of Swiftness - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Boots of Swiftness"
+    },
+    {
+        "name": "Boots of Swiftness - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Boots of Swiftness"
+    },
+    {
+        "name": "Boots of Swiftness - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Boots of Swiftness"
+    },
+    {
+        "name": "Boots of Swiftness - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Boots of Swiftness"
+    },
+    {
+        "name": "Glorious Moment - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Glorious Moment"
+    },
+    {
+        "name": "Glorious Moment - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Glorious Moment"
+    },
+    {
+        "name": "Glorious Moment - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Glorious Moment"
+    },
+    {
+        "name": "Glorious Moment - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Glorious Moment"
+    },
+    {
+        "name": "Glorious Moment - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Glorious Moment"
+    },
+    {
+        "name": "Glorious Moment - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Glorious Moment"
+    },
+    {
+        "name": "Enlightenment - 1",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Enlightenment"
+    },
+    {
+        "name": "Enlightenment - 2",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Enlightenment"
+    },
+    {
+        "name": "Enlightenment - 3",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Enlightenment"
+    },
+    {
+        "name": "Enlightenment - 4",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Enlightenment"
+    },
+    {
+        "name": "Enlightenment - 5",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations"
+        ],
+        "region": "Enlightenment"
+    },
+    {
+        "name": "Enlightenment - 6",
+        "category": [
+            "Legendary",
+            "Legendary Card Locations",
+            "6th Locations"
+        ],
+        "region": "Enlightenment"
+    },
+    {
+        "name": "Frozen Shard - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Frozen Shard - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Frozen Shard - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Frozen Shard - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Frozen Shard - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Frozen Shard - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Pay to Win - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pay to Win - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pay to Win - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pay to Win - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pay to Win - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pay to Win - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pork Chop Power - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pork Chop Power - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pork Chop Power - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pork Chop Power - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pork Chop Power - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Pork Chop Power - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Tailor for Success - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Tailor for Success - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Tailor for Success - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Tailor for Success - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Tailor for Success - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Tailor for Success - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Last Stand - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Last Stand - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Last Stand - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Last Stand - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Last Stand - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Last Stand - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Suspicious Stew - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Suspicious Stew - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Suspicious Stew - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Suspicious Stew - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Suspicious Stew - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Suspicious Stew - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Mystery Item - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Mystery Item - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Mystery Item - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Mystery Item - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Mystery Item - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Mystery Item - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Random Key - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Random Key - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Random Key - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Random Key - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Random Key - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Random Key - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Dungeon Master Lackey - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Dungeon Master Lackey - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Dungeon Master Lackey - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Dungeon Master Lackey - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Dungeon Master Lackey - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Dungeon Master Lackey - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Enter the Hideout",
+        "region": "win",
+        "victory": true
+    }
+]
