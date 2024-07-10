@@ -28,9 +28,21 @@ If you obtain an item, go into the Master Dungeon Locker on the far back of the 
 
 ## What is the goal of a Manual game when randomized?
 
-The goal is to make it down to **The Burning Dark** (Level 4), obtain **The Bomb** that spawns in the towers around the level, and bring it to the giant gateway, and put it in the barrel, go in, and push the button to open **The Hideout**, and, in the same run, you need to have obtained a **The Master's Key** artifact from Level 4 (Deepfrost difficulty). Once you've done both of those things, go to the flat structure nearby the gateway, and quickly run through the gap in the side of it (across the pressuren plate), while burning on the magma blocks. There should be a hole to fall down (if there's too small a gap to fit through, you weren't fast enough), and from there you put the master's key into the barrel, and proceed into the hideout. Once you've done that, you've won!
+There are 7 goal options to choose from:
 
-It's really hard and luck-based, so be warned!
+- Enter The Hideout:
+  - The goal is to make it down to **The Burning Dark** (Level 4), obtain **The Bomb** that spawns in the towers around the level, and bring it to the giant gateway, and put it in the barrel, go in, and push the button to open **The Hideout**, and, in the same run, you need to have obtained a **The Master's Key** artifact from Level 4 (Deepfrost difficulty). Once you've done both of those things, go to the flat structure nearby the gateway, and quickly run through the gap in the side of it (across the pressuren plate), while burning on the magma blocks. There should be a hole to fall down (if there's too small a gap to fit through, you weren't fast enough), and from there you put the master's key into the barrel, and proceed into the hideout. Once you've done that, you've won!
+  - It's really hard and luck-based, so be warned!
+
+- Craft All Legendary Cards
+  - As described further down, go to The Forge, and craft each legendary card.
+  - It's a very long goal. Even when you're logically able to get there, you'll have to make 7 separate runs to craft each legendary card (unless you somehow manage to craft multiple legendary cards in one run, which is probably impossible)
+
+- Complete a 30/40/50/60/70 Ember Run
+  - As you enter the Frost Ember Shop, have the required amount of Frost Embers in hand.
+  - These are less involved goals, but the early ones have a lot less interesting logic.
+  - I think it's cooler to do the previous two goals, but like, they are extremely involved, so I get not wanting to do those things.
+  - 30 embers *might* be sync-viable, but given how exhausting this game can be (at least to me), it may be better to do this in an async anyway. Perhaps I'm unique in that regard.
 
 ## Which items can be in another player's world?
 

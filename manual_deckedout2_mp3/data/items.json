@@ -9,7 +9,7 @@
     },
     {
         "name": "Tactical Approach",
-        "count": 15,
+        "count": 30,
         "category": [
             "Ethereal"
         ],
@@ -17,7 +17,7 @@
     },
     {
         "name": "Pork Chop Power",
-        "count": 15,
+        "count": 30,
         "category": [
             "Ethereal"
         ],
@@ -25,7 +25,7 @@
     },
     {
         "name": "Dungeon Lackey",
-        "count": 15,
+        "count": 30,
         "category": [
             "Ethereal"
         ],
@@ -33,7 +33,7 @@
     },
     {
         "name": "Pay to Win",
-        "count": 15,
+        "count": 30,
         "category": [
             "Ethereal"
         ],
@@ -41,7 +41,7 @@
     },
     {
         "name": "Tailor for Success",
-        "count": 8,
+        "count": 16,
         "category": [
             "Ethereal"
         ],
@@ -49,7 +49,7 @@
     },
     {
         "name": "Last Stand",
-        "count": 8,
+        "count": 16,
         "category": [
             "Ethereal"
         ],
@@ -57,7 +57,7 @@
     },
     {
         "name": "Revelation",
-        "count": 5,
+        "count": 12,
         "category": [
             "Ethereal"
         ],
@@ -65,7 +65,7 @@
     },
     {
         "name": "Aquata Breather",
-        "count": 5,
+        "count": 12,
         "category": [
             "Ethereal"
         ],
@@ -73,7 +73,7 @@
     },
     {
         "name": "For the Worthy",
-        "count": 4,
+        "count": 8,
         "category": [
             "Ethereal"
         ],
@@ -81,7 +81,7 @@
     },
     {
         "name": "Eureka",
-        "count": 2,
+        "count": 4,
         "category": [
             "Ethereal"
         ],
@@ -89,7 +89,7 @@
     },
     {
         "name": "The Caves of Carnage Key",
-        "count": 9,
+        "count": 18,
         "category": [
             "Key"
         ],
@@ -97,7 +97,7 @@
     },
     {
         "name": "The Black Mines Key",
-        "count": 6,
+        "count": 12,
         "category": [
             "Key"
         ],
@@ -105,7 +105,7 @@
     },
     {
         "name": "The Flooded Depths Key",
-        "count": 6,
+        "count": 12,
         "category": [
             "Key"
         ],
@@ -113,7 +113,7 @@
     },
     {
         "name": "The Burning Dark Key",
-        "count": 6,
+        "count": 12,
         "category": [
             "Key"
         ],

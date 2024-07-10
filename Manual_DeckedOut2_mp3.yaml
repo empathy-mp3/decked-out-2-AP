@@ -11,19 +11,27 @@ Manual_DeckedOut2_mp3:
   # Game Options
   progression_balancing: 50
 
-  accessibility: 50
+  accessibility: items
 
   Legendary_Card_Locations:
     # Should there be locations for the Legendary Cards (which are much harder to get, but a lot more interesting, logic-wise!)
-    # Don't disable both this and Sixth_Locations.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   Sixth_Locations:
     # Should there be 6 locations for each purchase, or 5?
-    # Don't disable both this and Legendary_Card_Locations.
     'false': 50
     'true': 0
+
+  goal:
+    # Choose your victory condition.
+    enter the hideout: 50
+    craft all legendary cards: 0
+    complete a 30 ember run: 0
+    complete a 40 ember run: 0
+    complete a 50 ember run: 0
+    complete a 60 ember run: 0
+    complete a 70 ember run: 0
 
   filler_traps:
     # What percentage of Moments of Clarity (filler) should be replaced by Stumbles (traps)?
@@ -41,6 +49,161 @@ Manual_DeckedOut2_mp3:
     # When you die, everyone dies. Of course the reverse is true too.
     'false': 50
     'true': 0
+
+# Useful Item Count Options
+  Tactical_Approach_Count:
+    # Number of filler to be replaced by the Tactical Approach Card (a single-use crown shop card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 30
+    15: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Pork_Chop_Power_Count:
+    # Number of filler to be replaced by the Pork Chop Power Card (a single-use crown shop card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 30
+    15: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Dungeon_Lackey_Count:
+    # Number of filler to be replaced by the Dungeon Lackey Card (a single-use crown shop card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 30
+    15: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Pay_To_Win_Count:
+    # Number of filler to be replaced by the Pay To Win Card (a single-use crown shop card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 30
+    15: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Tailor_For_Success_Count:
+    # Number of filler to be replaced by the Tailor for Success Card (a single-use strong crown shop card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 16
+    8: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Last_Stand_Count:
+    # Number of filler to be replaced by the Last Stand Card (a single-use strong crown shop card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 16
+    8: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Revelation_Count:
+    # Number of filler to be replaced by the Revelation Card (a single-use uncommon card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 12
+    6: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Aquata_Breather_Count:
+    # Number of filler to be replaced by the Aquata Breather Card (a single-use rare card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 12
+    6: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  For_The_Worthy_Count:
+    # Number of filler to be replaced by the For the Worthy Card (a single-use rare card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 8
+    4: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Eureka_Count:
+    # Number of filler to be replaced by the Eureka Card (a single-use legendary card).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 4
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Caves_Of_Carnage_Key_Count:
+    # Number of filler to be replaced by The Caves of Carnage Key (key to the second area).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 18
+    9: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Black_Mines_Key_Count:
+    # Number of filler to be replaced by The Black Mines Key (key to the third area).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 12
+    6: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Flooded_Depths_Key_Count:
+    # Number of filler to be replaced by The Flooded Depths Key (key to the alt third area).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 12
+    6: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Burning_Dark_Key_Count:
+    # Number of filler to be replaced by The Burning Dark Key (key to the fourth area).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 12
+    6: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   # Item & Location Options
   local_items:

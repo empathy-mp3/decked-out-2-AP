@@ -2152,5 +2152,35 @@
         "name": "Enter the Hideout",
         "region": "win",
         "victory": true
+    },
+    {
+        "name": "Craft All Legendary Cards",
+        "victory": true,
+        "region": "All Legendary"
+    },
+    {
+        "name": "Complete a 30 Ember run",
+        "region": "30 Embers",
+        "victory": true
+    },
+    {
+        "name": "Complete a 40 Ember run",
+        "region": "40 Embers",
+        "victory": true
+    },
+    {
+        "name": "Complete a 50 Ember run",
+        "region": "50 Embers",
+        "victory": true
+    },
+    {
+        "name": "Complete a 60 Ember run",
+        "region": "60 Embers",
+        "victory": true
+    },
+    {
+        "name": "Complete a 70 Ember run",
+        "region": "70 Embers",
+        "victory": true
     }
 ]

@@ -37,10 +37,18 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
+    leg = is_option_enabled(multiworld, player, "Legendary_Card_Locations")
+    sixth = is_option_enabled(multiworld, player, "Sixth_Locations")
     # Use this hook to remove locations from the world
     locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which locations to remove
+
+    for location in world.location_table:
+        if "Legendary Card Locations" in location.get("category", []) and not leg:
+            locationNamesToRemove.append(location["name"])
+        elif "6th Locations" in location.get("category", []) and not sixth:
+            locationNamesToRemove.append(location["name"])
 
     for region in multiworld.regions:
         if region.player == player:
@@ -56,9 +64,51 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    tactical_approach = get_option_value(multiworld, player, "Tactical_Approach_Count")
+    pork_chop_power = get_option_value(multiworld, player, "Pork_Chop_Power_Count")
+    dungeon_lackey = get_option_value(multiworld, player, "Dungeon_Lackey_Count")
+    pay_to_win = get_option_value(multiworld, player, "Pay_To_Win_Count")
+    tailor_for_success = get_option_value(multiworld, player, "Tailor_For_Success_Count")
+    last_stand = get_option_value(multiworld, player, "Last_Stand_Count")
+    revelation = get_option_value(multiworld, player, "Revelation_Count")
+    aquata_breather = get_option_value(multiworld, player, "Aquata_Breather_Count")
+    for_the_worthy = get_option_value(multiworld, player, "For_The_Worthy_Count")
+    eureka = get_option_value(multiworld, player, "Eureka_Count")
+    caves_of_carnage_key = get_option_value(multiworld, player, "Caves_Of_Carnage_Key_Count")
+    black_mines_key = get_option_value(multiworld, player, "Black_Mines_Key_Count")
+    flooded_depths_key = get_option_value(multiworld, player, "Flooded_Depths_Key_Count")
+    burning_dark_key = get_option_value(multiworld, player, "Burning_Dark_Key_Count")
     # Use this hook to remove items from the item pool
     itemNamesToRemove = [] # List of item names
 
+    for i in range(30-tactical_approach):
+        itemNamesToRemove.append("Tactical Approach")
+    for i in range(30-pork_chop_power):
+        itemNamesToRemove.append("Pork Chop Power")
+    for i in range(30-dungeon_lackey):
+        itemNamesToRemove.append("Dungeon Lackey")
+    for i in range(30-pay_to_win):
+        itemNamesToRemove.append("Pay to Win")
+    for i in range(16-tailor_for_success):
+        itemNamesToRemove.append("Tailor for Success")
+    for i in range(16-last_stand):
+        itemNamesToRemove.append("Last Stand")
+    for i in range(12-revelation):
+        itemNamesToRemove.append("Revelation")
+    for i in range(12-aquata_breather):
+        itemNamesToRemove.append("Aquata Breather")
+    for i in range(12-for_the_worthy):
+        itemNamesToRemove.append("For the Worthy")
+    for i in range(4-eureka):
+        itemNamesToRemove.append("Eureka")
+    for i in range(18-caves_of_carnage_key):
+        itemNamesToRemove.append("The Caves of Carnage Key")
+    for i in range(12-black_mines_key):
+        itemNamesToRemove.append("The Black Mines Key")
+    for i in range(12-flooded_depths_key):
+        itemNamesToRemove.append("The Flooded Depths Key")
+    for i in range(12-burning_dark_key):
+        itemNamesToRemove.append("The Burning Dark Key")
     # Add your code here to calculate which items to remove.
     #
     # Because multiple copies of an item can exist, you need to add an item name
