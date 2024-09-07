@@ -97,7 +97,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         itemNamesToRemove.append("Revelation")
     for i in range(12-aquata_breather):
         itemNamesToRemove.append("Aquata Breather")
-    for i in range(12-for_the_worthy):
+    for i in range(8-for_the_worthy):
         itemNamesToRemove.append("For the Worthy")
     for i in range(4-eureka):
         itemNamesToRemove.append("Eureka")
