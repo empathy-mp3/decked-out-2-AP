@@ -1898,6 +1898,49 @@
         "region": "4 Crowns"
     },
     {
+        "name": "Tactical Approach - 1",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Tactical Approach - 2",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Tactical Approach - 3",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Tactical Approach - 4",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Tactical Approach - 5",
+        "category": [
+            "Crown Shop"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Tactical Approach - 6",
+        "category": [
+            "Crown Shop",
+            "6th Locations"
+        ],
+        "region": "2 Crowns"
+    },
+    {
         "name": "Tailor for Success - 2",
         "category": [
             "Crown Shop"
