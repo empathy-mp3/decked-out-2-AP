@@ -125,5 +125,15 @@
         "yaml_option": [
             "coin_crown_locations"
         ]
+    },
+    "Difficulty Objectives": {
+        "yaml_option": [
+            "difficulty_objective_locations"
+        ]
+    },
+    "Area Objectives": {
+        "yaml_option": [
+            "area_objective_locations"
+        ]
     }
 }

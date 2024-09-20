@@ -41,36 +41,51 @@ class Crowns(DefaultOnToggle):
     Adds 60 Locations, for having 1 Coin in hand to having 16 Crowns."""
     display_name = "Coin & Crown Locations"
 
+class DifficultyObjectives(DefaultOnToggle):
+    """Should there be locations for obtaining an artifact and beating a run on each difficulty?
+    Adds 10 Locations, 2 for each difficulty."""
+    display_name = "Difficulty Objective Locations"
+
+class AreaObjectives(DefaultOnToggle):
+    """Should there be locations for unlocking each floor, obtaining an artifact from each floor, and escapinng with an artifact from each floor?
+    Adds 14 Locations, 3 for each floor, except for The Frozen Crypt (since you don't unlock it)."""
+    display_name = "Area Objective Locations"
+
 class Common(Range):
-    """How many locations should there be for each Common Card purchase?"""
+    """How many locations should there be for each Common Card purchase?
+    Adds 5 x [this value] locations."""
     display_name = "Common Card Location Count"
     range_start = 0
     range_end = 6
     default = 6
 
 class Uncommon(Range):
-    """How many locations should there be for each Uncommon Card purchase?"""
+    """How many locations should there be for each Uncommon Card purchase?
+    Adds 15 x [this value] locations."""
     display_name = "Uncommon Card Location Count"
     range_start = 0
     range_end = 6
     default = 6
 
 class Rare(Range):
-    """How many locations should there be for each Rare Card purchase?"""
+    """How many locations should there be for each Rare Card purchase?
+    Adds 13 x [this value] locations."""
     display_name = "Rare Card Location Count"
     range_start = 0
     range_end = 6
     default = 6
 
 class Legendary(Range):
-    """How many locations should there be for each Legendary Card (which are extremely difficult to obtain)?"""
+    """How many locations should there be for each Legendary Card (which are extremely difficult to obtain)?
+    Adds 7 x [this value] locations."""
     display_name = "Legendary Card Location Count"
     range_start = 0
     range_end = 6
     default = 0
 
 class CrownShop(Range):
-    """How many locations should there be for each Crown Shop purchase?"""
+    """How many locations should there be for each Crown Shop purchase?
+    Adds 10 x [this value] locations."""
     display_name = "Crown Shop Location Count"
     range_start = 0
     range_end = 6
@@ -178,6 +193,8 @@ class BurningDarkKeyCount(Range):
 def before_options_defined(options: dict) -> dict:
     options["frost_ember_locations"] = Embers
     options["coin_crown_locations"] = Crowns
+    options["difficulty_objective_locations"] = DifficultyObjectives
+    options["area_objective_locations"] = AreaObjectives
     options["common_card_location_count"] = Common
     options["uncommon_card_location_count"] = Uncommon
     options["rare_card_location_count"] = Rare

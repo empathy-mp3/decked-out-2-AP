@@ -3352,6 +3352,174 @@
         "region": "28 Crowns"
     },
     {
+        "name": "Obtain an Artifact in Easy Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run in Easy Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain an Artifact in Medium Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run in Medium Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "12 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact in Hard Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Beat a Run in Hard Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact in Deadly Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "32 No Embers"
+    },
+    {
+        "name": "Beat a Run in Deadly Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "36 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact in Deepfrost Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "46 No Embers"
+    },
+    {
+        "name": "Beat a Run in Deepfrost Difficulty",
+        "category": [
+            "Difficulty Objectives"
+        ],
+        "region": "52 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact from The Frozen Crypt",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Escape with an Artifact from The Frozen Crypt",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Unlock The Caves of Carnage",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "22 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact from The Caves of Carnage",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Escape with an Artifact from The Caves of Carnage",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Unlock The Black Mines",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact from The Black Mines",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "32 No Embers"
+    },
+    {
+        "name": "Escape with an Artifact from The Black Mines",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "36 No Embers"
+    },
+    {
+        "name": "Unlock The Flooded Depths",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact from The Flooded Depths",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "32 No Embers"
+    },
+    {
+        "name": "Escape with an Artifact from The Flooded Depths",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "36 No Embers"
+    },
+    {
+        "name": "Unlock The Burning Dark",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "40 No Embers"
+    },
+    {
+        "name": "Obtain an Artifact from The Burning Dark",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "46 No Embers"
+    },
+    {
+        "name": "Escape with an Artifact from The Burning Dark",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "52 No Embers"
+    },
+    {
         "name": "Enter the Hideout",
         "region": "Hideout",
         "victory": true
