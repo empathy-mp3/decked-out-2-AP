@@ -127,8 +127,8 @@ the methods to obtain those ingredients are as follows:
 - sweet berry: anywhere
 - cactus: use a trapdoor to crouch into a secret area in pearl's desert room in caves of carnage. there's a button
 - egg: rusty room (caves of carnage). you have to do parkour
-- bone meal: to my knowledge, you just use berries on the composters on the boat. lmk if you find more "legal" ways of doing it
+- bone meal: lake/flooded depths (you're allowed to kill tropical fish)
 - twisted vine: burning dark. there's a button in a very secluded corner next to the area with a lot of vines
-- glow berry: to my knowledge, you just use bone meal on the cave vines near the boat and then harvest those glow berries, but not preexisting ones. lmk if you find more "legal" ways of doing it
+- glow berry: use bone meal on the cave vines near the boat and then harvest those glow berries, but not preexisting ones
 - pumpkin: caves of carnage: halloween house (secret button at the back of the house)
 - amethyst: caves of carnage (you're allowed to break the amethyst on the budding amethyst blocks)

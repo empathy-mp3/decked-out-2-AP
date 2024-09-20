@@ -126,6 +126,16 @@
             "coin_crown_locations"
         ]
     },
+    "Artifakes": {
+        "yaml_option": [
+            "artifake_locations"
+        ]
+    },
+    "Unique Cards": {
+        "yaml_option": [
+            "unique_card_locations"
+        ]
+    },
     "Difficulty Objectives": {
         "yaml_option": [
             "difficulty_objective_locations"

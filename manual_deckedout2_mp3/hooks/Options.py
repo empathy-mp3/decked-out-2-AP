@@ -41,6 +41,18 @@ class Crowns(DefaultOnToggle):
     Adds 60 Locations, for having 1 Coin in hand to having 16 Crowns."""
     display_name = "Coin & Crown Locations"
 
+class Artifakes(DefaultOnToggle):
+    """Should there be locations for obtaining amounts of unique artifakes?
+    Artifakes are copies of artifacts that can be obtained in the Frost Ember shop for no price.
+    Adds 22 Locations (note that there are 28 artifacts as a whole, so there is some leeway to reduce grinding)."""
+    display_name = "Artifake Locations"
+
+class UniqueCards(DefaultOnToggle):
+    """Should there be locations for obtaining amounts of unique cards from the Frost Ember shop?
+    When you buy a card from the Frost Ember shop, set it aside in a chest, and count how many unique ones there are.
+    Adds 26 Locations (note that there are 33 cards as a whole, so there is some leeway to reduce grinding)."""
+    display_name = "Unique Card Locations"
+
 class DifficultyObjectives(DefaultOnToggle):
     """Should there be locations for obtaining an artifact and beating a run on each difficulty?
     Adds 10 Locations, 2 for each difficulty."""
@@ -193,6 +205,8 @@ class BurningDarkKeyCount(Range):
 def before_options_defined(options: dict) -> dict:
     options["frost_ember_locations"] = Embers
     options["coin_crown_locations"] = Crowns
+    options["artifake_locations"] = Artifakes
+    options["unique_card_locations"] = UniqueCards
     options["difficulty_objective_locations"] = DifficultyObjectives
     options["area_objective_locations"] = AreaObjectives
     options["common_card_location_count"] = Common

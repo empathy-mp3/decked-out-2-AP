@@ -3520,6 +3520,342 @@
         "region": "52 No Embers"
     },
     {
+        "name": "Obtain 1 Unique Artifake",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain 2 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain 3 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain 4 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "12 No Embers"
+    },
+    {
+        "name": "Obtain 5 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "12 No Embers"
+    },
+    {
+        "name": "Obtain 6 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "16 No Embers"
+    },
+    {
+        "name": "Obtain 7 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "18 No Embers"
+    },
+    {
+        "name": "Obtain 8 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "22 No Embers"
+    },
+    {
+        "name": "Obtain 9 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "24 No Embers"
+    },
+    {
+        "name": "Obtain 10 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Obtain 11 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Obtain 12 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Obtain 13 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "32 No Embers"
+    },
+    {
+        "name": "Obtain 14 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "34 No Embers"
+    },
+    {
+        "name": "Obtain 15 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "36 No Embers"
+    },
+    {
+        "name": "Obtain 16 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "38 No Embers"
+    },
+    {
+        "name": "Obtain 17 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "42 No Embers"
+    },
+    {
+        "name": "Obtain 18 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "44 No Embers"
+    },
+    {
+        "name": "Obtain 19 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "46 No Embers"
+    },
+    {
+        "name": "Obtain 20 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "50 No Embers"
+    },
+    {
+        "name": "Obtain 21 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "52 No Embers"
+    },
+    {
+        "name": "Obtain 22 Unique Artifakes",
+        "category": [
+            "Artifakes"
+        ],
+        "region": "54 No Embers"
+    },
+    {
+        "name": "Obtain 1 Unique Card",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain 2 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain 3 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Obtain 4 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Obtain 5 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Obtain 6 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Obtain 7 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Obtain 8 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Obtain 9 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Obtain 10 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Obtain 11 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Obtain 12 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Obtain 13 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Obtain 14 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Obtain 15 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Obtain 16 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Obtain 17 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Obtain 18 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "48 Embers"
+    },
+    {
+        "name": "Obtain 19 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "50 Embers"
+    },
+    {
+        "name": "Obtain 20 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "54 Embers"
+    },
+    {
+        "name": "Obtain 21 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "56 Embers"
+    },
+    {
+        "name": "Obtain 22 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "58 Embers"
+    },
+    {
+        "name": "Obtain 23 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "60 Embers"
+    },
+    {
+        "name": "Obtain 24 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "62 Embers"
+    },
+    {
+        "name": "Obtain 25 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "64 Embers"
+    },
+    {
+        "name": "Obtain 26 Unique Cards",
+        "category": [
+            "Unique Cards"
+        ],
+        "region": "66 Embers"
+    },
+    {
         "name": "Enter the Hideout",
         "region": "Hideout",
         "victory": true
