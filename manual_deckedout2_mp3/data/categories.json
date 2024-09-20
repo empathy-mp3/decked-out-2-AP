@@ -26,19 +26,94 @@
     "Level 3 Useful": {
         "hidden": true
     },
-    "Legendary Card Locations": {
-        "hidden": true,
-        "yaml_option": [
-            "Legendary_Card_Locations"
-        ]
+    "common1st": {
+        "hidden": true
     },
-    "6th Locations": {
-        "hidden": true,
-        "yaml_option": [
-            "Sixth_Locations"
-        ]
+    "common2nd": {
+        "hidden": true
     },
-    "5th Locations": {
+    "common3rd": {
+        "hidden": true
+    },
+    "common4th": {
+        "hidden": true
+    },
+    "common5th": {
+        "hidden": true
+    },
+    "common6th": {
+        "hidden": true
+    },
+    "uncommon1st": {
+        "hidden": true
+    },
+    "uncommon2st": {
+        "hidden": true
+    },
+    "uncommon3rd": {
+        "hidden": true
+    },
+    "uncommon4th": {
+        "hidden": true
+    },
+    "uncommon5th": {
+        "hidden": true
+    },
+    "uncommon6th": {
+        "hidden": true
+    },
+    "rare1st": {
+        "hidden": true
+    },
+    "rare2nd": {
+        "hidden": true
+    },
+    "rare3rd": {
+        "hidden": true
+    },
+    "rare4th": {
+        "hidden": true
+    },
+    "rare5th": {
+        "hidden": true
+    },
+    "rare6th": {
+        "hidden": true
+    },
+    "legendary1st": {
+        "hidden": true
+    },
+    "legendary2nd": {
+        "hidden": true
+    },
+    "legendary3rd": {
+        "hidden": true
+    },
+    "legendary4th": {
+        "hidden": true
+    },
+    "legendary5th": {
+        "hidden": true
+    },
+    "legendary6th": {
+        "hidden": true
+    },
+    "crownshop1st": {
+        "hidden": true
+    },
+    "crownshop2nd": {
+        "hidden": true
+    },
+    "crownshop3rd": {
+        "hidden": true
+    },
+    "crownshop4th": {
+        "hidden": true
+    },
+    "crownshop5th": {
+        "hidden": true
+    },
+    "crownshop6th": {
         "hidden": true
     }
 }

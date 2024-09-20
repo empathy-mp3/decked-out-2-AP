@@ -37,17 +37,76 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
-    leg = is_option_enabled(multiworld, player, "Legendary_Card_Locations")
-    sixth = is_option_enabled(multiworld, player, "Sixth_Locations")
+    com = get_option_value(multiworld, player, "common_card_location_count")
+    uncom = get_option_value(multiworld, player, "uncommon_card_location_count")
+    rare = get_option_value(multiworld, player, "rare_card_location_count")
+    leg = get_option_value(multiworld, player, "legendary_card_location_count")
+    crown = get_option_value(multiworld, player, "crown_shop_location_count")
     # Use this hook to remove locations from the world
     locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which locations to remove
 
     for location in world.location_table:
-        if "Legendary Card Locations" in location.get("category", []) and not leg:
+        if "common1st" in location.get("category", []) and com < 1:
             locationNamesToRemove.append(location["name"])
-        elif "6th Locations" in location.get("category", []) and not sixth:
+        if "common2nd" in location.get("category", []) and com < 2:
+            locationNamesToRemove.append(location["name"])
+        if "common3rd" in location.get("category", []) and com < 3:
+            locationNamesToRemove.append(location["name"])
+        if "common4th" in location.get("category", []) and com < 4:
+            locationNamesToRemove.append(location["name"])
+        if "common5th" in location.get("category", []) and com < 5:
+            locationNamesToRemove.append(location["name"])
+        if "common6th" in location.get("category", []) and com < 6:
+            locationNamesToRemove.append(location["name"])
+        if "uncommon1st" in location.get("category", []) and uncom < 1:
+            locationNamesToRemove.append(location["name"])
+        if "uncommon2nd" in location.get("category", []) and uncom < 2:
+            locationNamesToRemove.append(location["name"])
+        if "uncommon3rd" in location.get("category", []) and uncom < 3:
+            locationNamesToRemove.append(location["name"])
+        if "uncommon4th" in location.get("category", []) and uncom < 4:
+            locationNamesToRemove.append(location["name"])
+        if "uncommon5th" in location.get("category", []) and uncom < 5:
+            locationNamesToRemove.append(location["name"])
+        if "uncommon6th" in location.get("category", []) and uncom < 6:
+            locationNamesToRemove.append(location["name"])
+        if "rare1st" in location.get("category", []) and rare < 1:
+            locationNamesToRemove.append(location["name"])
+        if "rare2nd" in location.get("category", []) and rare < 2:
+            locationNamesToRemove.append(location["name"])
+        if "rare3rd" in location.get("category", []) and rare < 3:
+            locationNamesToRemove.append(location["name"])
+        if "rare4th" in location.get("category", []) and rare < 4:
+            locationNamesToRemove.append(location["name"])
+        if "rare5th" in location.get("category", []) and rare < 5:
+            locationNamesToRemove.append(location["name"])
+        if "rare6th" in location.get("category", []) and rare < 6:
+            locationNamesToRemove.append(location["name"])
+        if "legendary1st" in location.get("category", []) and leg < 1:
+            locationNamesToRemove.append(location["name"])
+        if "legendary2nd" in location.get("category", []) and leg < 2:
+            locationNamesToRemove.append(location["name"])
+        if "legendary3rd" in location.get("category", []) and leg < 3:
+            locationNamesToRemove.append(location["name"])
+        if "legendary4th" in location.get("category", []) and leg < 4:
+            locationNamesToRemove.append(location["name"])
+        if "legendary5th" in location.get("category", []) and leg < 5:
+            locationNamesToRemove.append(location["name"])
+        if "legendary6th" in location.get("category", []) and leg < 6:
+            locationNamesToRemove.append(location["name"])
+        if "crownshop1st" in location.get("category", []) and crown < 1:
+            locationNamesToRemove.append(location["name"])
+        if "crownshop2nd" in location.get("category", []) and crown < 2:
+            locationNamesToRemove.append(location["name"])
+        if "crownshop3rd" in location.get("category", []) and crown < 3:
+            locationNamesToRemove.append(location["name"])
+        if "crownshop4th" in location.get("category", []) and crown < 4:
+            locationNamesToRemove.append(location["name"])
+        if "crownshop5th" in location.get("category", []) and crown < 5:
+            locationNamesToRemove.append(location["name"])
+        if "crownshop6th" in location.get("category", []) and crown < 6:
             locationNamesToRemove.append(location["name"])
 
     for region in multiworld.regions:
@@ -64,20 +123,20 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    tactical_approach = get_option_value(multiworld, player, "Tactical_Approach_Count")
-    pork_chop_power = get_option_value(multiworld, player, "Pork_Chop_Power_Count")
-    dungeon_lackey = get_option_value(multiworld, player, "Dungeon_Lackey_Count")
-    pay_to_win = get_option_value(multiworld, player, "Pay_To_Win_Count")
-    tailor_for_success = get_option_value(multiworld, player, "Tailor_For_Success_Count")
-    last_stand = get_option_value(multiworld, player, "Last_Stand_Count")
-    revelation = get_option_value(multiworld, player, "Revelation_Count")
-    aquata_breather = get_option_value(multiworld, player, "Aquata_Breather_Count")
-    for_the_worthy = get_option_value(multiworld, player, "For_The_Worthy_Count")
-    eureka = get_option_value(multiworld, player, "Eureka_Count")
-    caves_of_carnage_key = get_option_value(multiworld, player, "Caves_Of_Carnage_Key_Count")
-    black_mines_key = get_option_value(multiworld, player, "Black_Mines_Key_Count")
-    flooded_depths_key = get_option_value(multiworld, player, "Flooded_Depths_Key_Count")
-    burning_dark_key = get_option_value(multiworld, player, "Burning_Dark_Key_Count")
+    tactical_approach = get_option_value(multiworld, player, "tactical_approach_count")
+    pork_chop_power = get_option_value(multiworld, player, "pork_chop_power_count")
+    dungeon_lackey = get_option_value(multiworld, player, "dungeon_lackey_count")
+    pay_to_win = get_option_value(multiworld, player, "pay_to_win_count")
+    tailor_for_success = get_option_value(multiworld, player, "tailor_for_success_count")
+    last_stand = get_option_value(multiworld, player, "last_stand_count")
+    revelation = get_option_value(multiworld, player, "revelation_count")
+    aquata_breather = get_option_value(multiworld, player, "aquata_breather_count")
+    for_the_worthy = get_option_value(multiworld, player, "for_the_worthy_count")
+    eureka = get_option_value(multiworld, player, "eureka_count")
+    caves_of_carnage_key = get_option_value(multiworld, player, "caves_of_carnage_key_count")
+    black_mines_key = get_option_value(multiworld, player, "black_mines_key_count")
+    flooded_depths_key = get_option_value(multiworld, player, "flooded_depths_key_count")
+    burning_dark_key = get_option_value(multiworld, player, "burning_dark_key_count")
     # Use this hook to remove items from the item pool
     itemNamesToRemove = [] # List of item names
 

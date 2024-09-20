@@ -31,13 +31,40 @@ class FillerTrapPercent(Range):
     0 means no Stumbles, 100 means all Moments of Clarity are replaced with Stumbles."""
     range_end = 100
 
-class Legendary(DefaultOnToggle):
-    """Should there be locations for the Legendary Cards (which are much harder to get, but a lot more interesting, logic-wise!)"""
-    display_name = "Legendary Card Locations"
+class Common(Range):
+    """How many locations should there be for each Common Card purchase?"""
+    display_name = "Common Card Location Count"
+    range_start = 0
+    range_end = 6
+    default = 6
 
-class Sixth(Toggle):
-    """Should there be 6 locations for each purchase, or 5?"""
-    display_name = "Sixth Locations"
+class Uncommon(Range):
+    """How many locations should there be for each Uncommon Card purchase?"""
+    display_name = "Uncommon Card Location Count"
+    range_start = 0
+    range_end = 6
+    default = 6
+
+class Rare(Range):
+    """How many locations should there be for each Rare Card purchase?"""
+    display_name = "Rare Card Location Count"
+    range_start = 0
+    range_end = 6
+    default = 6
+
+class Legendary(Range):
+    """How many locations should there be for each Legendary Card (which are extremely difficult to obtain)?"""
+    display_name = "Legendary Card Location Count"
+    range_start = 0
+    range_end = 6
+    default = 0
+
+class CrownShop(Range):
+    """How many locations should there be for each Crown Shop purchase?"""
+    display_name = "Crown Shop Location Count"
+    range_start = 0
+    range_end = 6
+    default = 6
 
 class TacticalApproachCount(Range):
     """Number of filler to be replaced by the Tactical Approach Card (a single-use crown shop card)."""
@@ -139,22 +166,25 @@ class BurningDarkKeyCount(Range):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
-    options["Legendary_Card_Locations"] = Legendary
-    options["Sixth_Locations"] = Sixth
-    options["Tactical_Approach_Count"] = TacticalApproachCount
-    options["Pork_Chop_Power_Count"] = PorkChopPowerCount
-    options["Dungeon_Lackey_Count"] = DungeonLackeyCount
-    options["Pay_To_Win_Count"] = PayToWinCount
-    options["Tailor_For_Success_Count"] = TailorForSuccessCount
-    options["Last_Stand_Count"] = LastStandCount
-    options["Revelation_Count"] = RevelationCount
-    options["Aquata_Breather_Count"] = AquataBreatherCount
-    options["For_The_Worthy_Count"] = ForTheWorthyCount
-    options["Eureka_Count"] = EurekaCount
-    options["Caves_Of_Carnage_Key_Count"] = CavesOfCarnageKeyCount
-    options["Black_Mines_Key_Count"] = BlackMinesKeyCount
-    options["Flooded_Depths_Key_Count"] = FloodedDepthsKeyCount
-    options["Burning_Dark_Key_Count"] = BurningDarkKeyCount
+    options["common_card_location_count"] = Common
+    options["uncommon_card_location_count"] = Uncommon
+    options["rare_card_location_count"] = Rare
+    options["legendary_card_location_count"] = Legendary
+    options["crown_shop_location_count"] = CrownShop
+    options["tactical_approach_count"] = TacticalApproachCount
+    options["pork_chop_power_count"] = PorkChopPowerCount
+    options["dungeon_lackey_count"] = DungeonLackeyCount
+    options["pay_to_win_count"] = PayToWinCount
+    options["tailor_for_success_count"] = TailorForSuccessCount
+    options["last_stand_count"] = LastStandCount
+    options["revelation_count"] = RevelationCount
+    options["aquata_breather_count"] = AquataBreatherCount
+    options["for_the_worthy_count"] = ForTheWorthyCount
+    options["eureka_count"] = EurekaCount
+    options["caves_of_carnage_key_count"] = CavesOfCarnageKeyCount
+    options["black_mines_key_count"] = BlackMinesKeyCount
+    options["flooded_depths_key_count"] = FloodedDepthsKeyCount
+    options["burning_dark_key_count"] = BurningDarkKeyCount
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

@@ -23,7 +23,7 @@ If you obtain an item, go into the Master Dungeon Locker on the far back of the 
 ## Some random notes
 
 - Get rid of everything that's in your ender chest by default.
-- The pancake that spawns at the start of each run is for making sure you're topped off on food at the start of the run, not for bringing into the dungeon. If you're full on hunger, ignore it.
+- The pancake that spawns at the start of each run is for making sure you're topped off on food at the start of the run, not for bringing into the dungeon.
 - The game doesn't start if you have an empty deck, and breaks if you have a deck with only Ethereal cards. If you have no cards, put a Sneak into your deck, temporarily, until you get any non-Ethereal cards. It should happen relatively quickly, unless you're playing in a really cursed async.
 
 ## What is the goal of a Manual game when randomized?
@@ -77,7 +77,7 @@ Drop the Decked Out Expansion Pack into your saves folder in your Minecraft inst
 1. Launch the launcher.
 2. Click on Manual client on the right.
 3. At the top enter your server's ip with the port provided (by default archipelago.gg:38281).
-4. In Manual Game ID put "Manual_DeckedOut2_empathymp3" then press the Connect button on the top right.
+4. In Manual Game ID put "Manual_DeckedOut2_mp3" then press the Connect button on the top right.
 5. In the command field at the bottom enter the name of your slot you chose in your Player.yaml then press enter
 
 ## Manual Client
