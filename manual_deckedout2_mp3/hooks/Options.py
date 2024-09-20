@@ -31,6 +31,16 @@ class FillerTrapPercent(Range):
     0 means no Stumbles, 100 means all Moments of Clarity are replaced with Stumbles."""
     range_end = 100
 
+class Embers(DefaultOnToggle):
+    """Should there be locations for having at least a specified amount of Embers in hand at the end of a run?
+    Adds 76 Locations, for having 1 Ember in hand to having 76 Embers."""
+    display_name = "Frost Ember Locations"
+
+class Crowns(DefaultOnToggle):
+    """Should there be locations for having at least a specified amount of Crowns and Coins in hand at the end of a run?
+    Adds 60 Locations, for having 1 Coin in hand to having 16 Crowns."""
+    display_name = "Coin & Crown Locations"
+
 class Common(Range):
     """How many locations should there be for each Common Card purchase?"""
     display_name = "Common Card Location Count"
@@ -166,6 +176,8 @@ class BurningDarkKeyCount(Range):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["frost_ember_locations"] = Embers
+    options["coin_crown_locations"] = Crowns
     options["common_card_location_count"] = Common
     options["uncommon_card_location_count"] = Uncommon
     options["rare_card_location_count"] = Rare

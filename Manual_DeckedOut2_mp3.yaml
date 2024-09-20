@@ -15,12 +15,12 @@ Manual_DeckedOut2_mp3:
 
   goal:
     # Choose your victory condition.
-    enter the hideout: 50
+    enter the hideout: 0
     craft all legendary cards: 0
     complete a 30 ember run: 0
     complete a 40 ember run: 0
     complete a 50 ember run: 0
-    complete a 60 ember run: 0
+    complete a 60 ember run: 50
     complete a 70 ember run: 0
 
   filler_traps:
@@ -40,7 +40,19 @@ Manual_DeckedOut2_mp3:
     'false': 50
     'true': 0
 
-# Location Count Options
+# Location Options
+
+  frost_ember_locations:
+    # Should there be locations for having at least a specified amount of Embers in hand at the end of a run?
+    # Adds 76 Locations, for having 1 Ember in hand to having 76 Embers.
+    'false': 0
+    'true': 50
+
+  coin_crown_locations:
+    # Should there be locations for having at least a specified amount of Crowns and Coins in hand at the end of a run?
+    # Adds 60 Locations, for having 1 Coin in hand to having 16 Crowns.
+    'false': 0
+    'true': 50
 
   common_card_location_count:
     # How many locations should there be for each Common Card purchase?

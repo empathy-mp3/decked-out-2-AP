@@ -2400,8 +2400,960 @@
         "region": "8 Crowns"
     },
     {
+        "name": "Beat a Run with 1 Frost Ember",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 2 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 3 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 4 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 5 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 6 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 7 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 8 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 9 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 10 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 11 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 12 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 13 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Beat a Run with 14 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Beat a Run with 15 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Beat a Run with 16 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "12 Embers"
+    },
+    {
+        "name": "Beat a Run with 17 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Beat a Run with 18 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "16 Embers"
+    },
+    {
+        "name": "Beat a Run with 19 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Beat a Run with 20 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "18 Embers"
+    },
+    {
+        "name": "Beat a Run with 21 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Beat a Run with 22 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "20 Embers"
+    },
+    {
+        "name": "Beat a Run with 23 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beat a Run with 24 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "22 Embers"
+    },
+    {
+        "name": "Beat a Run with 25 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Beat a Run with 26 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "24 Embers"
+    },
+    {
+        "name": "Beat a Run with 27 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Beat a Run with 28 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "Beat a Run with 29 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Beat a Run with 30 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "28 Embers"
+    },
+    {
+        "name": "Beat a Run with 31 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Beat a Run with 32 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "30 Embers"
+    },
+    {
+        "name": "Beat a Run with 33 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Beat a Run with 34 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "32 Embers"
+    },
+    {
+        "name": "Beat a Run with 35 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Beat a Run with 36 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "34 Embers"
+    },
+    {
+        "name": "Beat a Run with 37 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Beat a Run with 38 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Beat a Run with 39 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Beat a Run with 40 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "36 Embers"
+    },
+    {
+        "name": "Beat a Run with 41 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Beat a Run with 42 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "38 Embers"
+    },
+    {
+        "name": "Beat a Run with 43 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Beat a Run with 44 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "Beat a Run with 45 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Beat a Run with 46 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "42 Embers"
+    },
+    {
+        "name": "Beat a Run with 47 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Beat a Run with 48 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "44 Embers"
+    },
+    {
+        "name": "Beat a Run with 49 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Beat a Run with 50 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "46 Embers"
+    },
+    {
+        "name": "Beat a Run with 51 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "48 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 52 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "48 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 53 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "50 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 54 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "50 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 55 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "52 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 56 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "52 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 57 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "54 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 58 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "54 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 59 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "56 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 60 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "56 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 61 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "58 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 62 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "58 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 63 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "60 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 64 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "60 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 65 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "62 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 66 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "62 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 67 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "64 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 68 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "64 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 69 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "66 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 70 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "66 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 71 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "66 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 72 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "66 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 73 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "70 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 74 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "70 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 75 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "70 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 76 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "region": "70 Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a Run with 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "1 Crown"
+    },
+    {
+        "name": "Beat a Run with 1 Crown",
+        "category": [
+            "Crowns"
+        ],
+        "region": "1 Crown"
+    },
+    {
+        "name": "Beat a Run with 1 Crown and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "1 Crown"
+    },
+    {
+        "name": "Beat a Run with 1 Crown and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Beat a Run with 1 Crown and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "2 Crowns"
+    },
+    {
+        "name": "Beat a Run with 2 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Beat a Run with 2 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Beat a Run with 2 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Beat a Run with 2 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "4 Crowns"
+    },
+    {
+        "name": "Beat a Run with 3 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Beat a Run with 3 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Beat a Run with 3 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Beat a Run with 3 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "8 Crowns"
+    },
+    {
+        "name": "Beat a Run with 4 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a Run with 4 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a Run with 4 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a Run with 4 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a Run with 5 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a Run with 5 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a Run with 5 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 5 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 6 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 6 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 6 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 6 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 7 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 7 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 7 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 7 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "16 Crowns"
+    },
+    {
+        "name": "Beat a Run with 8 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 8 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 8 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 8 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 9 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 9 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 9 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 9 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 10 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 10 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 10 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 10 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "20 Crowns"
+    },
+    {
+        "name": "Beat a Run with 11 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 11 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 11 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 11 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 12 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 12 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 12 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 12 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 13 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "24 Crowns"
+    },
+    {
+        "name": "Beat a Run with 14 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 14 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 14 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 15 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 15 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 15 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 15 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
+        "name": "Beat a Run with 16 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "28 Crowns"
+    },
+    {
         "name": "Enter the Hideout",
-        "region": "win",
+        "region": "Hideout",
         "victory": true
     },
     {
@@ -2421,17 +3373,17 @@
     },
     {
         "name": "Complete a 50 Ember run",
-        "region": "50 Embers",
+        "region": "50 Embers In Hand",
         "victory": true
     },
     {
         "name": "Complete a 60 Ember run",
-        "region": "60 Embers",
+        "region": "60 Embers In Hand",
         "victory": true
     },
     {
         "name": "Complete a 70 Ember run",
-        "region": "70 Embers",
+        "region": "70 Embers In Hand",
         "victory": true
     }
 ]

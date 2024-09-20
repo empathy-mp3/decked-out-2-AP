@@ -115,5 +115,15 @@
     },
     "crownshop6th": {
         "hidden": true
+    },
+    "Frost Embers": {
+        "yaml_option": [
+            "frost_ember_locations"
+        ]
+    },
+    "Crowns": {
+        "yaml_option": [
+            "coin_crown_locations"
+        ]
     }
 }
