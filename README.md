@@ -17,7 +17,7 @@ You can also buy more Ethereal cards and Crown Shop items after you get their lo
 If you obtain an item, go into the Master Dungeon Locker on the far back of the foyer, and what you do with it depends on what it is:
 - If it is a Non-Ethereal card, you can put it into your deck before you start a run, but make sure there's only 40 cards in your deck at maximum. You can use the helpful Card Counter to make sure it's within limits! You can store the unused ones in your Ender Chest (though please throw out the cards that start in your ender chest).
 - If it is an Ethereal card, but *not* a Stumble card, you can put it into your deck when you please (or just put it in storage), but it will be consumed on use, so plan when you use them!
-- If it is a Stumble (a trap), you *must* put it into your deck in your next run, and if you already have 40 cards, some of them will have to be temporarily removed. Just, please still try in spite of having a very clear temporary disadvantage
+- If it is a Stumble (a trap), you *must* put it into your deck in your next run, and if you already have 40 cards, some of them will have to be temporarily removed. Just, please still try in spite of having a very clear temporary disadvantage.
 - If it is a Key, you can enter the dungeon with it in your inventory, but like Ethereal cards, they will be consumed, so use them wisely.
 
 ## Some random notes

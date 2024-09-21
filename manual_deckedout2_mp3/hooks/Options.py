@@ -63,13 +63,25 @@ class AreaObjectives(DefaultOnToggle):
     Adds 14 Locations, 3 for each floor, except for The Frozen Crypt (since you don't unlock it)."""
     display_name = "Area Objective Locations"
 
+class VariousGroundItems(DefaultOnToggle):
+    """Should there be locations for winning a run with various ground items in hand?
+    These include keys, repair kits, and The Bomb."""
+    display_name = "Various Ground Item Locations"
+
+class LegendaryParts(Toggle):
+    """Should there be locations for winning a run with the items used to create legendary cards in hand?
+    These include things like Sweet Berries, Spider Eyes, Tropical Fish, and Twisted Vines.
+    These tend to be harder and/or more grindy, with a few exceptions.
+    Slimeballs are not included due to how tedious they are to obtain."""
+    display_name = "Legendary Part Locations"
+
 class Common(Range):
     """How many locations should there be for each Common Card purchase?
     Adds 5 x [this value] locations."""
     display_name = "Common Card Location Count"
     range_start = 0
     range_end = 6
-    default = 6
+    default = 0
 
 class Uncommon(Range):
     """How many locations should there be for each Uncommon Card purchase?
@@ -77,7 +89,7 @@ class Uncommon(Range):
     display_name = "Uncommon Card Location Count"
     range_start = 0
     range_end = 6
-    default = 6
+    default = 0
 
 class Rare(Range):
     """How many locations should there be for each Rare Card purchase?
@@ -85,7 +97,7 @@ class Rare(Range):
     display_name = "Rare Card Location Count"
     range_start = 0
     range_end = 6
-    default = 6
+    default = 0
 
 class Legendary(Range):
     """How many locations should there be for each Legendary Card (which are extremely difficult to obtain)?
@@ -101,7 +113,15 @@ class CrownShop(Range):
     display_name = "Crown Shop Location Count"
     range_start = 0
     range_end = 6
-    default = 6
+    default = 0
+
+class Tome(Range):
+    """How many locations should there be for each unique Victory Tome purchase?
+    Adds 3 x [this value] locations."""
+    display_name = "Victory Tome Location Count"
+    range_start = 0
+    range_end = 6
+    default = 0
 
 class TacticalApproachCount(Range):
     """Number of filler to be replaced by the Tactical Approach Card (a single-use crown shop card)."""
@@ -160,11 +180,11 @@ class AquataBreatherCount(Range):
     default = 6
 
 class ForTheWorthyCount(Range):
-    """Number of filler to be replaced by the For the Worthy Card (a single-use rare card)."""
+    """Number of filler to be replaced by the For the Worthy Card (a single-use legendary card)."""
     display_name = "For the Worthy Count"
     range_start = 0
     range_end = 8
-    default = 4
+    default = 0
 
 class EurekaCount(Range):
     """Number of filler to be replaced by the Eureka Card (a single-use legendary card)."""
@@ -209,11 +229,14 @@ def before_options_defined(options: dict) -> dict:
     options["unique_card_locations"] = UniqueCards
     options["difficulty_objective_locations"] = DifficultyObjectives
     options["area_objective_locations"] = AreaObjectives
+    options["various_ground_item_locations"] = VariousGroundItems
+    options["legendary_part_locations"] = LegendaryParts
     options["common_card_location_count"] = Common
     options["uncommon_card_location_count"] = Uncommon
     options["rare_card_location_count"] = Rare
     options["legendary_card_location_count"] = Legendary
     options["crown_shop_location_count"] = CrownShop
+    options["victory_tome_location_count"] = Tome
     options["tactical_approach_count"] = TacticalApproachCount
     options["pork_chop_power_count"] = PorkChopPowerCount
     options["dungeon_lackey_count"] = DungeonLackeyCount

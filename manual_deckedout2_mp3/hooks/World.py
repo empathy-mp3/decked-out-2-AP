@@ -42,6 +42,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     rare = get_option_value(multiworld, player, "rare_card_location_count")
     leg = get_option_value(multiworld, player, "legendary_card_location_count")
     crown = get_option_value(multiworld, player, "crown_shop_location_count")
+    tome = get_option_value(multiworld, player, "victory_tome_location_count")
     # Use this hook to remove locations from the world
     locationNamesToRemove = [] # List of location names
 
@@ -107,6 +108,18 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         if "crownshop5th" in location.get("category", []) and crown < 5:
             locationNamesToRemove.append(location["name"])
         if "crownshop6th" in location.get("category", []) and crown < 6:
+            locationNamesToRemove.append(location["name"])
+        if "tome1st" in location.get("category", []) and tome < 1:
+            locationNamesToRemove.append(location["name"])
+        if "tome2nd" in location.get("category", []) and tome < 2:
+            locationNamesToRemove.append(location["name"])
+        if "tome3rd" in location.get("category", []) and tome < 3:
+            locationNamesToRemove.append(location["name"])
+        if "tome4th" in location.get("category", []) and tome < 4:
+            locationNamesToRemove.append(location["name"])
+        if "tome5th" in location.get("category", []) and tome < 5:
+            locationNamesToRemove.append(location["name"])
+        if "tome6th" in location.get("category", []) and tome < 6:
             locationNamesToRemove.append(location["name"])
 
     for region in multiworld.regions:

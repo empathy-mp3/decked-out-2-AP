@@ -337,7 +337,8 @@
     "26 No Embers": {
         "connects_to": [
             "28 No Embers",
-            "12 Crowns"
+            "12 Crowns",
+            "Floor 2 Survival"
         ],
         "requires": "(((|@Clank Block:4| or (|Silent Runner| and (|@Speed:3| or |Boots of Swiftness|)) or (|@Clank Block:3| and |Evasion|) or (|@Clank Block:2| and |Eerie Silence|))) and (|@Hazard Block:4| or (|@Hazard Block:3| and (|Tread Lightly| or |Bounding Strides|)) or (|@Hazard Block:2| and |Dungeon Repairs|)) and |@Card:18|"
     },
@@ -473,5 +474,8 @@
     },
     "70 No Embers": {
         "requires": "(|@Clank Block:9| and (|Silent Runner| and (|@Speed:5| or (|@Speed:4| and |Sprint:2|) or |Sprint:3|)) or (|Evasion:3| and |Eerie Silence:2|) or |Eerie Silence:3| or (|Fuzzy Bunny Slippers| and (|Evasion:3| or |Eerie Silence:2|))) and (|@Hazard Block:9| and (|Tread Lightly:3| and |Dungeon Repairs|) or (|Tread Lightly:2| and |Dungeon Repairs:2|) or |Dungeon Repairs:3|)"
+    },
+    "Floor 2 Survival": {
+        "requires": "|Second Wind:2| or |Ambrosia| or |Enlightenment|"
     }
 }

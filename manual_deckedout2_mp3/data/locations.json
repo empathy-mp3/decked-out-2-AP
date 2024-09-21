@@ -2400,6 +2400,150 @@
         "region": "8 Crowns"
     },
     {
+        "name": "1 Victory Tome - 1",
+        "category": [
+            "Victory Tome",
+            "tome1st"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "1 Victory Tome - 2",
+        "category": [
+            "Victory Tome",
+            "tome2nd"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "1 Victory Tome - 3",
+        "category": [
+            "Victory Tome",
+            "tome3rd"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "1 Victory Tome - 4",
+        "category": [
+            "Victory Tome",
+            "tome4th"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "1 Victory Tome - 5",
+        "category": [
+            "Victory Tome",
+            "tome5th"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "1 Victory Tome - 6",
+        "category": [
+            "Victory Tome",
+            "tome6th"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "3 Victory Tomes - 1",
+        "category": [
+            "Victory Tome",
+            "tome1st"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "3 Victory Tomes - 2",
+        "category": [
+            "Victory Tome",
+            "tome2nd"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "3 Victory Tomes - 3",
+        "category": [
+            "Victory Tome",
+            "tome3rd"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "3 Victory Tomes - 4",
+        "category": [
+            "Victory Tome",
+            "tome4th"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "3 Victory Tomes - 5",
+        "category": [
+            "Victory Tome",
+            "tome5th"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "3 Victory Tomes - 6",
+        "category": [
+            "Victory Tome",
+            "tome6th"
+        ],
+        "region": "26 Embers"
+    },
+    {
+        "name": "5 Victory Tomes - 1",
+        "category": [
+            "Victory Tome",
+            "tome1st"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "5 Victory Tomes - 2",
+        "category": [
+            "Victory Tome",
+            "tome2nd"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "5 Victory Tomes - 3",
+        "category": [
+            "Victory Tome",
+            "tome3rd"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "5 Victory Tomes - 4",
+        "category": [
+            "Victory Tome",
+            "tome4th"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "5 Victory Tomes - 5",
+        "category": [
+            "Victory Tome",
+            "tome5th"
+        ],
+        "region": "40 Embers"
+    },
+    {
+        "name": "5 Victory Tomes - 6",
+        "category": [
+            "Victory Tome",
+            "tome6th"
+        ],
+        "region": "40 Embers"
+    },
+    {
         "name": "Beat a Run with 1 Frost Ember",
         "category": [
             "Frost Embers"
@@ -3854,6 +3998,174 @@
             "Unique Cards"
         ],
         "region": "66 Embers"
+    },
+    {
+        "name": "Beat a run with Sweet Berries in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "Beat a run with Caves of Carnage Key in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "22 No Embers"
+    },
+    {
+        "name": "Beat a run with Amethyst in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "24 No Embers"
+    },
+    {
+        "name": "Beat a run with Pumpkin in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Beat a run with Melon in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Beat a run with Cactus in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Beat a run with Egg in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with Glow Ink Sac in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Beat a run with Tropical Fish in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Beat a run with Bone Meal in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with Sugar in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with Glow Berry in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with Rusty Repair Kit in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Beat a run with Spider Eye in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "Floor 2 Survival"
+    },
+    {
+        "name": "Beat a run with The Black Mines Key in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with The Flooded Depths Key in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with Key to the Black Market in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Beat a run with The Burning Dark Key in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "42 No Embers"
+    },
+    {
+        "name": "Beat a run with Basalt in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "52 No Embers"
+    },
+    {
+        "name": "Beat a run with Twisted Vines in Hand",
+        "category": [
+            "Various Items",
+            "variouslegendary"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "Beat a run with The Bomb in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "70 No Embers"
     },
     {
         "name": "Enter the Hideout",

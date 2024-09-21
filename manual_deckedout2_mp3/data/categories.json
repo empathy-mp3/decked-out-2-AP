@@ -145,5 +145,15 @@
         "yaml_option": [
             "area_objective_locations"
         ]
+    },
+    "variousregular": {
+        "yaml_option": [
+            "various_ground_item_locations"
+        ]
+    },
+    "variouslegendary": {
+        "yaml_option": [
+            "legendary_part_locations"
+        ]
     }
 }
