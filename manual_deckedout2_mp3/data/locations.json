@@ -3584,14 +3584,14 @@
         "category": [
             "Area Objectives"
         ],
-        "region": "22 No Embers"
+        "region": "18 No Embers"
     },
     {
         "name": "Obtain an Artifact from The Caves of Carnage",
         "category": [
             "Area Objectives"
         ],
-        "region": "26 No Embers"
+        "region": "24 No Embers"
     },
     {
         "name": "Escape with an Artifact from The Caves of Carnage",
@@ -3643,11 +3643,18 @@
         "region": "36 No Embers"
     },
     {
-        "name": "Unlock The Burning Dark",
+        "name": "Unlock The Burning Dark from the Black Mines",
         "category": [
             "Area Objectives"
         ],
         "region": "40 No Embers"
+    },
+    {
+        "name": "Unlock The Burning Dark from the Flooded Depths",
+        "category": [
+            "Area Objectives"
+        ],
+        "region": "46 No Embers"
     },
     {
         "name": "Obtain an Artifact from The Burning Dark",
@@ -4000,6 +4007,38 @@
         "region": "66 Embers"
     },
     {
+        "name": "Beat a run with 1 unique Key in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "18 No Embers"
+    },
+    {
+        "name": "Beat a run with 2 unique Keys in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "Beat a run with 3 unique Keys in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "32 No Embers"
+    },
+    {
+        "name": "Beat a run with 4 unique Keys in Hand",
+        "category": [
+            "Various Items",
+            "variousregular"
+        ],
+        "region": "44 No Embers"
+    },
+    {
         "name": "Beat a run with Sweet Berries in Hand",
         "category": [
             "Various Items",
@@ -4013,7 +4052,7 @@
             "Various Items",
             "variousregular"
         ],
-        "region": "22 No Embers"
+        "region": "18 No Embers"
     },
     {
         "name": "Beat a run with Amethyst in Hand",
@@ -4164,6 +4203,150 @@
         "category": [
             "Various Items",
             "variousregular"
+        ],
+        "region": "70 No Embers"
+    },
+    {
+        "name": "Swim to the Bottom of the TNT Room Lake",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "10 Embers",
+        "requires": "|@Survival:1|"
+    },
+    {
+        "name": "Enter the Crypt",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "12 No Embers"
+    },
+    {
+        "name": "Jump on the Free Key Platform in the Crypt",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "16 No Embers",
+        "requires": "|Bounding Strides| or (|Boots of Swiftness| and |@Card:3|)"
+    },
+    {
+        "name": "Repair Rusty",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "12 Crowns"
+    },
+    {
+        "name": "Cross the Spider Room Alive",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "22 No Embers",
+        "requires": "|@Survival:1|"
+    },
+    {
+        "name": "Board the Ship",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "26 No Embers"
+    },
+    {
+        "name": "Enter the Black Market",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "34 No Embers"
+    },
+    {
+        "name": "Go to the Middle Floor in The Black Mines",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Go to the Bottom Floor in The Black Mines",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "40 No Embers"
+    },
+    {
+        "name": "Enter the Warden's Office in The Black Mines",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Enter the Warden's Office in The Flooded Depths",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "30 No Embers"
+    },
+    {
+        "name": "Collect an Aquata Breather Card in the Flooded Depths",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "34 No Embers",
+        "requires": "|Bounding Strides:3| or (|Boots of Swiftness| and |Bounding Strides|)"
+    },
+    {
+        "name": "Enter the Submarine in The Flooded Depths",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "38 No Embers"
+    },
+    {
+        "name": "Enter the Bee Room in The Flooded Depths",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "44 No Embers"
+    },
+    {
+        "name": "Enter a Burning Dark Tower",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "54 No Embers"
+    },
+    {
+        "name": "Enter 2 Burning Dark Towers in 1 run",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "Enter 3 Burning Dark Towers in 1 run",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "58 No Embers"
+    },
+    {
+        "name": "Enter 4 Burning Dark Towers in 1 run",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "62 No Embers"
+    },
+    {
+        "name": "Enter 5 Burning Dark Towers in 1 run",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "66 No Embers"
+    },
+    {
+        "name": "Blow up the Gate with The Bomb",
+        "category": [
+            "Various Areas"
         ],
         "region": "70 No Embers"
     },

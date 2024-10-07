@@ -314,7 +314,7 @@
             "20 No Embers",
             "8 Crowns"
         ],
-        "requires": "|@Card:7|"
+        "requires": "|@Card:7| and |@Treasure:2|"
     },
     "20 No Embers": {
         "connects_to": [

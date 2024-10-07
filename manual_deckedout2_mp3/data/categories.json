@@ -155,5 +155,10 @@
         "yaml_option": [
             "legendary_part_locations"
         ]
+    },
+    "Various Areas": {
+        "yaml_option": [
+            "various_area_locations"
+        ]
     }
 }

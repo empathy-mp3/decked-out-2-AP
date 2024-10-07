@@ -54,41 +54,92 @@ Manual_DeckedOut2_mp3:
     'false': 0
     'true': 50
 
+  artifake_locations:
+    # Should there be locations for obtaining amounts of unique artifakes?
+    # Artifakes are copies of artifacts that can be obtained in the Frost Ember shop for no price.
+    # Adds 22 Locations (note that there are 28 artifacts as a whole, so there is some leeway to reduce grinding).
+    'false': 0
+    'true': 50
+
+  unique_card_locations:
+    # Should there be locations for obtaining amounts of unique cards from the Frost Ember shop?
+    # When you buy a card from the Frost Ember shop, set it aside in a chest, and count how many unique ones there are.
+    # Adds 26 Locations (note that there are 33 cards as a whole, so there is some leeway to reduce grinding).
+    'false': 0
+    'true': 50
+
+  difficulty_objective_locations:
+    # Should there be locations for obtaining an artifact and beating a run on each difficulty?
+    # Adds 10 Locations, 2 for each difficulty.
+    'false': 0
+    'true': 50
+
+  area_objective_locations:
+    # Should there be locations for unlocking each floor, obtaining an artifact from each floor, and escapinng with an artifact from each floor?
+    # Adds 15 Locations, 3 for each floor (except Frozen Crypt has 2 and The Burning Dark has 4).
+    'false': 0
+    'true': 50
+
+  various_ground_item_locations:
+    # Should there be locations for winning a run with various ground items in hand?
+    # These include keys, repair kits, and The Bomb. Adds 11 Locations.
+    'false': 0
+    'true': 50
+
+  legendary_part_locations:
+    # Should there be locations for winning a run with the items used to create legendary cards in hand?
+    # These include things like Sweet Berries, Spider Eyes, Tropical Fish, and Twisted Vines.
+    # These tend to be harder and/or more grindy, with a few exceptions.
+    # Slimeballs are not included due to how tedious they are to obtain.
+    # Adds 14 Locations.
+    'false': 50
+    'true': 0
+
+  various_area_locations:
+    # Should there be locations for going to various areas (and doing various tasks in some of those spots)?
+    # Most of these are rooms you'll have to go out of your way to visit. Adds 20 Locations.
+    'false': 0
+    'true': 50
+
   common_card_location_count:
     # How many locations should there be for each Common Card purchase?
+    # Adds 5 x [this value] locations.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 6
-    6: 50
+    0: 50
     random: 0
     random-low: 0
     random-high: 0
 
   uncommon_card_location_count:
     # How many locations should there be for each Uncommon Card purchase?
+    # Adds 15 x [this value] locations.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 6
-    6: 50
+    0: 50
     random: 0
     random-low: 0
     random-high: 0
 
   rare_card_location_count:
     # How many locations should there be for each Rare Card purchase?
+    # Adds 13 x [this value] locations.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 6
-    6: 50
+    0: 50
     random: 0
     random-low: 0
     random-high: 0
 
   legendary_card_location_count:
     # How many locations should there be for each Legendary Card (which are extremely difficult to obtain)?
+    # Adds 7 x [this value] locations.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
@@ -100,11 +151,24 @@ Manual_DeckedOut2_mp3:
 
   crown_shop_location_count:
     # How many locations should there be for each Crown Shop purchase?
+    # Adds 10 x [this value] locations.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 6
-    6: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  victory_tome_location_count:
+    # How many locations should there be for each unique Victory Tome purchase?
+    # Adds 3 x [this value] locations.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 6
+    0: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -199,12 +263,12 @@ Manual_DeckedOut2_mp3:
     random-high: 0
 
   for_the_worthy_count:
-    # Number of filler to be replaced by the For the Worthy Card (a single-use rare card).
+    # Number of filler to be replaced by the For the Worthy Card (a single-use legendary card).
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 8
-    4: 50
+    0: 50
     random: 0
     random-low: 0
     random-high: 0

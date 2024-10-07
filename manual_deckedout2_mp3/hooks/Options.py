@@ -60,20 +60,26 @@ class DifficultyObjectives(DefaultOnToggle):
 
 class AreaObjectives(DefaultOnToggle):
     """Should there be locations for unlocking each floor, obtaining an artifact from each floor, and escapinng with an artifact from each floor?
-    Adds 14 Locations, 3 for each floor, except for The Frozen Crypt (since you don't unlock it)."""
+    Adds 15 Locations, 3 for each floor (except Frozen Crypt has 2 and The Burning Dark has 4)."""
     display_name = "Area Objective Locations"
 
 class VariousGroundItems(DefaultOnToggle):
     """Should there be locations for winning a run with various ground items in hand?
-    These include keys, repair kits, and The Bomb."""
+    These include keys, repair kits, and The Bomb. Adds 11 Locations."""
     display_name = "Various Ground Item Locations"
 
 class LegendaryParts(Toggle):
     """Should there be locations for winning a run with the items used to create legendary cards in hand?
     These include things like Sweet Berries, Spider Eyes, Tropical Fish, and Twisted Vines.
     These tend to be harder and/or more grindy, with a few exceptions.
-    Slimeballs are not included due to how tedious they are to obtain."""
+    Slimeballs are not included due to how tedious they are to obtain.
+    Adds 14 Locations."""
     display_name = "Legendary Part Locations"
+
+class VariousAreas(DefaultOnToggle):
+    """Should there be locations for going to various areas (and doing various tasks in some of those spots)?
+    Most of these are rooms you'll have to go out of your way to visit. Adds 20 Locations."""
+    display_name = "Various Area Locations"
 
 class Common(Range):
     """How many locations should there be for each Common Card purchase?
@@ -231,6 +237,7 @@ def before_options_defined(options: dict) -> dict:
     options["area_objective_locations"] = AreaObjectives
     options["various_ground_item_locations"] = VariousGroundItems
     options["legendary_part_locations"] = LegendaryParts
+    options["various_area_locations"] = VariousAreas
     options["common_card_location_count"] = Common
     options["uncommon_card_location_count"] = Uncommon
     options["rare_card_location_count"] = Rare
