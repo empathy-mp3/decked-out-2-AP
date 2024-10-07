@@ -4,25 +4,54 @@
 
 It's a Roguelike built entirely in survival minecraft. Check out [this video](https://youtu.be/aoVVCwx6k1w) to learn more.
 
-## Where is the settings page?
-
-The .yaml file is included with the GitHub release.
-
 ## What does randomization do to this game?
 
-There are cards that help you stay alive in the dungeon for longer, and these are randomized. There are 6 locations corresponding to each card in the Frost Ember shop at the end of each run, and 5 or 6 locations corresponding to everything you can buy at the Crown Shop in the foyer. Once you buy something, check off all 6 corresponding locations, and throw away whatever it was you purchased.
+There are cards that help you stay alive in the dungeon for longer, and these are randomized.
 
-You can also buy more Ethereal cards and Crown Shop items after you get their locations (so that you have *something* to do with spare crowns and embers). Just don't keep any cards that aren't Ethereal.
-
-If you obtain an item, go into the Master Dungeon Locker on the far back of the foyer, and what you do with it depends on what it is:
+If you obtain an item, get it from the row of Shulker Boxes in the foyer, and what you do with it depends on what it is:
 - If it is a Non-Ethereal card, you can put it into your deck before you start a run, but make sure there's only 40 cards in your deck at maximum. You can use the helpful Card Counter to make sure it's within limits! You can store the unused ones in your Ender Chest (though please throw out the cards that start in your ender chest).
 - If it is an Ethereal card, but *not* a Stumble card, you can put it into your deck when you please (or just put it in storage), but it will be consumed on use, so plan when you use them!
 - If it is a Stumble (a trap), you *must* put it into your deck in your next run, and if you already have 40 cards, some of them will have to be temporarily removed. Just, please still try in spite of having a very clear temporary disadvantage.
 - If it is a Key, you can enter the dungeon with it in your inventory, but like Ethereal cards, they will be consumed, so use them wisely.
 
+## Locations
+
+All locations are toggleable by yaml options, and some can be adjusted to have 0-6 of those locations. 0 removes the locations entirely, and each number after 1 adds a duplicate of each location.
+
+The locations are for:
+- Having an amount of Frost Embers when you finish a run
+  - This includes the embers from your artifact and the embers from unlocking floors. Once you open up the Frost Ember Shop, it's this amount.
+  - If you have more than the amount a location specifies, you can check off that location off as well.
+- Having an amount of Coins/Crowns when you finish a run
+  - If you have more than the amount a location specifies, you can check off that location off as well.
+- Having an amount of Artifakes in your collection
+  - You get those from the button in the far back of the Frost Ember shop. You just need to have a varied supply of artifakes.
+  - Store them in Artifake Collection barrel by the dungeon entrance. Each unique one is a check! You don't have to get all of them.
+- Having an amount of Cards from the Frost Ember shop in your collection
+  - You get these by buying cards in the Frost Ember shop. You just need to have a varied supply of cards.
+  - Store them in Card Collection barrel by the dungeon entrance. Each unique one is a check! You don't have to get all of them.
+  - You can't use these cards in runs, and legendary cards or cards from the crown shop don't count.
+- Beating runs and obtaining artifacts on certain difficulties
+- Unlocking, obtaining artifacts from, and beating runs from certain floors.
+- Having various ground items in hand when you finish a run
+- Having the items used to make legendary cards in hand when you finish a run
+  - Off by default, but much easier than legendary card locations, since you don't have to get all parts in the same run.
+- Entering various areas (and doing certain tasks in some of them)
+There's also the old locations, which are adjustable from 0-6 amount of them.
+For these, you buy things from the Frost Ember shop or the Crown Shop, and throw them away after you check off their locations
+- If you're using Unique Cards locations, don't throw away the Frost Ember shop cards.
+- You can also buy more Ethereal cards and Crown Shop items after you get their locations and keep them for later use (so that you have *something* to do with spare crowns and embers). Just don't keep any cards that aren't Ethereal.
+The old locations are for:
+- Common Cards
+- Uncommon Cards
+- Rare Cards
+- Legendary Cards
+- Crown Shop items
+- Victory Tomes
+
 ## Some random notes
 
-- Get rid of everything that's in your ender chest by default.
+- Throw away everything that's in your ender chest by default.
 - The pancake that spawns at the start of each run is for making sure you're topped off on food at the start of the run, not for bringing into the dungeon.
 - The game doesn't start if you have an empty deck, and breaks if you have a deck with only Ethereal cards. If you have no cards, put a Sneak into your deck, temporarily, until you get any non-Ethereal cards. It should happen relatively quickly, unless you're playing in a really cursed async.
 
@@ -36,24 +65,18 @@ There are 7 goal options to choose from:
 
 - Craft All Legendary Cards
   - As described further down, go to The Forge, and craft each legendary card.
-  - It's a very long goal. Even when you're logically able to get there, you'll have to make 7 separate runs to craft each legendary card (unless you somehow manage to craft multiple legendary cards in one run, which is probably impossible)
+  - It's an extremely long goal. Even when you're logically able to get there, you'll have to make 7 separate runs to craft each legendary card (unless you somehow manage to craft multiple legendary cards in one run, which is probably impossible)
 
 - Complete a 30/40/50/60/70 Ember Run
   - As you enter the Frost Ember Shop, have the required amount of Frost Embers in hand.
   - These are less involved goals, but the early ones have a lot less interesting logic.
   - I think it's cooler to do the previous two goals, but like, they are extremely involved, so I get not wanting to do those things.
-  - 30 embers *might* be sync-viable, but given how exhausting this game can be (at least to me), it may be better to do this in an async anyway. Perhaps I'm unique in that regard.
-
-## Which items can be in another player's world?
-
-Cards and Keys.
 
 ## Required Software
 
 - Minecraft Java Edition from the [Minecraft Java Edition Store Page](https://www.minecraft.net/en-us/store/minecraft-java-edition)
   - You don't need to have it installed, you just need to own it.
 - Archipelago from the [Archipelago Releases Page](https://github.com/ArchipelagoMW/Archipelago/releases)
-- The [Decked Out Expansion Pack 2.0](https://www.curseforge.com/minecraft/worlds/decked-out-expansion-pack/files/)
 - The following mods:
 
   - [AudioPlayer](https://modrinth.com/mod/audioplayer/version/fabric-1.20.1-1.8.6)
@@ -70,7 +93,7 @@ Cards and Keys.
 
 Make sure a copy of the Manual world is in the lib/world directory of your client-side installation.
 In the Mod Manager of your choice, install all of the mods for Fabric 1.20.1.
-Drop the Decked Out Expansion Pack into your saves folder in your Minecraft install.
+Drop the "Decked Out Expansion Pack 2.0 AP version" folder from world.zip in the [releases](https://github.com/empathy-mp3/decked-out-2-AP/releases/latest) into your saves folder in your Minecraft install.
 
 ## Joining a MultiWorld Game
 

@@ -41,7 +41,6 @@ Manual_DeckedOut2_mp3:
     'true': 0
 
 # Location Options
-
   frost_ember_locations:
     # Should there be locations for having at least a specified amount of Embers in hand at the end of a run?
     # Adds 76 Locations, for having 1 Ember in hand to having 76 Embers.
