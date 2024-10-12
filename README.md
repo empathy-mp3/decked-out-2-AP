@@ -57,7 +57,7 @@ The old locations are for:
 
 ## What is the goal of a Manual game when randomized?
 
-There are 7 goal options to choose from:
+There are 12 goal options to choose from:
 
 - Enter The Hideout:
   - The goal is to make it down to **The Burning Dark** (Level 4), obtain **The Bomb** that spawns in the towers around the level, and bring it to the giant gateway, and put it in the barrel, go in, and push the button to open **The Hideout**, and, in the same run, you need to have obtained a **The Master's Key** artifact from Level 4 (Deepfrost difficulty). Once you've done both of those things, go to the flat structure nearby the gateway, and quickly run through the gap in the side of it (across the pressuren plate), while burning on the magma blocks. There should be a hole to fall down (if there's too small a gap to fit through, you weren't fast enough), and from there you put the master's key into the barrel, and proceed into the hideout. Once you've done that, you've won!
@@ -71,6 +71,19 @@ There are 7 goal options to choose from:
   - As you enter the Frost Ember Shop, have the required amount of Frost Embers in hand.
   - These are less involved goals, but the early ones have a lot less interesting logic.
   - I think it's cooler to do the previous two goals, but like, they are extremely involved, so I get not wanting to do those things.
+
+- Acquire 27 Unique Cards / 23 Unique Artifakes
+  - Works just like the unique card and unique artifake locations.
+  - Don't use this without the unique cards and unique artifakes location options, or it'll be unnecessarily grindy.
+
+- Complete 70 Ember and 16 Crown Run
+  - Just a bit harder than the 70 ember goal.
+
+- Complete a Deepfrost Difficulty run
+  - Go down to the Burning Dark, get an artifact, and escape alive on Deepfrost difficulty.
+
+- Blow up the Gateway with the Bomb:
+  - An easier form of the hideout goal. No longer requires enough luck to get The Master's Key in the same run you get the bomb.
 
 ## Required Software
 
