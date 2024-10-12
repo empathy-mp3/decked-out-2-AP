@@ -88,7 +88,12 @@
     },
     "40 Embers": {
         "connects_to": [
-            "42 Embers"
+            "42 Embers",
+            "Eureka",
+            "Cash Cow",
+            "Beast Master",
+            "Boots of Swiftness",
+            "Glorious Moment"
         ],
         "requires": "(|@Uncommon:12| or |@Rare:4| or (|@Rare:2| and |@Legendary|) or |@Legendary:2|) and |@Card:31|"
     },
@@ -382,11 +387,6 @@
     "40 No Embers": {
         "connects_to": [
             "42 No Embers",
-            "Eureka",
-            "Cash Cow",
-            "Beast Master",
-            "Boots of Swiftness",
-            "Glorious Moment",
             "20 Crowns"
         ],
         "requires": "(|@Uncommon:12| or |@Rare:4| or (|@Rare:2| and |@Legendary|) or |@Legendary:2|) and |@Card:31|"
@@ -418,7 +418,8 @@
     },
     "50 No Embers": {
         "connects_to": [
-            "52 No Embers"
+            "52 No Embers",
+            "Avalanche"
         ],
         "requires": "(((|@Clank Block:6| and (|Silent Runner| and (|@Speed:3| or |Sprint:2| or |Boots of Swiftness|)) or (|Evasion:2| and |Eerie Silence|) or |Eerie Silence:2| or (|Fuzzy Bunny Slippers| and (|Evasion| or |Eerie Silence|)))) and ((|@Hazard Block:6| and (|Tread Lightly:2| or (|Tread Lightly| and |Dungeon Repairs|) or |Dungeon Repairs:2| or |Bounding Strides:2| or |Boots of Swiftness|) and |@Card:40|"
     },
@@ -449,7 +450,9 @@
     },
     "60 No Embers": {
         "connects_to": [
-            "62 No Embers"
+            "62 No Embers",
+            "Enlightenment",
+            "All Legendary"
         ],
         "requires": "(|Bounding Strides:2| and |@Speed:1|) or (|Bounding Strides| and |@Speed:3|) or (|@Speed:5|)"
     },
