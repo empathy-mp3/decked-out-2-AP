@@ -3563,7 +3563,7 @@
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "52 No Embers"
+        "region": "54 No Embers"
     },
     {
         "name": "Obtain an Artifact from The Frozen Crypt",
@@ -4383,6 +4383,32 @@
     {
         "name": "Complete a 70 Ember run",
         "region": "70 Embers In Hand",
+        "victory": true
+    },
+    {
+        "name": "Acquire 27 Unique Cards",
+        "region": "70 Embers",
+        "victory": true
+    },
+    {
+        "name": "Acquire 23 Unique Artifakes",
+        "region": "60 No Embers",
+        "victory": true
+    },
+    {
+        "name": "Complete a 70 Ember and 16 Crown run",
+        "region": "70 Embers In Hand",
+        "victory": true,
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
+    },
+    {
+        "name": "Complete a Deepfrost Difficulty run",
+        "region": "54 No Embers",
+        "victory": true
+    },
+    {
+        "name": "Blow up the Gateway with The Bomb",
+        "region": "70 No Embers",
         "victory": true
     }
 ]

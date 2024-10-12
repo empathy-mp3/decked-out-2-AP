@@ -22,6 +22,11 @@ Manual_DeckedOut2_mp3:
     complete a 50 ember run: 0
     complete a 60 ember run: 50
     complete a 70 ember run: 0
+    acquire 27 unique cards: 0
+    acquire 23 unique artifakes: 0
+    complete a 70 ember and 16 crown run: 0
+    complete a deepfrost difficulty run: 0
+    blow up the gateway with the bomb: 0
 
   filler_traps:
     # What percentage of Moments of Clarity (filler) should be replaced by Stumbles (traps)?
