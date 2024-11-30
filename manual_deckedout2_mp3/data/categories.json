@@ -116,6 +116,24 @@
     "crownshop6th": {
         "hidden": true
     },
+    "tome1st": {
+        "hidden": true
+    },
+    "tome2nd": {
+        "hidden": true
+    },
+    "tome3rd": {
+        "hidden": true
+    },
+    "tome4th": {
+        "hidden": true
+    },
+    "tome5th": {
+        "hidden": true
+    },
+    "tome6th": {
+        "hidden": true
+    },
     "Frost Embers": {
         "yaml_option": [
             "frost_ember_locations"
@@ -149,12 +167,14 @@
     "variousregular": {
         "yaml_option": [
             "various_ground_item_locations"
-        ]
+        ],
+        "hidden":  true
     },
     "variouslegendary": {
         "yaml_option": [
             "legendary_part_locations"
-        ]
+        ],
+        "hidden":  true
     },
     "Various Areas": {
         "yaml_option": [
