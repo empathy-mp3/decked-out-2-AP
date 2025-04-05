@@ -3,6 +3,7 @@
         "connects_to": [
             "12 Embers",
             "1 Crown",
+            "1 Crown Shop",
             "12 No Embers"
         ],
         "starting": true,
@@ -252,31 +253,100 @@
         ]
     },
     "2 Crowns": {
-        "requires": "|@Treasure:3| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush|",
+        "requires": "|@Treasure:3| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush| or |Ambrosia:1| or |Second Wind:2|",
         "connects_to": [
             "4 Crowns"
         ]
     },
     "4 Crowns": {
-        "requires": "|@Treasure:4| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:13|) or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|"
+        "requires": "|@Treasure:4| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:13|) or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or |Ambrosia:1| or |Second Wind:2|",
+        "connects_to": [
+            "8 Crowns"
+        ]
     },
     "8 Crowns": {
-        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:24|)"
+        "requires": "(|@Treasure:5| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:4| and |Cash Cow| and |@Card:20|)",
+        "connects_to": [
+            "12 Crowns"
+        ]
     },
     "12 Crowns": {
-        "requires": "(|@Treasure:7| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:5| and |Cash Cow| and |@Card:28|)"
+        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:5| and |Cash Cow| and |@Card:24|)",
+        "connects_to": [
+            "16 Crowns"
+        ]
     },
     "16 Crowns": {
-        "requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:5| and |Cash Cow| and |@Card:32|)"
+        "requires": "(|@Treasure:7| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:5| and |Cash Cow| and |@Card:28|)",
+        "connects_to": [
+            "20 Crowns"
+        ]
     },
     "20 Crowns": {
-        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
+        "requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:6| and |Cash Cow| and |@Card:36|)",
+        "connects_to": [
+            "20 Crowns"
+        ]
     },
     "24 Crowns": {
-        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)",
+        "connects_to": [
+            "24 Crowns"
+        ]
     },
     "28 Crowns": {
-        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
+    },
+    "1 Crown Shop": {
+        "requires": "|@Treasure:3| or |Loot & Scoot| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|)",
+        "connects_to": [
+            "2 Crown Shop"
+        ]
+    },
+    "2 Crown Shop": {
+        "requires": "|@Treasure:4| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:9|) or (|Nimble Looting| and |@Clank Block:2|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|)",
+        "connects_to": [
+            "4 Crown Shop"
+        ]
+    },
+    "4 Crown Shop": {
+        "requires": "|@Treasure:5| or |Swagger| or |Smash & Grab| or (|Cash Cow| and |@Card:13|) or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|)",
+        "connects_to": [
+            "8 Crown Shop"
+        ]
+    },
+    "8 Crown Shop": {
+        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:4| and |Cash Cow| and |@Card:24|)",
+        "connects_to": [
+            "12 Crown Shop"
+        ]
+    },
+    "12 Crown Shop": {
+        "requires": "(|@Treasure:7| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:5| and |Cash Cow| and |@Card:28|)",
+        "connects_to": [
+            "16 Crown Shop"
+        ]
+    },
+    "16 Crown Shop": {
+        "requires": "(|@Treasure:8| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:5| and |Cash Cow| and |@Card:32|)",
+        "connects_to": [
+            "20 Crown Shop"
+        ]
+    },
+    "20 Crown Shop": {
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)",
+        "connects_to": [
+            "24 Crown Shop"
+        ]
+    },
+    "24 Crown Shop": {
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)",
+        "connects_to": [
+            "28 Crown Shop"
+        ]
+    },
+    "28 Crown Shop": {
+        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
     },
     "Eureka": {
         "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:4| and |Cash Cow| and |@Card:26|)"

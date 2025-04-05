@@ -1,2545 +1,415 @@
 [
     {
-        "name": "Sneak - 1",
+        "name": "Sneak",
         "category": [
             "Common",
-            "common1st"
+            "Ember Shop"
         ],
         "region": "10 Embers"
     },
     {
-        "name": "Sneak - 2",
+        "name": "Stability",
         "category": [
             "Common",
-            "common2nd"
+            "Ember Shop"
         ],
         "region": "10 Embers"
     },
     {
-        "name": "Sneak - 3",
+        "name": "Treasure Hunter",
         "category": [
             "Common",
-            "common3rd"
+            "Ember Shop"
         ],
         "region": "10 Embers"
     },
     {
-        "name": "Sneak - 4",
+        "name": "Ember Seeker",
         "category": [
             "Common",
-            "common4th"
+            "Ember Shop"
         ],
         "region": "10 Embers"
     },
     {
-        "name": "Sneak - 5",
+        "name": "Moment of Clarity",
         "category": [
             "Common",
-            "common5th"
+            "Ember Shop"
         ],
         "region": "10 Embers"
     },
     {
-        "name": "Sneak - 6",
-        "category": [
-            "Common",
-            "common6th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Stability - 1",
-        "category": [
-            "Common",
-            "common1st"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Stability - 2",
-        "category": [
-            "Common",
-            "common2nd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Stability - 3",
-        "category": [
-            "Common",
-            "common3rd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Stability - 4",
-        "category": [
-            "Common",
-            "common4th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Stability - 5",
-        "category": [
-            "Common",
-            "common5th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Stability - 6",
-        "category": [
-            "Common",
-            "common6th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Treasure Hunter - 1",
-        "category": [
-            "Common",
-            "common1st"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Treasure Hunter - 2",
-        "category": [
-            "Common",
-            "common2nd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Treasure Hunter - 3",
-        "category": [
-            "Common",
-            "common3rd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Treasure Hunter - 4",
-        "category": [
-            "Common",
-            "common4th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Treasure Hunter - 5",
-        "category": [
-            "Common",
-            "common5th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Treasure Hunter - 6",
-        "category": [
-            "Common",
-            "common6th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Ember Seeker - 1",
-        "category": [
-            "Common",
-            "common1st"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Ember Seeker - 2",
-        "category": [
-            "Common",
-            "common2nd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Ember Seeker - 3",
-        "category": [
-            "Common",
-            "common3rd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Ember Seeker - 4",
-        "category": [
-            "Common",
-            "common4th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Ember Seeker - 5",
-        "category": [
-            "Common",
-            "common5th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Ember Seeker - 6",
-        "category": [
-            "Common",
-            "common6th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Moment of Clarity - 1",
-        "category": [
-            "Common",
-            "common1st"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Moment of Clarity - 2",
-        "category": [
-            "Common",
-            "common2nd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Moment of Clarity - 3",
-        "category": [
-            "Common",
-            "common3rd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Moment of Clarity - 4",
-        "category": [
-            "Common",
-            "common4th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Moment of Clarity - 5",
-        "category": [
-            "Common",
-            "common5th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Moment of Clarity - 6",
-        "category": [
-            "Common",
-            "common6th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Evasion - 1",
+        "name": "Evasion",
         "category": [
             "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "16 Embers"
     },
     {
-        "name": "Evasion - 2",
+        "name": "Tread Lightly",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "16 Embers"
-    },
-    {
-        "name": "Evasion - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "16 Embers"
-    },
-    {
-        "name": "Evasion - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "16 Embers"
-    },
-    {
-        "name": "Evasion - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "16 Embers"
-    },
-    {
-        "name": "Evasion - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "16 Embers"
-    },
-    {
-        "name": "Tread Lightly - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "18 Embers"
     },
     {
-        "name": "Tread Lightly - 2",
+        "name": "Loot & Scoot",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "18 Embers"
-    },
-    {
-        "name": "Tread Lightly - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "18 Embers"
-    },
-    {
-        "name": "Tread Lightly - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "18 Embers"
-    },
-    {
-        "name": "Tread Lightly - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "18 Embers"
-    },
-    {
-        "name": "Tread Lightly - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "18 Embers"
-    },
-    {
-        "name": "Loot & Scoot - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "20 Embers"
     },
     {
-        "name": "Loot & Scoot - 2",
+        "name": "Frost Focus",
         "category": [
             "Uncommon",
-            "uncommon2nd"
+            "Ember Shop"
         ],
         "region": "20 Embers"
     },
     {
-        "name": "Loot & Scoot - 3",
+        "name": "Revelation",
         "category": [
             "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Loot & Scoot - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Loot & Scoot - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Loot & Scoot - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Frost Focus - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Frost Focus - 2",
-        "category": [
-            "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Frost Focus - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Frost Focus - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Frost Focus - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Frost Focus - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Revelation - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "12 Embers"
     },
     {
-        "name": "Revelation - 2",
+        "name": "Beast Sense",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "12 Embers"
-    },
-    {
-        "name": "Revelation - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "12 Embers"
-    },
-    {
-        "name": "Revelation - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "12 Embers"
-    },
-    {
-        "name": "Revelation - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "12 Embers"
-    },
-    {
-        "name": "Revelation - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "12 Embers"
-    },
-    {
-        "name": "Beast Sense - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "22 Embers"
     },
     {
-        "name": "Beast Sense - 2",
+        "name": "Second Wind",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "22 Embers"
-    },
-    {
-        "name": "Beast Sense - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "22 Embers"
-    },
-    {
-        "name": "Beast Sense - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "22 Embers"
-    },
-    {
-        "name": "Beast Sense - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "22 Embers"
-    },
-    {
-        "name": "Beast Sense - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "22 Embers"
-    },
-    {
-        "name": "Second Wind - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "24 Embers"
     },
     {
-        "name": "Second Wind - 2",
+        "name": "Bounding Strides",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "24 Embers"
-    },
-    {
-        "name": "Second Wind - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "24 Embers"
-    },
-    {
-        "name": "Second Wind - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "24 Embers"
-    },
-    {
-        "name": "Second Wind - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "24 Embers"
-    },
-    {
-        "name": "Second Wind - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "24 Embers"
-    },
-    {
-        "name": "Bounding Strides - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "26 Embers"
     },
     {
-        "name": "Bounding Strides - 2",
+        "name": "Reckless Charge",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "Bounding Strides - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "Bounding Strides - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "Bounding Strides - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "Bounding Strides - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "Reckless Charge - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "28 Embers"
     },
     {
-        "name": "Reckless Charge - 2",
+        "name": "Sprint",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "28 Embers"
-    },
-    {
-        "name": "Reckless Charge - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "28 Embers"
-    },
-    {
-        "name": "Reckless Charge - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "28 Embers"
-    },
-    {
-        "name": "Reckless Charge - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "28 Embers"
-    },
-    {
-        "name": "Reckless Charge - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "28 Embers"
-    },
-    {
-        "name": "Sprint - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "30 Embers"
     },
     {
-        "name": "Sprint - 2",
+        "name": "Adrenaline Rush",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "30 Embers"
-    },
-    {
-        "name": "Sprint - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "30 Embers"
-    },
-    {
-        "name": "Sprint - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "30 Embers"
-    },
-    {
-        "name": "Sprint - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "30 Embers"
-    },
-    {
-        "name": "Sprint - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "30 Embers"
-    },
-    {
-        "name": "Adrenaline Rush - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "32 Embers"
     },
     {
-        "name": "Adrenaline Rush - 2",
+        "name": "Smash & Grab",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "32 Embers"
-    },
-    {
-        "name": "Adrenaline Rush - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "32 Embers"
-    },
-    {
-        "name": "Adrenaline Rush - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "32 Embers"
-    },
-    {
-        "name": "Adrenaline Rush - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "32 Embers"
-    },
-    {
-        "name": "Adrenaline Rush - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "32 Embers"
-    },
-    {
-        "name": "Smash & Grab - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "34 Embers"
     },
     {
-        "name": "Smash & Grab - 2",
+        "name": "Quickstep",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "34 Embers"
-    },
-    {
-        "name": "Smash & Grab - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "34 Embers"
-    },
-    {
-        "name": "Smash & Grab - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "34 Embers"
-    },
-    {
-        "name": "Smash & Grab - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "34 Embers"
-    },
-    {
-        "name": "Smash & Grab - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "34 Embers"
-    },
-    {
-        "name": "Quickstep - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "36 Embers"
     },
     {
-        "name": "Quickstep - 2",
+        "name": "Suit Up",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "36 Embers"
-    },
-    {
-        "name": "Quickstep - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "36 Embers"
-    },
-    {
-        "name": "Quickstep - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "36 Embers"
-    },
-    {
-        "name": "Quickstep - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "36 Embers"
-    },
-    {
-        "name": "Quickstep - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "36 Embers"
-    },
-    {
-        "name": "Suit Up - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "38 Embers"
     },
     {
-        "name": "Suit Up - 2",
+        "name": "Nimble Looting",
         "category": [
             "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "38 Embers"
-    },
-    {
-        "name": "Suit Up - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "38 Embers"
-    },
-    {
-        "name": "Suit Up - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "38 Embers"
-    },
-    {
-        "name": "Suit Up - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "38 Embers"
-    },
-    {
-        "name": "Suit Up - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "38 Embers"
-    },
-    {
-        "name": "Nimble Looting - 1",
-        "category": [
-            "Uncommon",
-            "uncommon1st"
+            "Ember Shop"
         ],
         "region": "40 Embers"
     },
     {
-        "name": "Nimble Looting - 2",
-        "category": [
-            "Uncommon",
-            "uncommon2nd"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "Nimble Looting - 3",
-        "category": [
-            "Uncommon",
-            "uncommon3rd"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "Nimble Looting - 4",
-        "category": [
-            "Uncommon",
-            "uncommon4th"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "Nimble Looting - 5",
-        "category": [
-            "Uncommon",
-            "uncommon5th"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "Nimble Looting - 6",
-        "category": [
-            "Uncommon",
-            "uncommon6th"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "Eerie Silence - 1",
+        "name": "Eerie Silence",
         "category": [
             "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "42 Embers"
     },
     {
-        "name": "Eerie Silence - 2",
+        "name": "Dungeon Repairs",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "42 Embers"
-    },
-    {
-        "name": "Eerie Silence - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "42 Embers"
-    },
-    {
-        "name": "Eerie Silence - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "42 Embers"
-    },
-    {
-        "name": "Eerie Silence - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "42 Embers"
-    },
-    {
-        "name": "Eerie Silence - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "42 Embers"
-    },
-    {
-        "name": "Dungeon Repairs - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "44 Embers"
     },
     {
-        "name": "Dungeon Repairs - 2",
+        "name": "Swagger",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "44 Embers"
-    },
-    {
-        "name": "Dungeon Repairs - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "44 Embers"
-    },
-    {
-        "name": "Dungeon Repairs - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "44 Embers"
-    },
-    {
-        "name": "Dungeon Repairs - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "44 Embers"
-    },
-    {
-        "name": "Dungeon Repairs - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "44 Embers"
-    },
-    {
-        "name": "Swagger - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "46 Embers"
     },
     {
-        "name": "Swagger - 2",
+        "name": "Chill Step",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "46 Embers"
-    },
-    {
-        "name": "Swagger - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "46 Embers"
-    },
-    {
-        "name": "Swagger - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "46 Embers"
-    },
-    {
-        "name": "Swagger - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "46 Embers"
-    },
-    {
-        "name": "Swagger - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "46 Embers"
-    },
-    {
-        "name": "Chill Step - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "48 Embers"
     },
     {
-        "name": "Chill Step - 2",
+        "name": "Speed Runner",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "48 Embers"
-    },
-    {
-        "name": "Chill Step - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "48 Embers"
-    },
-    {
-        "name": "Chill Step - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "48 Embers"
-    },
-    {
-        "name": "Chill Step - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "48 Embers"
-    },
-    {
-        "name": "Chill Step - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "48 Embers"
-    },
-    {
-        "name": "Speed Runner - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "50 Embers"
     },
     {
-        "name": "Speed Runner - 2",
+        "name": "Eyes on the Prize",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "50 Embers"
-    },
-    {
-        "name": "Speed Runner - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "50 Embers"
-    },
-    {
-        "name": "Speed Runner - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "50 Embers"
-    },
-    {
-        "name": "Speed Runner - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "50 Embers"
-    },
-    {
-        "name": "Speed Runner - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "50 Embers"
-    },
-    {
-        "name": "Eyes on the Prize - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "52 Embers"
     },
     {
-        "name": "Eyes on the Prize - 2",
+        "name": "Ambrosia",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "52 Embers"
-    },
-    {
-        "name": "Eyes on the Prize - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "52 Embers"
-    },
-    {
-        "name": "Eyes on the Prize - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "52 Embers"
-    },
-    {
-        "name": "Eyes on the Prize - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "52 Embers"
-    },
-    {
-        "name": "Eyes on the Prize - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "52 Embers"
-    },
-    {
-        "name": "Ambrosia - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "54 Embers"
     },
     {
-        "name": "Ambrosia - 2",
+        "name": "Pirate's Booty",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "54 Embers"
-    },
-    {
-        "name": "Ambrosia - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "54 Embers"
-    },
-    {
-        "name": "Ambrosia - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "54 Embers"
-    },
-    {
-        "name": "Ambrosia - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "54 Embers"
-    },
-    {
-        "name": "Ambrosia - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "54 Embers"
-    },
-    {
-        "name": "Pirate's Booty - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "56 Embers"
     },
     {
-        "name": "Pirate's Booty - 2",
+        "name": "Cold Snap",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "56 Embers"
-    },
-    {
-        "name": "Pirate's Booty - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "56 Embers"
-    },
-    {
-        "name": "Pirate's Booty - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "56 Embers"
-    },
-    {
-        "name": "Pirate's Booty - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "56 Embers"
-    },
-    {
-        "name": "Pirate's Booty - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "56 Embers"
-    },
-    {
-        "name": "Cold Snap - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "58 Embers"
     },
     {
-        "name": "Cold Snap - 2",
+        "name": "Silent Runner",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "58 Embers"
-    },
-    {
-        "name": "Cold Snap - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "58 Embers"
-    },
-    {
-        "name": "Cold Snap - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "58 Embers"
-    },
-    {
-        "name": "Cold Snap - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "58 Embers"
-    },
-    {
-        "name": "Cold Snap - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "58 Embers"
-    },
-    {
-        "name": "Silent Runner - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "60 Embers"
     },
     {
-        "name": "Silent Runner - 2",
+        "name": "Fuzzy Bunny Slippers",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "60 Embers"
-    },
-    {
-        "name": "Silent Runner - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "60 Embers"
-    },
-    {
-        "name": "Silent Runner - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "60 Embers"
-    },
-    {
-        "name": "Silent Runner - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "60 Embers"
-    },
-    {
-        "name": "Silent Runner - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "60 Embers"
-    },
-    {
-        "name": "Fuzzy Bunny Slippers - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "62 Embers"
     },
     {
-        "name": "Fuzzy Bunny Slippers - 2",
+        "name": "Deepfrost",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "62 Embers"
-    },
-    {
-        "name": "Fuzzy Bunny Slippers - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "62 Embers"
-    },
-    {
-        "name": "Fuzzy Bunny Slippers - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "62 Embers"
-    },
-    {
-        "name": "Fuzzy Bunny Slippers - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "62 Embers"
-    },
-    {
-        "name": "Fuzzy Bunny Slippers - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "62 Embers"
-    },
-    {
-        "name": "Deepfrost - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "64 Embers"
     },
     {
-        "name": "Deepfrost - 2",
+        "name": "Brilliance",
         "category": [
             "Rare",
-            "rare2nd"
-        ],
-        "region": "64 Embers"
-    },
-    {
-        "name": "Deepfrost - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "64 Embers"
-    },
-    {
-        "name": "Deepfrost - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "64 Embers"
-    },
-    {
-        "name": "Deepfrost - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "64 Embers"
-    },
-    {
-        "name": "Deepfrost - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "64 Embers"
-    },
-    {
-        "name": "Brilliance - 1",
-        "category": [
-            "Rare",
-            "rare1st"
+            "Ember Shop"
         ],
         "region": "66 Embers"
     },
     {
-        "name": "Brilliance - 2",
-        "category": [
-            "Rare",
-            "rare2nd"
-        ],
-        "region": "66 Embers"
-    },
-    {
-        "name": "Brilliance - 3",
-        "category": [
-            "Rare",
-            "rare3rd"
-        ],
-        "region": "66 Embers"
-    },
-    {
-        "name": "Brilliance - 4",
-        "category": [
-            "Rare",
-            "rare4th"
-        ],
-        "region": "66 Embers"
-    },
-    {
-        "name": "Brilliance - 5",
-        "category": [
-            "Rare",
-            "rare5th"
-        ],
-        "region": "66 Embers"
-    },
-    {
-        "name": "Brilliance - 6",
-        "category": [
-            "Rare",
-            "rare6th"
-        ],
-        "region": "66 Embers"
-    },
-    {
-        "name": "Eureka - 1",
+        "name": "Avalanche",
         "category": [
             "Legendary",
-            "legendary1st"
-        ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Eureka - 2",
-        "category": [
-            "Legendary",
-            "legendary2nd"
-        ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Eureka - 3",
-        "category": [
-            "Legendary",
-            "legendary3rd"
-        ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Eureka - 4",
-        "category": [
-            "Legendary",
-            "legendary4th"
-        ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Eureka - 5",
-        "category": [
-            "Legendary",
-            "legendary5th"
-        ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Eureka - 6",
-        "category": [
-            "Legendary",
-            "legendary6th"
-        ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Avalanche - 1",
-        "category": [
-            "Legendary",
-            "legendary1st"
+            "Ember Shop"
         ],
         "region": "Avalanche"
     },
     {
-        "name": "Avalanche - 2",
+        "name": "Cash Cow",
         "category": [
             "Legendary",
-            "legendary2nd"
-        ],
-        "region": "Avalanche"
-    },
-    {
-        "name": "Avalanche - 3",
-        "category": [
-            "Legendary",
-            "legendary3rd"
-        ],
-        "region": "Avalanche"
-    },
-    {
-        "name": "Avalanche - 4",
-        "category": [
-            "Legendary",
-            "legendary4th"
-        ],
-        "region": "Avalanche"
-    },
-    {
-        "name": "Avalanche - 5",
-        "category": [
-            "Legendary",
-            "legendary5th"
-        ],
-        "region": "Avalanche"
-    },
-    {
-        "name": "Avalanche - 6",
-        "category": [
-            "Legendary",
-            "legendary6th"
-        ],
-        "region": "Avalanche"
-    },
-    {
-        "name": "Cash Cow - 1",
-        "category": [
-            "Legendary",
-            "legendary1st"
+            "Ember Shop"
         ],
         "region": "Cash Cow"
     },
     {
-        "name": "Cash Cow - 2",
+        "name": "Beast Master",
         "category": [
             "Legendary",
-            "legendary2nd"
-        ],
-        "region": "Cash Cow"
-    },
-    {
-        "name": "Cash Cow - 3",
-        "category": [
-            "Legendary",
-            "legendary3rd"
-        ],
-        "region": "Cash Cow"
-    },
-    {
-        "name": "Cash Cow - 4",
-        "category": [
-            "Legendary",
-            "legendary4th"
-        ],
-        "region": "Cash Cow"
-    },
-    {
-        "name": "Cash Cow - 5",
-        "category": [
-            "Legendary",
-            "legendary5th"
-        ],
-        "region": "Cash Cow"
-    },
-    {
-        "name": "Cash Cow - 6",
-        "category": [
-            "Legendary",
-            "legendary6th"
-        ],
-        "region": "Cash Cow"
-    },
-    {
-        "name": "Beast Master - 1",
-        "category": [
-            "Legendary",
-            "legendary1st"
+            "Ember Shop"
         ],
         "region": "Beast Master"
     },
     {
-        "name": "Beast Master - 2",
+        "name": "Boots of Swiftness",
         "category": [
             "Legendary",
-            "legendary2nd"
-        ],
-        "region": "Beast Master"
-    },
-    {
-        "name": "Beast Master - 3",
-        "category": [
-            "Legendary",
-            "legendary3rd"
-        ],
-        "region": "Beast Master"
-    },
-    {
-        "name": "Beast Master - 4",
-        "category": [
-            "Legendary",
-            "legendary4th"
-        ],
-        "region": "Beast Master"
-    },
-    {
-        "name": "Beast Master - 5",
-        "category": [
-            "Legendary",
-            "legendary5th"
-        ],
-        "region": "Beast Master"
-    },
-    {
-        "name": "Beast Master - 6",
-        "category": [
-            "Legendary",
-            "legendary6th"
-        ],
-        "region": "Beast Master"
-    },
-    {
-        "name": "Boots of Swiftness - 1",
-        "category": [
-            "Legendary",
-            "legendary1st"
+            "Ember Shop"
         ],
         "region": "Boots of Swiftness"
     },
     {
-        "name": "Boots of Swiftness - 2",
+        "name": "Glorious Moment",
         "category": [
             "Legendary",
-            "legendary2nd"
-        ],
-        "region": "Boots of Swiftness"
-    },
-    {
-        "name": "Boots of Swiftness - 3",
-        "category": [
-            "Legendary",
-            "legendary3rd"
-        ],
-        "region": "Boots of Swiftness"
-    },
-    {
-        "name": "Boots of Swiftness - 4",
-        "category": [
-            "Legendary",
-            "legendary4th"
-        ],
-        "region": "Boots of Swiftness"
-    },
-    {
-        "name": "Boots of Swiftness - 5",
-        "category": [
-            "Legendary",
-            "legendary5th"
-        ],
-        "region": "Boots of Swiftness"
-    },
-    {
-        "name": "Boots of Swiftness - 6",
-        "category": [
-            "Legendary",
-            "legendary6th"
-        ],
-        "region": "Boots of Swiftness"
-    },
-    {
-        "name": "Glorious Moment - 1",
-        "category": [
-            "Legendary",
-            "legendary1st"
+            "Ember Shop"
         ],
         "region": "Glorious Moment"
     },
     {
-        "name": "Glorious Moment - 2",
+        "name": "Enlightenment",
         "category": [
             "Legendary",
-            "legendary2nd"
-        ],
-        "region": "Glorious Moment"
-    },
-    {
-        "name": "Glorious Moment - 3",
-        "category": [
-            "Legendary",
-            "legendary3rd"
-        ],
-        "region": "Glorious Moment"
-    },
-    {
-        "name": "Glorious Moment - 4",
-        "category": [
-            "Legendary",
-            "legendary4th"
-        ],
-        "region": "Glorious Moment"
-    },
-    {
-        "name": "Glorious Moment - 5",
-        "category": [
-            "Legendary",
-            "legendary5th"
-        ],
-        "region": "Glorious Moment"
-    },
-    {
-        "name": "Glorious Moment - 6",
-        "category": [
-            "Legendary",
-            "legendary6th"
-        ],
-        "region": "Glorious Moment"
-    },
-    {
-        "name": "Enlightenment - 1",
-        "category": [
-            "Legendary",
-            "legendary1st"
+            "Ember Shop"
         ],
         "region": "Enlightenment"
     },
     {
-        "name": "Enlightenment - 2",
+        "name": "Eureka",
         "category": [
             "Legendary",
-            "legendary2nd"
+            "Ember Shop"
         ],
-        "region": "Enlightenment"
+        "region": "Eureka"
     },
     {
-        "name": "Enlightenment - 3",
+        "name": "Frozen Shard",
         "category": [
-            "Legendary",
-            "legendary3rd"
+            "Crown Shop"
         ],
-        "region": "Enlightenment"
+        "region": "24 Crown Shop"
     },
     {
-        "name": "Enlightenment - 4",
+        "name": "Pay to Win",
         "category": [
-            "Legendary",
-            "legendary4th"
+            "Crown Shop"
         ],
-        "region": "Enlightenment"
+        "region": "4 Crown Shop"
     },
     {
-        "name": "Enlightenment - 5",
+        "name": "Pork Chop Power",
         "category": [
-            "Legendary",
-            "legendary5th"
+            "Crown Shop"
         ],
-        "region": "Enlightenment"
+        "region": "4 Crown Shop"
     },
     {
-        "name": "Enlightenment - 6",
+        "name": "Tactical Approach",
         "category": [
-            "Legendary",
-            "legendary6th"
+            "Crown Shop"
         ],
-        "region": "Enlightenment"
+        "region": "4 Crown Shop"
     },
     {
-        "name": "Frozen Shard - 1",
+        "name": "Tailor for Success",
         "category": [
-            "Crown Shop",
-            "crownshop1st"
+            "Crown Shop"
         ],
-        "region": "20 Crowns"
+        "region": "8 Crown Shop"
     },
     {
-        "name": "Frozen Shard - 2",
+        "name": "Last Stand",
         "category": [
-            "Crown Shop",
-            "crownshop2nd"
+            "Crown Shop"
         ],
-        "region": "20 Crowns"
+        "region": "8 Crown Shop"
     },
     {
-        "name": "Frozen Shard - 3",
+        "name": "Suspicious Stew",
         "category": [
-            "Crown Shop",
-            "crownshop3rd"
+            "Crown Shop"
         ],
-        "region": "20 Crowns"
+        "region": "2 Crown Shop"
     },
     {
-        "name": "Frozen Shard - 4",
+        "name": "Mystery Item",
         "category": [
-            "Crown Shop",
-            "crownshop4th"
+            "Crown Shop"
         ],
-        "region": "20 Crowns"
+        "region": "8 Crown Shop"
     },
     {
-        "name": "Frozen Shard - 5",
+        "name": "Random Key",
         "category": [
-            "Crown Shop",
-            "crownshop5th"
+            "Crown Shop"
         ],
-        "region": "20 Crowns"
+        "region": "4 Crown Shop"
     },
     {
-        "name": "Frozen Shard - 6",
+        "name": "Dungeon Master Lackey",
         "category": [
-            "Crown Shop",
-            "crownshop6th"
+            "Crown Shop"
         ],
-        "region": "20 Crowns"
+        "region": "16 Crown Shop"
     },
     {
-        "name": "Pay to Win - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pay to Win - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pay to Win - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pay to Win - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pay to Win - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pay to Win - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pork Chop Power - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pork Chop Power - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pork Chop Power - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pork Chop Power - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pork Chop Power - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Pork Chop Power - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tactical Approach - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tactical Approach - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tactical Approach - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tactical Approach - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tactical Approach - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tactical Approach - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Tailor for Success - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Tailor for Success - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Tailor for Success - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Tailor for Success - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Tailor for Success - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Tailor for Success - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Last Stand - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Last Stand - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Last Stand - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Last Stand - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Last Stand - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Last Stand - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Suspicious Stew - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Suspicious Stew - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Suspicious Stew - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Suspicious Stew - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Suspicious Stew - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Suspicious Stew - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Mystery Item - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Mystery Item - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Mystery Item - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Mystery Item - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Mystery Item - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Mystery Item - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "4 Crowns"
-    },
-    {
-        "name": "Random Key - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Random Key - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Random Key - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Random Key - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Random Key - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Random Key - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "2 Crowns"
-    },
-    {
-        "name": "Dungeon Master Lackey - 1",
-        "category": [
-            "Crown Shop",
-            "crownshop1st"
-        ],
-        "region": "8 Crowns"
-    },
-    {
-        "name": "Dungeon Master Lackey - 2",
-        "category": [
-            "Crown Shop",
-            "crownshop2nd"
-        ],
-        "region": "8 Crowns"
-    },
-    {
-        "name": "Dungeon Master Lackey - 3",
-        "category": [
-            "Crown Shop",
-            "crownshop3rd"
-        ],
-        "region": "8 Crowns"
-    },
-    {
-        "name": "Dungeon Master Lackey - 4",
-        "category": [
-            "Crown Shop",
-            "crownshop4th"
-        ],
-        "region": "8 Crowns"
-    },
-    {
-        "name": "Dungeon Master Lackey - 5",
-        "category": [
-            "Crown Shop",
-            "crownshop5th"
-        ],
-        "region": "8 Crowns"
-    },
-    {
-        "name": "Dungeon Master Lackey - 6",
-        "category": [
-            "Crown Shop",
-            "crownshop6th"
-        ],
-        "region": "8 Crowns"
-    },
-    {
-        "name": "1 Victory Tome - 1",
+        "name": "1 Victory Tome",
         "category": [
             "Victory Tome",
-            "tome1st"
+            "Ember Shop"
         ],
         "region": "10 Embers"
     },
     {
-        "name": "1 Victory Tome - 2",
+        "name": "3 Victory Tomes",
         "category": [
             "Victory Tome",
-            "tome2nd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "1 Victory Tome - 3",
-        "category": [
-            "Victory Tome",
-            "tome3rd"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "1 Victory Tome - 4",
-        "category": [
-            "Victory Tome",
-            "tome4th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "1 Victory Tome - 5",
-        "category": [
-            "Victory Tome",
-            "tome5th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "1 Victory Tome - 6",
-        "category": [
-            "Victory Tome",
-            "tome6th"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "3 Victory Tomes - 1",
-        "category": [
-            "Victory Tome",
-            "tome1st"
+            "Ember Shop"
         ],
         "region": "26 Embers"
     },
     {
-        "name": "3 Victory Tomes - 2",
+        "name": "5 Victory Tomes",
         "category": [
             "Victory Tome",
-            "tome2nd"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "3 Victory Tomes - 3",
-        "category": [
-            "Victory Tome",
-            "tome3rd"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "3 Victory Tomes - 4",
-        "category": [
-            "Victory Tome",
-            "tome4th"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "3 Victory Tomes - 5",
-        "category": [
-            "Victory Tome",
-            "tome5th"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "3 Victory Tomes - 6",
-        "category": [
-            "Victory Tome",
-            "tome6th"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "5 Victory Tomes - 1",
-        "category": [
-            "Victory Tome",
-            "tome1st"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "5 Victory Tomes - 2",
-        "category": [
-            "Victory Tome",
-            "tome2nd"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "5 Victory Tomes - 3",
-        "category": [
-            "Victory Tome",
-            "tome3rd"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "5 Victory Tomes - 4",
-        "category": [
-            "Victory Tome",
-            "tome4th"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "5 Victory Tomes - 5",
-        "category": [
-            "Victory Tome",
-            "tome5th"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "5 Victory Tomes - 6",
-        "category": [
-            "Victory Tome",
-            "tome6th"
+            "Ember Shop"
         ],
         "region": "40 Embers"
     },
@@ -2632,49 +502,49 @@
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "region": "10 Embers"
     },
     {
         "name": "Beat a Run with 14 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "region": "10 Embers"
     },
     {
         "name": "Beat a Run with 15 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "region": "10 Embers"
     },
     {
         "name": "Beat a Run with 16 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "region": "10 Embers"
     },
     {
         "name": "Beat a Run with 17 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "16 Embers"
+        "region": "12 Embers"
     },
     {
         "name": "Beat a Run with 18 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "16 Embers"
+        "region": "12 Embers"
     },
     {
         "name": "Beat a Run with 19 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "18 Embers"
+        "region": "12 Embers"
     },
     {
         "name": "Beat a Run with 20 Frost Embers",
@@ -2688,133 +558,133 @@
         "category": [
             "Frost Embers"
         ],
-        "region": "20 Embers"
+        "region": "18 Embers"
     },
     {
         "name": "Beat a Run with 22 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "20 Embers"
+        "region": "18 Embers"
     },
     {
         "name": "Beat a Run with 23 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "22 Embers"
+        "region": "20 Embers"
     },
     {
         "name": "Beat a Run with 24 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "22 Embers"
+        "region": "20 Embers"
     },
     {
         "name": "Beat a Run with 25 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "24 Embers"
+        "region": "22 Embers"
     },
     {
         "name": "Beat a Run with 26 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "24 Embers"
+        "region": "22 Embers"
     },
     {
         "name": "Beat a Run with 27 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "26 Embers"
+        "region": "24 Embers"
     },
     {
         "name": "Beat a Run with 28 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "26 Embers"
+        "region": "24 Embers"
     },
     {
         "name": "Beat a Run with 29 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "28 Embers"
+        "region": "26 Embers"
     },
     {
         "name": "Beat a Run with 30 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "28 Embers"
+        "region": "26 Embers"
     },
     {
         "name": "Beat a Run with 31 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "30 Embers"
+        "region": "28 Embers"
     },
     {
         "name": "Beat a Run with 32 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "30 Embers"
+        "region": "28 Embers"
     },
     {
         "name": "Beat a Run with 33 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "32 Embers"
+        "region": "30 Embers"
     },
     {
         "name": "Beat a Run with 34 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "32 Embers"
+        "region": "30 Embers"
     },
     {
         "name": "Beat a Run with 35 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "34 Embers"
+        "region": "32 Embers"
     },
     {
         "name": "Beat a Run with 36 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "34 Embers"
+        "region": "32 Embers"
     },
     {
         "name": "Beat a Run with 37 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "36 Embers"
+        "region": "34 Embers"
     },
     {
         "name": "Beat a Run with 38 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "36 Embers"
+        "region": "34 Embers"
     },
     {
         "name": "Beat a Run with 39 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "36 Embers"
+        "region": "34 Embers"
     },
     {
         "name": "Beat a Run with 40 Frost Embers",
@@ -2828,210 +698,210 @@
         "category": [
             "Frost Embers"
         ],
-        "region": "38 Embers"
+        "region": "36 Embers"
     },
     {
         "name": "Beat a Run with 42 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "38 Embers"
+        "region": "36 Embers"
     },
     {
         "name": "Beat a Run with 43 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "40 Embers"
+        "region": "38 Embers"
     },
     {
         "name": "Beat a Run with 44 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "40 Embers"
+        "region": "38 Embers"
     },
     {
         "name": "Beat a Run with 45 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "42 Embers"
+        "region": "40 Embers"
     },
     {
         "name": "Beat a Run with 46 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "42 Embers"
+        "region": "40 Embers"
     },
     {
         "name": "Beat a Run with 47 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "44 Embers"
+        "region": "42 Embers"
     },
     {
         "name": "Beat a Run with 48 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "44 Embers"
+        "region": "42 Embers"
     },
     {
         "name": "Beat a Run with 49 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "46 Embers"
+        "region": "44 Embers"
     },
     {
         "name": "Beat a Run with 50 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "46 Embers"
+        "region": "44 Embers"
     },
     {
         "name": "Beat a Run with 51 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "48 Embers In Hand"
+        "region": "46 Embers In Hand"
     },
     {
         "name": "Beat a Run with 52 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "48 Embers In Hand"
+        "region": "46 Embers In Hand"
     },
     {
         "name": "Beat a Run with 53 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "50 Embers In Hand"
+        "region": "48 Embers In Hand"
     },
     {
         "name": "Beat a Run with 54 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "50 Embers In Hand"
+        "region": "48 Embers In Hand"
     },
     {
         "name": "Beat a Run with 55 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "52 Embers In Hand"
+        "region": "50 Embers In Hand"
     },
     {
         "name": "Beat a Run with 56 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "52 Embers In Hand"
+        "region": "50 Embers In Hand"
     },
     {
         "name": "Beat a Run with 57 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "54 Embers In Hand"
+        "region": "52 Embers In Hand"
     },
     {
         "name": "Beat a Run with 58 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "54 Embers In Hand"
+        "region": "52 Embers In Hand"
     },
     {
         "name": "Beat a Run with 59 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "56 Embers In Hand"
+        "region": "54 Embers In Hand"
     },
     {
         "name": "Beat a Run with 60 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "56 Embers In Hand"
+        "region": "54 Embers In Hand"
     },
     {
         "name": "Beat a Run with 61 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "58 Embers In Hand"
+        "region": "56 Embers In Hand"
     },
     {
         "name": "Beat a Run with 62 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "58 Embers In Hand"
+        "region": "56 Embers In Hand"
     },
     {
         "name": "Beat a Run with 63 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "60 Embers In Hand"
+        "region": "58 Embers In Hand"
     },
     {
         "name": "Beat a Run with 64 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "60 Embers In Hand"
+        "region": "58 Embers In Hand"
     },
     {
         "name": "Beat a Run with 65 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "62 Embers In Hand"
+        "region": "60 Embers In Hand"
     },
     {
         "name": "Beat a Run with 66 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "62 Embers In Hand"
+        "region": "60 Embers In Hand"
     },
     {
         "name": "Beat a Run with 67 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "64 Embers In Hand"
+        "region": "62 Embers In Hand"
     },
     {
         "name": "Beat a Run with 68 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "64 Embers In Hand"
+        "region": "62 Embers In Hand"
     },
     {
         "name": "Beat a Run with 69 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "66 Embers In Hand"
+        "region": "64 Embers In Hand"
     },
     {
         "name": "Beat a Run with 70 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "66 Embers In Hand"
+        "region": "64 Embers In Hand"
     },
     {
         "name": "Beat a Run with 71 Frost Embers",
@@ -3584,7 +1454,7 @@
         "category": [
             "Area Objectives"
         ],
-        "region": "18 No Embers"
+        "region": "12 No Embers"
     },
     {
         "name": "Obtain an Artifact from The Caves of Carnage",
@@ -3669,342 +1539,6 @@
             "Area Objectives"
         ],
         "region": "52 No Embers"
-    },
-    {
-        "name": "Obtain 1 Unique Artifake",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Obtain 2 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Obtain 3 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Obtain 4 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "12 No Embers"
-    },
-    {
-        "name": "Obtain 5 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "12 No Embers"
-    },
-    {
-        "name": "Obtain 6 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "16 No Embers"
-    },
-    {
-        "name": "Obtain 7 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "18 No Embers"
-    },
-    {
-        "name": "Obtain 8 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "22 No Embers"
-    },
-    {
-        "name": "Obtain 9 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "24 No Embers"
-    },
-    {
-        "name": "Obtain 10 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "26 No Embers"
-    },
-    {
-        "name": "Obtain 11 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Obtain 12 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "30 No Embers"
-    },
-    {
-        "name": "Obtain 13 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "32 No Embers"
-    },
-    {
-        "name": "Obtain 14 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "34 No Embers"
-    },
-    {
-        "name": "Obtain 15 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "36 No Embers"
-    },
-    {
-        "name": "Obtain 16 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "38 No Embers"
-    },
-    {
-        "name": "Obtain 17 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "42 No Embers"
-    },
-    {
-        "name": "Obtain 18 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "44 No Embers"
-    },
-    {
-        "name": "Obtain 19 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "46 No Embers"
-    },
-    {
-        "name": "Obtain 20 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "50 No Embers"
-    },
-    {
-        "name": "Obtain 21 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "52 No Embers"
-    },
-    {
-        "name": "Obtain 22 Unique Artifakes",
-        "category": [
-            "Artifakes"
-        ],
-        "region": "54 No Embers"
-    },
-    {
-        "name": "Obtain 1 Unique Card",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Obtain 2 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Obtain 3 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Obtain 4 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "16 Embers"
-    },
-    {
-        "name": "Obtain 5 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "18 Embers"
-    },
-    {
-        "name": "Obtain 6 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "20 Embers"
-    },
-    {
-        "name": "Obtain 7 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "22 Embers"
-    },
-    {
-        "name": "Obtain 8 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "24 Embers"
-    },
-    {
-        "name": "Obtain 9 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "26 Embers"
-    },
-    {
-        "name": "Obtain 10 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "30 Embers"
-    },
-    {
-        "name": "Obtain 11 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "32 Embers"
-    },
-    {
-        "name": "Obtain 12 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "34 Embers"
-    },
-    {
-        "name": "Obtain 13 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "36 Embers"
-    },
-    {
-        "name": "Obtain 14 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "38 Embers"
-    },
-    {
-        "name": "Obtain 15 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "40 Embers"
-    },
-    {
-        "name": "Obtain 16 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "44 Embers"
-    },
-    {
-        "name": "Obtain 17 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "46 Embers"
-    },
-    {
-        "name": "Obtain 18 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "48 Embers"
-    },
-    {
-        "name": "Obtain 19 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "50 Embers"
-    },
-    {
-        "name": "Obtain 20 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "54 Embers"
-    },
-    {
-        "name": "Obtain 21 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "56 Embers"
-    },
-    {
-        "name": "Obtain 22 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "58 Embers"
-    },
-    {
-        "name": "Obtain 23 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "60 Embers"
-    },
-    {
-        "name": "Obtain 24 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "62 Embers"
-    },
-    {
-        "name": "Obtain 25 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "64 Embers"
-    },
-    {
-        "name": "Obtain 26 Unique Cards",
-        "category": [
-            "Unique Cards"
-        ],
-        "region": "66 Embers"
     },
     {
         "name": "Beat a run with 1 unique Key in Hand",
@@ -4207,141 +1741,305 @@
         "region": "70 No Embers"
     },
     {
-        "name": "Swim to the Bottom of the TNT Room Lake",
+        "name": "L1: Berries by Campfire near Dungeon Entrance",
         "category": [
-            "Various Areas"
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries by the Icy River",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries by Side Crypt Entrance",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries above TNT Lake",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries beneath TNT Lake",
+        "category": [
+            "Frozen Caverns"
         ],
         "region": "10 Embers",
-        "requires": "|@Survival:1|"
+        "requires": "|Ambrosia:1| or |Second Wind:1|"
     },
     {
-        "name": "Enter the Crypt",
+        "name": "L1: Berries in Dripstone Pond Room",
         "category": [
-            "Various Areas"
+            "Frozen Caverns"
         ],
-        "region": "12 No Embers"
+        "region": "10 Embers"
     },
     {
-        "name": "Jump on the Free Key Platform in the Crypt",
+        "name": "L1: Berries in Ice Tunnels Near TNT Lake",
         "category": [
-            "Various Areas"
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries in Crypt Bottom Floor",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries in Crypt Bottom Floor on Platform 1",
+        "category": [
+            "Frozen Caverns"
         ],
         "region": "16 No Embers",
         "requires": "|Bounding Strides| or (|Boots of Swiftness| and |@Card:3|)"
     },
     {
-        "name": "Repair Rusty",
+        "name": "L1: Berries in Crypt Bottom Floor on Platform 2",
         "category": [
-            "Various Areas"
+            "Frozen Caverns"
+        ],
+        "region": "16 No Embers",
+        "requires": "|Bounding Strides| or (|Boots of Swiftness| and |@Card:3|)"
+    },
+    {
+        "name": "L1: Berries in Crypt Top Floor Far Back Left Room",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L1: Berries in Crypt By Lava Pits",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "10 Embers"
+    },
+    {
+        "name": "L2: Repair Rusty",
+        "category": [
+            "Caves of Carnage"
         ],
         "region": "12 Crowns"
     },
     {
-        "name": "Cross the Spider Room Alive",
+        "name": "L2: Berries in Mushroom Forest",
         "category": [
-            "Various Areas"
+            "Caves of Carnage"
         ],
-        "region": "22 No Embers",
-        "requires": "|@Survival:1|"
+        "region": "22 No Embers"
     },
     {
-        "name": "Board the Ship",
+        "name": "L2: Berries in Baby Ravager Room",
         "category": [
-            "Various Areas"
+            "Caves of Carnage"
         ],
-        "region": "26 No Embers"
+        "region": "22 No Embers"
     },
     {
-        "name": "Enter the Black Market",
+        "name": "L2: Berries by Spider Cave Entrance",
         "category": [
-            "Various Areas"
+            "Caves of Carnage"
+        ],
+        "region": "22 No Embers"
+    },
+    {
+        "name": "L2: Berries by Spider Cave Exit",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "24 No Embers"
+    },
+    {
+        "name": "L2: Berries in Red Desert Room",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "24 No Embers"
+    },
+    {
+        "name": "L2: Berries at the Back of The Lake",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "24 No Embers"
+    },
+    {
+        "name": "L2: Board the Ship",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "24 No Embers"
+    },
+    {
+        "name": "L2: Enter the Black Market",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "36 No Embers"
+    },
+    {
+        "name": "L3: Berries on Top Floor by Ore Deposits",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "L3: Berries on Top Floor near Sculk and Diamonds",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "L3: Berries on Top Floor by Burning Dark Entrance",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "L3: Berries on Middle Floor behind Burning Dark Entrance",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "L3: Enter the Warden's Office in The Black Mines",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "28 No Embers"
+    },
+    {
+        "name": "L3: Berries on Stairs between Middle and Bottom Floor",
+        "category": [
+            "The Black Mines"
         ],
         "region": "34 No Embers"
     },
     {
-        "name": "Go to the Middle Floor in The Black Mines",
+        "name": "L3: Berries on Bottom Floor on Platform",
         "category": [
-            "Various Areas"
-        ],
-        "region": "30 No Embers"
-    },
-    {
-        "name": "Go to the Bottom Floor in The Black Mines",
-        "category": [
-            "Various Areas"
-        ],
-        "region": "40 No Embers"
-    },
-    {
-        "name": "Enter the Warden's Office in The Black Mines",
-        "category": [
-            "Various Areas"
-        ],
-        "region": "30 No Embers"
-    },
-    {
-        "name": "Enter the Warden's Office in The Flooded Depths",
-        "category": [
-            "Various Areas"
-        ],
-        "region": "30 No Embers"
-    },
-    {
-        "name": "Collect an Aquata Breather Card in the Flooded Depths",
-        "category": [
-            "Various Areas"
-        ],
-        "region": "34 No Embers",
-        "requires": "|Bounding Strides:3| or (|Boots of Swiftness| and |Bounding Strides|)"
-    },
-    {
-        "name": "Enter the Submarine in The Flooded Depths",
-        "category": [
-            "Various Areas"
+            "The Black Mines"
         ],
         "region": "38 No Embers"
     },
     {
-        "name": "Enter the Bee Room in The Flooded Depths",
+        "name": "L3 alt: Enter the Warden's Office in The Flooded Depths",
         "category": [
-            "Various Areas"
+            "The Flooded Depths"
         ],
-        "region": "44 No Embers"
+        "region": "30 No Embers",
+        "requires": "|Second Wind:2| or |Ambrosia:1| or (|Treasure:7|)"
     },
     {
-        "name": "Enter a Burning Dark Tower",
+        "name": "L3 alt: Collect an Aquata Breather Card in the Flooded Depths",
         "category": [
-            "Various Areas"
+            "The Flooded Depths"
         ],
-        "region": "54 No Embers"
+        "region": "38 No Embers",
+        "requires": "(|Bounding Strides:3| or (|Boots of Swiftness| and |Bounding Strides|)) and (|Second Wind:2| or |Ambrosia:1| or (|Treasure:7|))"
     },
     {
-        "name": "Enter 2 Burning Dark Towers in 1 run",
+        "name": "L3 alt: Enter the Submarine in The Flooded Depths",
+        "category": [
+            "The Flooded Depths"
+        ],
+        "region": "42 No Embers",
+        "requires": "|Second Wind:2| or |Ambrosia:1| or (|Treasure:7|)"
+    },
+    {
+        "name": "L3 alt: Enter the Bee Room in The Flooded Depths",
+        "category": [
+            "The Flooded Depths"
+        ],
+        "region": "48 No Embers",
+        "requires": "|Second Wind:2| or |Ambrosia:1| or (|Treasure:7|)"
+    },
+    {
+        "name": "L4: Berries on Tower by Dripstone Area",
         "category": [
             "Various Areas"
         ],
         "region": "56 No Embers"
     },
     {
-        "name": "Enter 3 Burning Dark Towers in 1 run",
+        "name": "L4: Berries on Tower by Lava Lake",
         "category": [
             "Various Areas"
         ],
-        "region": "58 No Embers"
+        "region": "56 No Embers"
     },
     {
-        "name": "Enter 4 Burning Dark Towers in 1 run",
+        "name": "L4: Berries on Tower near Fire Parkour",
         "category": [
             "Various Areas"
         ],
-        "region": "62 No Embers"
+        "region": "56 No Embers"
     },
     {
-        "name": "Enter 5 Burning Dark Towers in 1 run",
+        "name": "L4: Berries on Tower by Twisted Vine Area",
         "category": [
             "Various Areas"
         ],
-        "region": "66 No Embers"
+        "region": "56 No Embers"
+    },
+    {
+        "name": "L4: Berries on Tower in the middle",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "L4: Berries by Lava Lake 1",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "L4: Berries by Lava Lake 2",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "L4: Berries by Lava Lake 3",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "L4: Berries in Middle by Lava Highway",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
+    },
+    {
+        "name": "L4: Berries in Small Room past Pressure Plate",
+        "category": [
+            "Various Areas"
+        ],
+        "region": "56 No Embers"
     },
     {
         "name": "Blow up the Gate with The Bomb",
