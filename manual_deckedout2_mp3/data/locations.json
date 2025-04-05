@@ -964,7 +964,7 @@
         "category": [
             "Crowns"
         ],
-        "region": "1 Crown"
+        "region": "10 Embers"
     },
     {
         "name": "Beat a Run with 1 Crown",
@@ -985,7 +985,7 @@
         "category": [
             "Crowns"
         ],
-        "region": "2 Crowns"
+        "region": "1 Crowns"
     },
     {
         "name": "Beat a Run with 1 Crown and 3 Coins",
@@ -999,7 +999,7 @@
         "category": [
             "Crowns"
         ],
-        "region": "4 Crowns"
+        "region": "2 Crowns"
     },
     {
         "name": "Beat a Run with 2 Crowns and 1 Coin",
@@ -1027,14 +1027,14 @@
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "4 Crowns"
     },
     {
         "name": "Beat a Run with 3 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "4 Crowns"
     },
     {
         "name": "Beat a Run with 3 Crowns and 2 Coins",
@@ -1055,21 +1055,21 @@
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "8 Crowns"
     },
     {
         "name": "Beat a Run with 4 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "8 Crowns"
     },
     {
         "name": "Beat a Run with 4 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "8 Crowns"
     },
     {
         "name": "Beat a Run with 4 Crowns and 3 Coins",
@@ -1097,21 +1097,21 @@
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "12 Crowns"
     },
     {
         "name": "Beat a Run with 5 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "12 Crowns"
     },
     {
         "name": "Beat a Run with 6 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "12 Crowns"
     },
     {
         "name": "Beat a Run with 6 Crowns and 1 Coin",
@@ -1167,21 +1167,21 @@
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "16 Crowns"
     },
     {
         "name": "Beat a Run with 8 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "16 Crowns"
     },
     {
         "name": "Beat a Run with 8 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "16 Crowns"
     },
     {
         "name": "Beat a Run with 8 Crowns and 3 Coins",
@@ -1251,21 +1251,21 @@
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "20 Crowns"
     },
     {
         "name": "Beat a Run with 11 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "20 Crowns"
     },
     {
         "name": "Beat a Run with 11 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "20 Crowns"
     },
     {
         "name": "Beat a Run with 11 Crowns and 3 Coins",
@@ -1314,28 +1314,28 @@
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "24 Crowns"
     },
     {
         "name": "Beat a Run with 14 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "24 Crowns"
     },
     {
         "name": "Beat a Run with 14 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "24 Crowns"
     },
     {
         "name": "Beat a Run with 15 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "24 Crowns"
     },
     {
         "name": "Beat a Run with 15 Crowns and 1 Coin",
