@@ -1856,7 +1856,7 @@
         "category": [
             "Caves of Carnage"
         ],
-        "region": "36 No Embers"
+        "region": "Black Market"
     },
     {
         "name": "L3: Berries on Top Floor by Ore Deposits",
@@ -2054,11 +2054,6 @@
         "victory": true
     },
     {
-        "name": "Acquire 23 Unique Artifakes",
-        "region": "60 No Embers",
-        "victory": true
-    },
-    {
         "name": "Complete a 70 Ember and 16 Crown run",
         "region": "70 Embers",
         "victory": true,
@@ -2071,7 +2066,7 @@
     },
     {
         "name": "Blow up the Gateway with The Bomb",
-        "region": "70 No Embers",
+        "region": "Burning Dark Gateway",
         "victory": true
     }
 ]
