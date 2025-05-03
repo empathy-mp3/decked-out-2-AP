@@ -20,120 +20,6 @@
     "Survival": {
         "hidden": true
     },
-    "Level 2 Useful": {
-        "hidden": true
-    },
-    "Level 3 Useful": {
-        "hidden": true
-    },
-    "common1st": {
-        "hidden": true
-    },
-    "common2nd": {
-        "hidden": true
-    },
-    "common3rd": {
-        "hidden": true
-    },
-    "common4th": {
-        "hidden": true
-    },
-    "common5th": {
-        "hidden": true
-    },
-    "common6th": {
-        "hidden": true
-    },
-    "uncommon1st": {
-        "hidden": true
-    },
-    "uncommon2nd": {
-        "hidden": true
-    },
-    "uncommon3rd": {
-        "hidden": true
-    },
-    "uncommon4th": {
-        "hidden": true
-    },
-    "uncommon5th": {
-        "hidden": true
-    },
-    "uncommon6th": {
-        "hidden": true
-    },
-    "rare1st": {
-        "hidden": true
-    },
-    "rare2nd": {
-        "hidden": true
-    },
-    "rare3rd": {
-        "hidden": true
-    },
-    "rare4th": {
-        "hidden": true
-    },
-    "rare5th": {
-        "hidden": true
-    },
-    "rare6th": {
-        "hidden": true
-    },
-    "legendary1st": {
-        "hidden": true
-    },
-    "legendary2nd": {
-        "hidden": true
-    },
-    "legendary3rd": {
-        "hidden": true
-    },
-    "legendary4th": {
-        "hidden": true
-    },
-    "legendary5th": {
-        "hidden": true
-    },
-    "legendary6th": {
-        "hidden": true
-    },
-    "crownshop1st": {
-        "hidden": true
-    },
-    "crownshop2nd": {
-        "hidden": true
-    },
-    "crownshop3rd": {
-        "hidden": true
-    },
-    "crownshop4th": {
-        "hidden": true
-    },
-    "crownshop5th": {
-        "hidden": true
-    },
-    "crownshop6th": {
-        "hidden": true
-    },
-    "tome1st": {
-        "hidden": true
-    },
-    "tome2nd": {
-        "hidden": true
-    },
-    "tome3rd": {
-        "hidden": true
-    },
-    "tome4th": {
-        "hidden": true
-    },
-    "tome5th": {
-        "hidden": true
-    },
-    "tome6th": {
-        "hidden": true
-    },
     "Frost Embers": {
         "yaml_option": [
             "frost_ember_locations"
@@ -144,41 +30,64 @@
             "coin_crown_locations"
         ]
     },
-    "Artifakes": {
-        "yaml_option": [
-            "artifake_locations"
-        ]
-    },
-    "Unique Cards": {
-        "yaml_option": [
-            "unique_card_locations"
-        ]
-    },
     "Difficulty Objectives": {
         "yaml_option": [
             "difficulty_objective_locations"
         ]
     },
-    "Area Objectives": {
+    "The Frozen Caverns": {
         "yaml_option": [
-            "area_objective_locations"
+            "frozen_caverns_locations"
         ]
     },
-    "variousregular": {
+    "Caves of Carnage": {
         "yaml_option": [
-            "various_ground_item_locations"
-        ],
-        "hidden":  true
+            "caves_of_carnage_locations"
+        ]
     },
-    "variouslegendary": {
+    "The Black Mines": {
         "yaml_option": [
-            "legendary_part_locations"
-        ],
-        "hidden":  true
+            "the_black_mines_locations"
+        ]
     },
-    "Various Areas": {
+    "The Flooded Depths": {
         "yaml_option": [
-            "various_area_locations"
+            "the_flooded_depths_locations"
+        ]
+    },
+    "The Burning Dark": {
+        "yaml_option": [
+            "the_burning_dark_locations"
+        ]
+    },
+    "Common": {
+        "yaml_option": [
+            "common_card_locations"
+        ]
+    },
+    "Uncommon": {
+        "yaml_option": [
+            "uncommon_card_locations"
+        ]
+    },
+    "Rare": {
+        "yaml_option": [
+            "rare_card_locations"
+        ]
+    },
+    "Legendary": {
+        "yaml_option": [
+            "legendary_card_locations"
+        ]
+    },
+    "Victory Tome": {
+        "yaml_option": [
+            "victory_tome_locations"
+        ]
+    },
+    "Crown Shop": {
+        "yaml_option": [
+            "crown_shop_locations"
         ]
     }
 }

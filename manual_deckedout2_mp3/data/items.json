@@ -348,8 +348,7 @@
         "name": "Speed Runner",
         "category": [
             "Card",
-            "Rare",
-            "Level 3 Useful"
+            "Rare"
         ],
         "progression": true
     },
@@ -367,8 +366,7 @@
         "name": "Pirate's Booty",
         "category": [
             "Card",
-            "Rare",
-            "Level 2 Useful"
+            "Rare"
         ],
         "progression": true
     },
@@ -396,8 +394,7 @@
         "name": "Fuzzy Bunny Slippers",
         "category": [
             "Card",
-            "Rare",
-            "Level 2 Useful"
+            "Rare"
         ],
         "progression": true
     },
@@ -406,8 +403,7 @@
         "name": "Deepfrost",
         "category": [
             "Card",
-            "Rare",
-            "Level 3 Useful"
+            "Rare"
         ],
         "progression": true
     },
@@ -416,8 +412,7 @@
         "name": "Brilliance",
         "category": [
             "Card",
-            "Rare",
-            "Level 2 Useful"
+            "Rare"
         ],
         "progression": true
     },
@@ -469,8 +464,7 @@
             "Card",
             "Legendary",
             "Hazard Block",
-            "Clank Block",
-            "Level 2 Useful"
+            "Clank Block"
         ],
         "progression": true
     },

@@ -42,90 +42,11 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
-    com = get_option_value(multiworld, player, "common_card_location_count")
-    uncom = get_option_value(multiworld, player, "uncommon_card_location_count")
-    rare = get_option_value(multiworld, player, "rare_card_location_count")
-    leg = get_option_value(multiworld, player, "legendary_card_location_count")
-    crown = get_option_value(multiworld, player, "crown_shop_location_count")
-    tome = get_option_value(multiworld, player, "victory_tome_location_count")
+
     # Use this hook to remove locations from the world
     locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which locations to remove
-
-    for location in world.location_table:
-        if "common1st" in location.get("category", []) and com < 1:
-            locationNamesToRemove.append(location["name"])
-        if "common2nd" in location.get("category", []) and com < 2:
-            locationNamesToRemove.append(location["name"])
-        if "common3rd" in location.get("category", []) and com < 3:
-            locationNamesToRemove.append(location["name"])
-        if "common4th" in location.get("category", []) and com < 4:
-            locationNamesToRemove.append(location["name"])
-        if "common5th" in location.get("category", []) and com < 5:
-            locationNamesToRemove.append(location["name"])
-        if "common6th" in location.get("category", []) and com < 6:
-            locationNamesToRemove.append(location["name"])
-        if "uncommon1st" in location.get("category", []) and uncom < 1:
-            locationNamesToRemove.append(location["name"])
-        if "uncommon2nd" in location.get("category", []) and uncom < 2:
-            locationNamesToRemove.append(location["name"])
-        if "uncommon3rd" in location.get("category", []) and uncom < 3:
-            locationNamesToRemove.append(location["name"])
-        if "uncommon4th" in location.get("category", []) and uncom < 4:
-            locationNamesToRemove.append(location["name"])
-        if "uncommon5th" in location.get("category", []) and uncom < 5:
-            locationNamesToRemove.append(location["name"])
-        if "uncommon6th" in location.get("category", []) and uncom < 6:
-            locationNamesToRemove.append(location["name"])
-        if "rare1st" in location.get("category", []) and rare < 1:
-            locationNamesToRemove.append(location["name"])
-        if "rare2nd" in location.get("category", []) and rare < 2:
-            locationNamesToRemove.append(location["name"])
-        if "rare3rd" in location.get("category", []) and rare < 3:
-            locationNamesToRemove.append(location["name"])
-        if "rare4th" in location.get("category", []) and rare < 4:
-            locationNamesToRemove.append(location["name"])
-        if "rare5th" in location.get("category", []) and rare < 5:
-            locationNamesToRemove.append(location["name"])
-        if "rare6th" in location.get("category", []) and rare < 6:
-            locationNamesToRemove.append(location["name"])
-        if "legendary1st" in location.get("category", []) and leg < 1:
-            locationNamesToRemove.append(location["name"])
-        if "legendary2nd" in location.get("category", []) and leg < 2:
-            locationNamesToRemove.append(location["name"])
-        if "legendary3rd" in location.get("category", []) and leg < 3:
-            locationNamesToRemove.append(location["name"])
-        if "legendary4th" in location.get("category", []) and leg < 4:
-            locationNamesToRemove.append(location["name"])
-        if "legendary5th" in location.get("category", []) and leg < 5:
-            locationNamesToRemove.append(location["name"])
-        if "legendary6th" in location.get("category", []) and leg < 6:
-            locationNamesToRemove.append(location["name"])
-        if "crownshop1st" in location.get("category", []) and crown < 1:
-            locationNamesToRemove.append(location["name"])
-        if "crownshop2nd" in location.get("category", []) and crown < 2:
-            locationNamesToRemove.append(location["name"])
-        if "crownshop3rd" in location.get("category", []) and crown < 3:
-            locationNamesToRemove.append(location["name"])
-        if "crownshop4th" in location.get("category", []) and crown < 4:
-            locationNamesToRemove.append(location["name"])
-        if "crownshop5th" in location.get("category", []) and crown < 5:
-            locationNamesToRemove.append(location["name"])
-        if "crownshop6th" in location.get("category", []) and crown < 6:
-            locationNamesToRemove.append(location["name"])
-        if "tome1st" in location.get("category", []) and tome < 1:
-            locationNamesToRemove.append(location["name"])
-        if "tome2nd" in location.get("category", []) and tome < 2:
-            locationNamesToRemove.append(location["name"])
-        if "tome3rd" in location.get("category", []) and tome < 3:
-            locationNamesToRemove.append(location["name"])
-        if "tome4th" in location.get("category", []) and tome < 4:
-            locationNamesToRemove.append(location["name"])
-        if "tome5th" in location.get("category", []) and tome < 5:
-            locationNamesToRemove.append(location["name"])
-        if "tome6th" in location.get("category", []) and tome < 6:
-            locationNamesToRemove.append(location["name"])
 
     for region in multiworld.regions:
         if region.player == player:

@@ -5,7 +5,8 @@
             "Common",
             "Ember Shop"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(7)}",
+        "region": "Ember Shop - Common Cards"
     },
     {
         "name": "Stability",
@@ -13,7 +14,8 @@
             "Common",
             "Ember Shop"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(8)}",
+        "region": "Ember Shop - Common Cards"
     },
     {
         "name": "Treasure Hunter",
@@ -21,7 +23,8 @@
             "Common",
             "Ember Shop"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(9)}",
+        "region": "Ember Shop - Common Cards"
     },
     {
         "name": "Ember Seeker",
@@ -29,7 +32,8 @@
             "Common",
             "Ember Shop"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(10)}",
+        "region": "Ember Shop - Common Cards"
     },
     {
         "name": "Moment of Clarity",
@@ -37,7 +41,8 @@
             "Common",
             "Ember Shop"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(6)}",
+        "region": "Ember Shop - Common Cards"
     },
     {
         "name": "Evasion",
@@ -45,7 +50,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "16 Embers"
+        "requires": "{endEmbers(16)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Tread Lightly",
@@ -53,7 +59,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "18 Embers"
+        "requires": "{endEmbers(18)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Loot & Scoot",
@@ -61,7 +68,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "20 Embers"
+        "requires": "{endEmbers(20)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Frost Focus",
@@ -69,7 +77,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "20 Embers"
+        "requires": "{endEmbers(20)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Revelation",
@@ -77,7 +86,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "12 Embers"
+        "requires": "{endEmbers(12)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Beast Sense",
@@ -85,7 +95,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "22 Embers"
+        "requires": "{endEmbers(22)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Second Wind",
@@ -93,7 +104,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "24 Embers"
+        "requires": "{endEmbers(24)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Bounding Strides",
@@ -101,7 +113,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "26 Embers"
+        "requires": "{endEmbers(26)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Reckless Charge",
@@ -109,7 +122,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "28 Embers"
+        "requires": "{endEmbers(28)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Sprint",
@@ -117,7 +131,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "30 Embers"
+        "requires": "{endEmbers(30)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Adrenaline Rush",
@@ -125,7 +140,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "32 Embers"
+        "requires": "{endEmbers(32)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Smash & Grab",
@@ -133,7 +149,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "34 Embers"
+        "requires": "{endEmbers(34)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Quickstep",
@@ -141,7 +158,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "36 Embers"
+        "requires": "{endEmbers(36)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Suit Up",
@@ -149,7 +167,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "38 Embers"
+        "requires": "{endEmbers(38)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Nimble Looting",
@@ -157,7 +176,8 @@
             "Uncommon",
             "Ember Shop"
         ],
-        "region": "40 Embers"
+        "requires": "{endEmbers(40)}",
+        "region": "Ember Shop - Uncommon Cards"
     },
     {
         "name": "Eerie Silence",
@@ -165,7 +185,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "42 Embers"
+        "requires": "{endEmbers(42)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Dungeon Repairs",
@@ -173,7 +194,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "44 Embers"
+        "requires": "{endEmbers(44)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Swagger",
@@ -181,7 +203,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "46 Embers"
+        "requires": "{endEmbers(46)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Chill Step",
@@ -189,7 +212,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "48 Embers"
+        "requires": "{endEmbers(48)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Speed Runner",
@@ -197,7 +221,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "50 Embers"
+        "requires": "{endEmbers(50)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Eyes on the Prize",
@@ -205,7 +230,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "52 Embers"
+        "requires": "{endEmbers(52)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Ambrosia",
@@ -213,7 +239,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "54 Embers"
+        "requires": "{endEmbers(54)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Pirate's Booty",
@@ -221,7 +248,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "56 Embers"
+        "requires": "{endEmbers(56)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Cold Snap",
@@ -229,7 +257,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "58 Embers"
+        "requires": "{endEmbers(58)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Silent Runner",
@@ -237,7 +266,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "60 Embers"
+        "requires": "{endEmbers(60)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Fuzzy Bunny Slippers",
@@ -245,7 +275,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "62 Embers"
+        "requires": "{endEmbers(62)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Deepfrost",
@@ -253,7 +284,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "64 Embers"
+        "requires": "{endEmbers(64)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Brilliance",
@@ -261,7 +293,8 @@
             "Rare",
             "Ember Shop"
         ],
-        "region": "66 Embers"
+        "requires": "{endEmbers(66)}",
+        "region": "Ember Shop - Rare Cards"
     },
     {
         "name": "Avalanche",
@@ -269,7 +302,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Avalanche"
+        "requires": "{endCrowns(10)} and {backLevelFourAccess()}",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "Cash Cow",
@@ -277,7 +311,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Cash Cow"
+        "requires": "{endCrowns(10)}",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "Beast Master",
@@ -285,7 +320,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Beast Master"
+        "requires": "{endCrowns(6)}",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "Boots of Swiftness",
@@ -293,7 +329,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Boots of Swiftness"
+        "requires": "{endCrowns(20)} and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|)))",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "Glorious Moment",
@@ -301,7 +338,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Glorious Moment"
+        "requires": "{endCrowns(20)} and (|@Survival:3| or (|@Survival:2| and (|Ambrosia| or |Enlightenment|))) and {bottomBlackMinesAccess()}",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "Enlightenment",
@@ -309,7 +347,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Enlightenment"
+        "requires": "{endCrowns(20)} and {backLevelFourAccess()}",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "Eureka",
@@ -317,77 +356,8 @@
             "Legendary",
             "Ember Shop"
         ],
-        "region": "Eureka"
-    },
-    {
-        "name": "Frozen Shard",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "24 Crown Shop"
-    },
-    {
-        "name": "Pay to Win",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "4 Crown Shop"
-    },
-    {
-        "name": "Pork Chop Power",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "4 Crown Shop"
-    },
-    {
-        "name": "Tactical Approach",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "4 Crown Shop"
-    },
-    {
-        "name": "Tailor for Success",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "8 Crown Shop"
-    },
-    {
-        "name": "Last Stand",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "8 Crown Shop"
-    },
-    {
-        "name": "Suspicious Stew",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "2 Crown Shop"
-    },
-    {
-        "name": "Mystery Item",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "8 Crown Shop"
-    },
-    {
-        "name": "Random Key",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "4 Crown Shop"
-    },
-    {
-        "name": "Dungeon Master Lackey",
-        "category": [
-            "Crown Shop"
-        ],
-        "region": "16 Crown Shop"
+        "requires": "{endCrowns(3)}",
+        "region": "Ember Shop - Legendary Cards"
     },
     {
         "name": "1 Victory Tome",
@@ -395,7 +365,8 @@
             "Victory Tome",
             "Ember Shop"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(10)}",
+        "region": "Ember Shop - Victory Tomes"
     },
     {
         "name": "3 Victory Tomes",
@@ -403,7 +374,8 @@
             "Victory Tome",
             "Ember Shop"
         ],
-        "region": "26 Embers"
+        "requires": "{endEmbers(27)}",
+        "region": "Ember Shop - Victory Tomes"
     },
     {
         "name": "5 Victory Tomes",
@@ -411,1302 +383,1443 @@
             "Victory Tome",
             "Ember Shop"
         ],
-        "region": "40 Embers"
+        "requires": "{endEmbers(40)}",
+        "region": "Ember Shop - Victory Tomes"
+    },
+    {
+        "name": "Frozen Shard",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(15)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Pay to Win",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(3)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Pork Chop Power",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(3)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Tactical Approach",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(3)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Tailor for Success",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(5)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Last Stand",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(5)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Suspicious Stew",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(2)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Mystery Item",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(5)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Random Key",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(5)}",
+        "region": "Crown Shop"
+    },
+    {
+        "name": "Dungeon Master Lackey",
+        "category": [
+            "Crown Shop"
+        ],
+        "requires": "{endCrowns(8)}",
+        "region": "Crown Shop"
     },
     {
         "name": "Beat a Run with 1 Frost Ember",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(1)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 2 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(2)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 3 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(3)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 4 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(4)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 5 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(5)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 6 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(6)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 7 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(7)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 8 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(8)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 9 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(9)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 10 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(10)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 11 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(11)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 12 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(12)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 13 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(13)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 14 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(14)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 15 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(15)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 16 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "10 Embers"
+        "requires": "{endEmbers(16)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 17 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "requires": "{endEmbers(17)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 18 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "requires": "{endEmbers(18)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 19 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "12 Embers"
+        "requires": "{endEmbers(19)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 20 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "18 Embers"
+        "requires": "{endEmbers(20)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 21 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "18 Embers"
+        "requires": "{endEmbers(21)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 22 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "18 Embers"
+        "requires": "{endEmbers(22)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 23 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "20 Embers"
+        "requires": "{endEmbers(23)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 24 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "20 Embers"
+        "requires": "{endEmbers(24)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 25 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "22 Embers"
+        "requires": "{endEmbers(25)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 26 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "22 Embers"
+        "requires": "{endEmbers(26)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 27 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "24 Embers"
+        "requires": "{endEmbers(27)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 28 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "24 Embers"
+        "requires": "{endEmbers(28)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 29 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "26 Embers"
+        "requires": "{endEmbers(29)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 30 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "26 Embers"
+        "requires": "{endEmbers(30)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 31 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "28 Embers"
+        "requires": "{endEmbers(31)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 32 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "28 Embers"
+        "requires": "{endEmbers(32)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 33 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "30 Embers"
+        "requires": "{endEmbers(33)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 34 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "30 Embers"
+        "requires": "{endEmbers(34)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 35 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "32 Embers"
+        "requires": "{endEmbers(35)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 36 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "32 Embers"
+        "requires": "{endEmbers(36)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 37 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "34 Embers"
+        "requires": "{endEmbers(37)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 38 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "34 Embers"
+        "requires": "{endEmbers(38)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 39 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "34 Embers"
+        "requires": "{endEmbers(39)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 40 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "36 Embers"
+        "requires": "{endEmbers(40)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 41 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "36 Embers"
+        "requires": "{endEmbers(41)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 42 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "36 Embers"
+        "requires": "{endEmbers(42)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 43 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "38 Embers"
+        "requires": "{endEmbers(43)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 44 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "38 Embers"
+        "requires": "{endEmbers(44)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 45 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "40 Embers"
+        "requires": "{endEmbers(45)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 46 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "40 Embers"
+        "requires": "{endEmbers(46)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 47 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "42 Embers"
+        "requires": "{endEmbers(47)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 48 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "42 Embers"
+        "requires": "{endEmbers(48)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 49 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "44 Embers"
+        "requires": "{endEmbers(49)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 50 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "44 Embers"
+        "requires": "{endEmbers(50)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 51 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "46 Embers"
+        "requires": "{endEmbers(51)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 52 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "46 Embers"
+        "requires": "{endEmbers(52)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 53 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "48 Embers"
+        "requires": "{endEmbers(53)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 54 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "48 Embers"
+        "requires": "{endEmbers(54)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 55 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "50 Embers"
+        "requires": "{endEmbers(55)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 56 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "50 Embers"
+        "requires": "{endEmbers(56)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 57 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "52 Embers"
+        "requires": "{endEmbers(57)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 58 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "52 Embers"
+        "requires": "{endEmbers(58)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 59 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "54 Embers"
+        "requires": "{endEmbers(59)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 60 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "54 Embers"
+        "requires": "{endEmbers(60)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 61 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "56 Embers"
+        "requires": "{endEmbers(61)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 62 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "56 Embers"
+        "requires": "{endEmbers(62)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 63 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "58 Embers"
+        "requires": "{endEmbers(63)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 64 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "58 Embers"
+        "requires": "{endEmbers(64)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 65 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "60 Embers"
+        "requires": "{endEmbers(65)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 66 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "60 Embers"
+        "requires": "{endEmbers(66)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 67 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "62 Embers"
+        "requires": "{endEmbers(67)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 68 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "62 Embers"
+        "requires": "{endEmbers(68)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 69 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "64 Embers"
+        "requires": "{endEmbers(69)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 70 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "64 Embers"
+        "requires": "{endEmbers(70)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 71 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "66 Embers"
+        "requires": "{endEmbers(71)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 72 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "66 Embers"
+        "requires": "{endEmbers(72)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 73 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "70 Embers"
+        "requires": "{endEmbers(73)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 74 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "70 Embers"
+        "requires": "{endEmbers(74)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 75 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "70 Embers"
+        "requires": "{endEmbers(75)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 76 Frost Embers",
         "category": [
             "Frost Embers"
         ],
-        "region": "70 Embers"
+        "requires": "{endEmbers(76)}",
+        "region": "Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 77 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "requires": "{endEmbers(76)}",
+        "region": "Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 77 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "requires": "{endEmbers(77)}",
+        "region": "Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 78 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "requires": "{endEmbers(78)}",
+        "region": "Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 79 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "requires": "{endEmbers(79)}",
+        "region": "Embers In Hand"
+    },
+    {
+        "name": "Beat a Run with 80 Frost Embers",
+        "category": [
+            "Frost Embers"
+        ],
+        "requires": "{endEmbers(80)}",
+        "region": "Embers In Hand"
     },
     {
         "name": "Beat a Run with 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "10 Embers"
+        "region": "Crowns In Hand"
     },
     {
         "name": "Beat a Run with 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "10 Embers"
+        "region": "Crowns In Hand"
     },
     {
         "name": "Beat a Run with 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "10 Embers"
+        "region": "Crowns In Hand"
     },
     {
         "name": "Beat a Run with 1 Crown",
         "category": [
             "Crowns"
         ],
-        "region": "1 Crown"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(1)}"
     },
     {
         "name": "Beat a Run with 1 Crown and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "1 Crown"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(1)}"
     },
     {
         "name": "Beat a Run with 1 Crown and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "1 Crowns"
+        "region": "Crowns In Hands",
+        "requires": "{endCrowns(1)}"
     },
     {
         "name": "Beat a Run with 1 Crown and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "2 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(1)}"
     },
     {
         "name": "Beat a Run with 2 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "2 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(2)}"
     },
     {
         "name": "Beat a Run with 2 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "4 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(2)}"
     },
     {
         "name": "Beat a Run with 2 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "4 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(2)}"
     },
     {
         "name": "Beat a Run with 2 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "4 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(2)}"
     },
     {
         "name": "Beat a Run with 3 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "4 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(3)}"
     },
     {
         "name": "Beat a Run with 3 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "4 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(3)}"
     },
     {
         "name": "Beat a Run with 3 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(3)}"
     },
     {
         "name": "Beat a Run with 3 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(3)}"
     },
     {
         "name": "Beat a Run with 4 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(4)}"
     },
     {
         "name": "Beat a Run with 4 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(4)}"
     },
     {
         "name": "Beat a Run with 4 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "8 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(4)}"
     },
     {
         "name": "Beat a Run with 4 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(4)}"
     },
     {
         "name": "Beat a Run with 5 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(5)}"
     },
     {
         "name": "Beat a Run with 5 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(5)}"
     },
     {
         "name": "Beat a Run with 5 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(5)}"
     },
     {
         "name": "Beat a Run with 5 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(5)}"
     },
     {
         "name": "Beat a Run with 6 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "12 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(6)}"
     },
     {
         "name": "Beat a Run with 6 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(6)}"
     },
     {
         "name": "Beat a Run with 6 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(6)}"
     },
     {
         "name": "Beat a Run with 6 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(6)}"
     },
     {
         "name": "Beat a Run with 7 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(7)}"
     },
     {
         "name": "Beat a Run with 7 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(7)}"
     },
     {
         "name": "Beat a Run with 7 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(7)}"
     },
     {
         "name": "Beat a Run with 7 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(7)}"
     },
     {
         "name": "Beat a Run with 8 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(8)}"
     },
     {
         "name": "Beat a Run with 8 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(8)}"
     },
     {
         "name": "Beat a Run with 8 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "16 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(8)}"
     },
     {
         "name": "Beat a Run with 8 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(8)}"
     },
     {
         "name": "Beat a Run with 9 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(9)}"
     },
     {
         "name": "Beat a Run with 9 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(9)}"
     },
     {
         "name": "Beat a Run with 9 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(9)}"
     },
     {
         "name": "Beat a Run with 9 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(9)}"
     },
     {
         "name": "Beat a Run with 10 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(10)}"
     },
     {
         "name": "Beat a Run with 10 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(10)}"
     },
     {
         "name": "Beat a Run with 10 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(10)}"
     },
     {
         "name": "Beat a Run with 10 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(10)}"
     },
     {
         "name": "Beat a Run with 11 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(11)}"
     },
     {
         "name": "Beat a Run with 11 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(11)}"
     },
     {
         "name": "Beat a Run with 11 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "20 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(11)}"
     },
     {
         "name": "Beat a Run with 11 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(11)}"
     },
     {
         "name": "Beat a Run with 12 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(12)}"
     },
     {
         "name": "Beat a Run with 12 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(12)}"
     },
     {
         "name": "Beat a Run with 12 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(12)}"
     },
     {
         "name": "Beat a Run with 12 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(12)}"
     },
     {
         "name": "Beat a Run with 13 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(13)}"
+    },
+    {
+        "name": "Beat a Run with 13 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(13)}"
+    },
+    {
+        "name": "Beat a Run with 13 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(13)}"
+    },
+    {
+        "name": "Beat a Run with 13 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(13)}"
+    },
+    {
+        "name": "Beat a Run with 14 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(14)}"
     },
     {
         "name": "Beat a Run with 14 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(14)}"
     },
     {
         "name": "Beat a Run with 14 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(14)}"
     },
     {
         "name": "Beat a Run with 14 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(14)}"
     },
     {
         "name": "Beat a Run with 15 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "24 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(15)}"
     },
     {
         "name": "Beat a Run with 15 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(15)}"
     },
     {
         "name": "Beat a Run with 15 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(15)}"
     },
     {
         "name": "Beat a Run with 15 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(15)}"
     },
     {
         "name": "Beat a Run with 16 Crowns",
         "category": [
             "Crowns"
         ],
-        "region": "28 Crowns"
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(16)}"
+    },
+    {
+        "name": "Beat a Run with 16 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(16)}"
+    },
+    {
+        "name": "Beat a Run with 16 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(16)}"
+    },
+    {
+        "name": "Beat a Run with 16 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(16)}"
+    },
+    {
+        "name": "Beat a Run with 17 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(17)}"
+    },
+    {
+        "name": "Beat a Run with 17 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(17)}"
+    },
+    {
+        "name": "Beat a Run with 17 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(17)}"
+    },
+    {
+        "name": "Beat a Run with 17 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(17)}"
+    },
+    {
+        "name": "Beat a Run with 18 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(18)}"
+    },
+    {
+        "name": "Beat a Run with 18 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(18)}"
+    },
+    {
+        "name": "Beat a Run with 18 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(18)}"
+    },
+    {
+        "name": "Beat a Run with 18 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(18)}"
+    },
+    {
+        "name": "Beat a Run with 19 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(19)}"
+    },
+    {
+        "name": "Beat a Run with 19 Crowns and 1 Coin",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(19)}"
+    },
+    {
+        "name": "Beat a Run with 19 Crowns and 2 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(19)}"
+    },
+    {
+        "name": "Beat a Run with 19 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(19)}"
+    },
+    {
+        "name": "Beat a Run with 20 Crowns",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(20)}"
     },
     {
         "name": "Obtain an Artifact in Easy Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "10 Embers"
+        "region": "The Frozen Caverns"
     },
     {
         "name": "Beat a Run in Easy Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "10 Embers"
+        "region": "The Frozen Caverns Escape"
     },
     {
         "name": "Obtain an Artifact in Medium Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "10 Embers"
+        "region": "The Frozen Crypt"
     },
     {
         "name": "Beat a Run in Medium Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "12 No Embers"
+        "region": "The Frozen Crypt Escape"
     },
     {
         "name": "Obtain an Artifact in Hard Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "26 No Embers"
+        "region": "Willy's Lake"
     },
     {
         "name": "Beat a Run in Hard Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "30 No Embers"
+        "region": "Willy's Lake Escape"
     },
     {
         "name": "Obtain an Artifact in Deadly Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "32 No Embers"
+        "region": "Black Mines Bottom Floor"
     },
     {
         "name": "Beat a Run in Deadly Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "36 No Embers"
+        "region": "Black Mines Bottom Floor Escape"
     },
     {
         "name": "Obtain an Artifact in Deepfrost Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "46 No Embers"
+        "region": "Back of Burning Dark"
     },
     {
         "name": "Beat a Run in Deepfrost Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "54 No Embers"
-    },
-    {
-        "name": "Obtain an Artifact from The Frozen Crypt",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Escape with an Artifact from The Frozen Crypt",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Unlock The Caves of Carnage",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "12 No Embers"
-    },
-    {
-        "name": "Obtain an Artifact from The Caves of Carnage",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "24 No Embers"
-    },
-    {
-        "name": "Escape with an Artifact from The Caves of Carnage",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "30 No Embers"
-    },
-    {
-        "name": "Unlock The Black Mines",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Obtain an Artifact from The Black Mines",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "32 No Embers"
-    },
-    {
-        "name": "Escape with an Artifact from The Black Mines",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "36 No Embers"
-    },
-    {
-        "name": "Unlock The Flooded Depths",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Obtain an Artifact from The Flooded Depths",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "32 No Embers"
-    },
-    {
-        "name": "Escape with an Artifact from The Flooded Depths",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "36 No Embers"
-    },
-    {
-        "name": "Unlock The Burning Dark from the Black Mines",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "40 No Embers"
-    },
-    {
-        "name": "Unlock The Burning Dark from the Flooded Depths",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "46 No Embers"
-    },
-    {
-        "name": "Obtain an Artifact from The Burning Dark",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "46 No Embers"
-    },
-    {
-        "name": "Escape with an Artifact from The Burning Dark",
-        "category": [
-            "Area Objectives"
-        ],
-        "region": "52 No Embers"
-    },
-    {
-        "name": "Beat a run with Sweet Berries in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "10 Embers"
-    },
-    {
-        "name": "Beat a run with Caves of Carnage Key in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "18 No Embers"
-    },
-    {
-        "name": "Beat a run with Amethyst in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "24 No Embers"
-    },
-    {
-        "name": "Beat a run with Pumpkin in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "26 No Embers"
-    },
-    {
-        "name": "Beat a run with Melon in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "26 No Embers"
-    },
-    {
-        "name": "Beat a run with Cactus in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "26 No Embers"
-    },
-    {
-        "name": "Beat a run with Egg in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Beat a run with Glow Ink Sac in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "26 No Embers"
-    },
-    {
-        "name": "Beat a run with Tropical Fish in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "26 No Embers"
-    },
-    {
-        "name": "Beat a run with Bone Meal in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Beat a run with Sugar in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Beat a run with Glow Berry in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Beat a run with Rusty Repair Kit in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "12 Crowns"
-    },
-    {
-        "name": "Beat a run with Spider Eye in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "Floor 2 Survival"
-    },
-    {
-        "name": "Beat a run with The Black Mines Key in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Beat a run with The Flooded Depths Key in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "28 No Embers"
-    },
-    {
-        "name": "Beat a run with Key to the Black Market in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "30 No Embers"
-    },
-    {
-        "name": "Beat a run with The Burning Dark Key in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "42 No Embers"
-    },
-    {
-        "name": "Beat a run with Basalt in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "52 No Embers"
-    },
-    {
-        "name": "Beat a run with Twisted Vines in Hand",
-        "category": [
-            "Various Items",
-            "variouslegendary"
-        ],
-        "region": "56 No Embers"
-    },
-    {
-        "name": "Beat a run with The Bomb in Hand",
-        "category": [
-            "Various Items",
-            "variousregular"
-        ],
-        "region": "70 No Embers"
+        "region": "Back of Burning Dark Escape"
     },
     {
         "name": "L1: Berries by Campfire near Dungeon Entrance",
@@ -1795,12 +1908,34 @@
         "region": "The Frozen Crypt"
     },
     {
+        "name": "L1: Obtain an Artifact from The Frozen Caverns",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "The Frozen Caverns"
+    },
+    {
+        "name": "L1: Escape with an Artifact from The Frozen Caverns",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "The Frozen Caverns Escape"
+    },
+    {
+        "name": "L1: Unlock The Caves of Carnage",
+        "category": [
+            "Frozen Caverns"
+        ],
+        "region": "The Frozen Caverns",
+        "requires": "{enoughTreasure(1.5)}"
+    },
+    {
         "name": "L2: Repair Rusty",
         "category": [
             "Caves of Carnage"
         ],
         "region": "Central Caves",
-        "requires": "(|@Treasure:6| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush| or (|Ambrosia:1| or |Second Wind:2|))) or (|@Treasure:5| and |Cash Cow| and |@Card:24|)"
+        "requires": "{enoughTreasure(6)}"
     },
     {
         "name": "L2: Berries in Mushroom Forest",
@@ -1859,6 +1994,36 @@
         "region": "Black Market"
     },
     {
+        "name": "L2: Obtain an Artifact from The Caves of Carnage",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "Mushroom Spore Forest"
+    },
+    {
+        "name": "L2: Escape with an Artifact from The Caves of Carnage",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "Mushroom Spore Forest Escape"
+    },
+    {
+        "name": "L2: Unlock The Black Mines",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "Willy's Lake",
+        "requires": "{enoughTreasure(4)}"
+    },
+    {
+        "name": "L2: Unlock The Flooded Depths",
+        "category": [
+            "Caves of Carnage"
+        ],
+        "region": "Willy's Lake",
+        "requires": "{enoughTreasure(4)}"
+    },
+    {
         "name": "L3: Berries on Top Floor by Ore Deposits",
         "category": [
             "The Black Mines"
@@ -1908,6 +2073,28 @@
         "region": "Black Mines Bottom Floor"
     },
     {
+        "name": "L3: Obtain an Artifact from The Black Mines",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "Black Mines Top Floor"
+    },
+    {
+        "name": "L3: Escape with an Artifact from The Black Mines",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "Black Mines Top Floor Escape"
+    },
+    {
+        "name": "L3: Unlock The Burning Dark from the Black Mines",
+        "category": [
+            "The Black Mines"
+        ],
+        "region": "Black Mines Top Floor",
+        "requires": "{enoughTreasure(8)}"
+    },
+    {
         "name": "L3 alt: Enter the Warden's Office in The Flooded Depths",
         "category": [
             "The Flooded Depths"
@@ -1935,6 +2122,28 @@
             "The Flooded Depths"
         ],
         "region": "Flooded Depths Exit"
+    },
+    {
+        "name": "L3 alt: Obtain an Artifact from The Flooded Depths",
+        "category": [
+            "The Flooded Depths"
+        ],
+        "region": "Flooded Depths Entrance"
+    },
+    {
+        "name": "L3 alt: Escape with an Artifact from The Flooded Depths",
+        "category": [
+            "The Flooded Depths"
+        ],
+        "region": "Flooded Depths Entrance Escape"
+    },
+    {
+        "name": "L3 alt: Unlock The Burning Dark from the Flooded Depths",
+        "category": [
+            "The Flooded Depths"
+        ],
+        "region": "Flooded Depths Exit",
+        "requires": "{enoughTreasure(8)}"
     },
     {
         "name": "L4: Berries on Tower by Dripstone Area",
@@ -2014,54 +2223,69 @@
         "region": "Burning Dark Gateway"
     },
     {
+        "name": "L4: Obtain an Artifact from The Burning Dark",
+        "category": [
+            "The Burning Dark"
+        ],
+        "region": "Burning Dark Entrance"
+    },
+    {
+        "name": "L4: Escape with an Artifact from The Burning Dark",
+        "category": [
+            "The Burning Dark"
+        ],
+        "region": "Burning Dark Entrance Escape"
+    },
+    {
         "name": "Enter the Hideout",
         "region": "Hideout",
         "victory": true
     },
     {
-        "name": "Craft All Legendary Cards",
-        "victory": true,
-        "region": "All Legendary"
-    },
-    {
         "name": "Complete a 30 Ember run",
-        "region": "30 Embers",
-        "victory": true
+        "region": "Embers In Hand",
+        "victory": true,
+        "requires": "{endEmbers(30)}"
     },
     {
         "name": "Complete a 40 Ember run",
-        "region": "40 Embers",
-        "victory": true
+        "region": "Embers In Hand",
+        "victory": true,
+        "requires": "{endEmbers(40)}"
     },
     {
         "name": "Complete a 50 Ember run",
-        "region": "50 Embers",
-        "victory": true
+        "region": "Embers In Hand",
+        "victory": true,
+        "requires": "{endEmbers(50)}"
     },
     {
         "name": "Complete a 60 Ember run",
-        "region": "60 Embers",
-        "victory": true
+        "region": "Embers In Hand",
+        "victory": true,
+        "requires": "{endEmbers(60)}"
     },
     {
         "name": "Complete a 70 Ember run",
-        "region": "70 Embers",
-        "victory": true
-    },
-    {
-        "name": "Acquire 27 Unique Cards",
-        "region": "70 Embers",
-        "victory": true
-    },
-    {
-        "name": "Complete a 70 Ember and 16 Crown run",
-        "region": "70 Embers",
+        "region": "Embers In Hand",
         "victory": true,
-        "requires": "(|@Treasure:9| and (|Swagger| or |Smash & Grab| or |Cash Cow| or (|Nimble Looting| and |@Clank Block:3|) or |Adrenaline Rush|)) or (|@Treasure:6| and |Cash Cow| and |@Card:40|)"
+        "requires": "{endEmbers(70)}"
+    },
+    {
+        "name": "Complete a 80 Ember run",
+        "region": "Embers In Hand",
+        "victory": true,
+        "requires": "{endEmbers(80)}"
+    },
+    {
+        "name": "Complete a 80 Ember and 16 Crown run",
+        "region": "Embers In Hand",
+        "victory": true,
+        "requires": "{endEmbers(80)} and {endCrowns(16)}"
     },
     {
         "name": "Complete a Deepfrost Difficulty run",
-        "region": "54 No Embers",
+        "region": "Burning Dark Entrance Escape",
         "victory": true
     },
     {
