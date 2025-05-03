@@ -5,26 +5,23 @@ description: Default Manual_DeckedOut2_mp3 Template
 
 game: Manual_DeckedOut2_mp3
 requires:
-  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.1 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_DeckedOut2_mp3:
   # Game Options
   progression_balancing: 50
-
-  accessibility: items
+  accessibility: full
 
   goal:
     # Choose your victory condition.
     enter the hideout: 0
-    craft all legendary cards: 0
     complete a 30 ember run: 0
     complete a 40 ember run: 0
-    complete a 50 ember run: 0
-    complete a 60 ember run: 50
+    complete a 50 ember run: 50
+    complete a 60 ember run: 0
     complete a 70 ember run: 0
-    acquire 27 unique cards: 0
-    acquire 23 unique artifakes: 0
-    complete a 70 ember and 16 crown run: 0
+    complete a 80 ember run: 0
+    complete a 80 ember and 16 crown run: 0
     complete a deepfrost difficulty run: 0
     blow up the gateway with the bomb: 0
 
@@ -41,34 +38,20 @@ Manual_DeckedOut2_mp3:
     random-high: 0
 
   death_link:
-    # When you die, everyone dies. Of course the reverse is true too.
+    # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
     'true': 0
 
 # Location Options
   frost_ember_locations:
     # Should there be locations for having at least a specified amount of Embers in hand at the end of a run?
-    # Adds 76 Locations, for having 1 Ember in hand to having 76 Embers.
+    # Adds 80 Locations, for having 1 Ember in hand to having 80 Embers.
     'false': 0
     'true': 50
 
   coin_crown_locations:
     # Should there be locations for having at least a specified amount of Crowns and Coins in hand at the end of a run?
-    # Adds 60 Locations, for having 1 Coin in hand to having 16 Crowns.
-    'false': 0
-    'true': 50
-
-  artifake_locations:
-    # Should there be locations for obtaining amounts of unique artifakes?
-    # Artifakes are copies of artifacts that can be obtained in the Frost Ember shop for no price.
-    # Adds 22 Locations (note that there are 28 artifacts as a whole, so there is some leeway to reduce grinding).
-    'false': 0
-    'true': 50
-
-  unique_card_locations:
-    # Should there be locations for obtaining amounts of unique cards from the Frost Ember shop?
-    # When you buy a card from the Frost Ember shop, set it aside in a chest, and count how many unique ones there are.
-    # Adds 26 Locations (note that there are 33 cards as a whole, so there is some leeway to reduce grinding).
+    # Adds 80 Locations, for having 1 Coin in hand to having 20 Crowns.
     'false': 0
     'true': 50
 
@@ -78,104 +61,67 @@ Manual_DeckedOut2_mp3:
     'false': 0
     'true': 50
 
-  area_objective_locations:
-    # Should there be locations for unlocking each floor, obtaining an artifact from each floor, and escapinng with an artifact from each floor?
-    # Adds 15 Locations, 3 for each floor (except Frozen Crypt has 2 and The Burning Dark has 4).
+  frozen_caverns_locations:
+    # Should there be locations for going to some places and doing tasks in the Frozen Caverns (Level 1)?
+    # Most of these are for getting berries from Berry Bushes. Adds 15 Locations.
     'false': 0
     'true': 50
 
-  various_ground_item_locations:
-    # Should there be locations for winning a run with various ground items in hand?
-    # These include keys, repair kits, and The Bomb. Adds 11 Locations.
+  caves_of_carnage_locations:
+    # Should there be locations for going to some places and doing tasks in the Caves of Carnage (Level 2)?
+    # Most of these are for getting berries from Berry Bushes. Adds 13 Locations.
     'false': 0
     'true': 50
 
-  legendary_part_locations:
-    # Should there be locations for winning a run with the items used to create legendary cards in hand?
-    # These include things like Sweet Berries, Spider Eyes, Tropical Fish, and Twisted Vines.
-    # These tend to be harder and/or more grindy, with a few exceptions.
-    # Slimeballs are not included due to how tedious they are to obtain.
-    # Adds 14 Locations.
+  the_black_mines_locations:
+    # Should there be locations for going to some places and doing tasks in The Black Mines (Level 3)?
+    # Most of these are for getting berries from Berry Bushes. Adds 10 Locations.
+    'false': 0
+    'true': 50
+
+  the_flooded_depths_locations:
+    # Should there be locations for going to some places and doing tasks in The Flooded Depths (Alternate Level 3)?
+    # No berries in this one, actually! Adds 7 Locations.
+    'false': 0
+    'true': 50
+
+  the_burning_dark_locations:
+    # Should there be locations for going to some places and doing tasks in The Burning Dark (Level 4)?
+    # Most of these are for getting berries from Berry Bushes. Adds 13 Locations.
+    'false': 0
+    'true': 50
+
+  common_card_locations:
+    # Should there be locations for Common Card purchases in the Ember Shop? Adds 5 Locations.
+    'false': 0
+    'true': 50
+
+  uncommon_card_locations:
+    # Should there be locations for Uncommon Card purchases in the Ember Shop? Adds 15 Locations.
+    'false': 0
+    'true': 50
+
+  rare_card_locations:
+    # Should there be locations for Rare Card purchases in the Ember Shop? Adds 13 Locations.
+    'false': 0
+    'true': 50
+
+  legendary_card_locations:
+    # Should there be locations for Legendary Card purchases in the Ember Shop?
+    # Be warned: these are extremely lengthy and annoying locations. Adds 7 Locations.
     'false': 50
     'true': 0
 
-  various_area_locations:
-    # Should there be locations for going to various areas (and doing various tasks in some of those spots)?
-    # Most of these are rooms you'll have to go out of your way to visit. Adds 20 Locations.
+  victory_tome_locations:
+    # Should there be locations for Victory Tome purchases in the Ember Shop?
+    # Adds 3 Locations.
     'false': 0
     'true': 50
 
-  common_card_location_count:
-    # How many locations should there be for each Common Card purchase?
-    # Adds 5 x [this value] locations.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
-
-  uncommon_card_location_count:
-    # How many locations should there be for each Uncommon Card purchase?
-    # Adds 15 x [this value] locations.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
-
-  rare_card_location_count:
-    # How many locations should there be for each Rare Card purchase?
-    # Adds 13 x [this value] locations.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
-
-  legendary_card_location_count:
-    # How many locations should there be for each Legendary Card (which are extremely difficult to obtain)?
-    # Adds 7 x [this value] locations.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
-
-  crown_shop_location_count:
-    # How many locations should there be for each Crown Shop purchase?
-    # Adds 10 x [this value] locations.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
-
-  victory_tome_location_count:
-    # How many locations should there be for each unique Victory Tome purchase?
-    # Adds 3 x [this value] locations.
-    #
-    # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
-    # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+  crown_shop_locations:
+    # Should there be locations for purchases in the Crown Shop? Adds 10 Locations.
+    'false': 0
+    'true': 50
 
 # Useful Item Count Options
   tactical_approach_count:
@@ -184,7 +130,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    15: 50
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -195,7 +141,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    15: 50
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -206,7 +152,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    15: 50
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -217,7 +163,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    15: 50
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -228,7 +174,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 16
-    8: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -239,7 +185,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 16
-    8: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -250,7 +196,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    6: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -261,13 +207,14 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    6: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
 
   for_the_worthy_count:
     # Number of filler to be replaced by the For the Worthy Card (a single-use legendary card).
+    # It's not very useful, to be honest.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
@@ -294,7 +241,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 18
-    9: 50
+    7: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -305,7 +252,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    6: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -316,7 +263,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    6: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -327,7 +274,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    6: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -343,6 +290,12 @@ Manual_DeckedOut2_mp3:
 
   start_inventory:
     # Start with these items.
+    {}
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
     {}
 
   start_hints:
