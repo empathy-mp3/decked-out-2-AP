@@ -24,30 +24,14 @@ The locations are for:
   - If you have more than the amount a location specifies, you can check off that location off as well.
 - Having an amount of Coins/Crowns when you finish a run
   - If you have more than the amount a location specifies, you can check off that location off as well.
-- Having an amount of Artifakes in your collection
-  - You get those from the button in the far back of the Frost Ember shop. You just need to have a varied supply of artifakes.
-  - Store them in Artifake Collection barrel by the dungeon entrance. Each unique one is a check! You don't have to get all of them.
-- Having an amount of Cards from the Frost Ember shop in your collection
-  - You get these by buying cards in the Frost Ember shop. You just need to have a varied supply of cards.
-  - Store them in Card Collection barrel by the dungeon entrance. Each unique one is a check! You don't have to get all of them.
-  - You can't use these cards in runs, and legendary cards or cards from the crown shop don't count.
 - Beating runs and obtaining artifacts on certain difficulties
-- Unlocking, obtaining artifacts from, and beating runs from certain floors.
-- Having various ground items in hand when you finish a run
-- Having the items used to make legendary cards in hand when you finish a run
-  - Off by default, but much easier than legendary card locations, since you don't have to get all parts in the same run.
+- Getting to places and doing tasks in the 5 levels
 - Entering various areas (and doing certain tasks in some of them)
-There's also the old locations, which are adjustable from 0-6 amount of them.
-For these, you buy things from the Frost Ember shop or the Crown Shop, and throw them away after you check off their locations
-- If you're using Unique Cards locations, don't throw away the Frost Ember shop cards.
-- You can also buy more Ethereal cards and Crown Shop items after you get their locations and keep them for later use (so that you have *something* to do with spare crowns and embers). Just don't keep any cards that aren't Ethereal.
-The old locations are for:
-- Common Cards
-- Uncommon Cards
-- Rare Cards
-- Legendary Cards
-- Crown Shop items
-- Victory Tomes
+- Purchases in the Crown Shop or Ember Shop
+  - You don't need to wait for the right thing to show up so that you can purchase it. Just put the required embers or crowns in the shulker box, and you can mark off the location.
+  - If the thing is there to purchase, throw away the thing you get from it. It's supposed to be randomized.
+  - You can also buy more Ethereal cards and Crown Shop items after you get their locations and keep them for later use (so that you have *something* to do with spare crowns and embers). Just don't keep any cards that aren't Ethereal.
+  - You can enable and disable the ember shop checks as you see fit. I highly recommend turning off legendary cards. They suck.
 
 ## Some random notes
 
@@ -63,21 +47,13 @@ There are 12 goal options to choose from:
   - The goal is to make it down to **The Burning Dark** (Level 4), obtain **The Bomb** that spawns in the towers around the level, and bring it to the giant gateway, and put it in the barrel, go in, and push the button to open **The Hideout**, and, in the same run, you need to have obtained a **The Master's Key** artifact from Level 4 (Deepfrost difficulty). Once you've done both of those things, go to the flat structure nearby the gateway, and quickly run through the gap in the side of it (across the pressuren plate), while burning on the magma blocks. There should be a hole to fall down (if there's too small a gap to fit through, you weren't fast enough), and from there you put the master's key into the barrel, and proceed into the hideout. Once you've done that, you've won!
   - It's really hard and luck-based, so be warned!
 
-- Craft All Legendary Cards
-  - As described further down, go to The Forge, and craft each legendary card.
-  - It's an extremely long goal. Even when you're logically able to get there, you'll have to make 7 separate runs to craft each legendary card (unless you somehow manage to craft multiple legendary cards in one run, which is probably impossible)
-
-- Complete a 30/40/50/60/70 Ember Run
+- Complete a 30/40/50/60/70/80 Ember Run
   - As you enter the Frost Ember Shop, have the required amount of Frost Embers in hand.
   - These are less involved goals, but the early ones have a lot less interesting logic.
-  - I think it's cooler to do the previous two goals, but like, they are extremely involved, so I get not wanting to do those things.
+  - I think it's cooler to do Enter The Hideout, but like, it is extremely involved, so I get not wanting to do those things.
 
-- Acquire 27 Unique Cards / 23 Unique Artifakes
-  - Works just like the unique card and unique artifake locations.
-  - Don't use this without the unique cards and unique artifakes location options, or it'll be unnecessarily grindy.
-
-- Complete 70 Ember and 16 Crown Run
-  - Just a bit harder than the 70 ember goal.
+- Complete 80 Ember and 20 Crown Run
+  - Just a bit harder than the 80 ember goal. You need 20 crowns as well!
 
 - Complete a Deepfrost Difficulty run
   - Go down to the Burning Dark, get an artifact, and escape alive on Deepfrost difficulty.
@@ -116,11 +92,7 @@ Drop the "Decked Out Expansion Pack 2.0 AP version" folder from world.zip in the
 4. In Manual Game ID put "Manual_DeckedOut2_mp3" then press the Connect button on the top right.
 5. In the command field at the bottom enter the name of your slot you chose in your Player.yaml then press enter
 
-## Manual Client
-
-In the "Tracker and Locations" tab you'll find buttons corresponding with all the available locations in the Randomizer. Since this is a manual game its built on trust™ you press the locations when you get to them, hopefully in the future only what you can access will be visible but at the moment you could press victory and it would accept it.
-
-## Multiplayer Manual
+## Multiplayer
 
 You can play this with other players (if you use the Decked Out 2 Modpack).
 You'll need to host a fabric server, explained in [This Guide](https://fabricmc.net/wiki/player:tutorials:server:windows).
@@ -145,6 +117,7 @@ Also, you can install [Lithium](https://modrinth.com/mod/lithium/version/mc1.20.
 - Open the Decked Out Expansion Pack
 - Obtain a Shulker Box (your deck), put all of the cards you've received thus far into your deck (except for Ethereal cards, which you can save for later), and put a Frozen Shard into the barrel next to the dungeon entrance. 
   - Note: The game doesn't start if you have an empty deck, and breaks if you have a deck with only Ethereal cards. If you have no cards, put a Sneak into your deck, temporarily, until you get any non-Ethereal cards.
+- Click the buttons associated with the locations you get in-game on the Manual Client.
 
 ## how do i get legendary card locations?
 
