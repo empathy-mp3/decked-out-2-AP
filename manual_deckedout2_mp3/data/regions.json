@@ -48,40 +48,40 @@
             "Cave Spider Den",
             "Mushroom Spore Forest Escape"
         ],
-        "requires": "{{enoughClankBlock(2)} and {enoughHazardBlock(1.5)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10|}"
+        "requires": "{{enoughClankBlock(2)} and {enoughHazardBlock(1)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10|}"
     },
     "Mushroom Spore Forest Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:12|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:12|"
     },
     "Black Magma Cave": {
         "connects_to": [
             "Central Caves",
             "Black Magma Cave Escape"
         ],
-        "requires": "{enoughClankBlock(2)} and {enoughHazardBlock(1.5)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10|"
+        "requires": "{enoughClankBlock(2)} and {enoughHazardBlock(1)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10|"
     },
     "Black Magma Cave Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:12|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:12|"
     },
     "Central Caves": {
         "connects_to": [
             "Willy's Lake",
             "Central Caves Escape"
         ],
-        "requires": "{enoughClankBlock(3.5)} and {enoughHazardBlock(2.5)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10| and {enoughrarity(1)} and |@Card:16|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10| and {enoughRarity(1)} and |@Card:16|"
     },
     "Central Caves Escape": {
-        "requires": "{enoughrarity(2)} and |@Card:18|"
+        "requires": "{enoughRarity(2)} and |@Card:18|"
     },
     "Cave Spider Den": {
         "connects_to": [
             "Willy's Lake",
             "Cave Spider Den Escape"
         ],
-        "requires": "{enoughClankBlock(3.5)} and {enoughHazardBlock(2.5)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10| and {enoughrarity(1)} and |@Card:16| and |@Survival:1|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10| and {enoughRarity(1)} and |@Card:16| and |@Survival:1|"
     },
     "Cave Spider Den Escape": {
-        "requires": "{enoughrarity(2)} and |@Card:18|"
+        "requires": "{enoughRarity(2)} and |@Card:18|"
     },
     "Willy's Lake": {
         "connects_to": [
@@ -89,10 +89,10 @@
             "Flooded Depths Entrance",
             "Willy's Lake Escape"
         ],
-        "requires": "{enoughClankBlock(3.5)} and {enoughHazardBlock(2.5)} and ({enoughTreasure(1.5)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10| and {enoughrarity(1.5)} and |@Card:16|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(1)} or {cryptKeyPlatform()} or {tntLake()}) and |@Card:10| and {enoughRarity(1)} and |@Card:16|"
     },
     "Willy's Lake Escape": {
-        "requires": "{enoughrarity(2.5)} and |@Card:19|"
+        "requires": "{enoughRarity(2)} and |@Card:19|"
     },
     "Black Market": {
         "connects_to": [
@@ -110,11 +110,11 @@
             "Burning Dark Entrance",
             "Black Mines Top Floor Escape"
         ],
-        "requires": "{enoughClankBlock(3.5)} and {enoughHazardBlock(2.5)} and {enoughTreasure(4)} and {enoughrarity(4)} and |@Card:19|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and {enoughTreasure(4)} and {enoughRarity(4)} and |@Card:19|"
     },
     "Black Mines Top Floor Escape": {
         "connects_to": [],
-        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughrarity(5)} and |@Card:20|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughRarity(5)} and |@Card:20|"
     },
     "Black Mines Middle Floor": {
         "connects_to": [
@@ -123,20 +123,20 @@
             "Black Market",
             "Black Mines Middle Floor Escape"
         ],
-        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughrarity(5)} and |@Card:21|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughRarity(5)} and |@Card:21|"
     },
     "Black Mines Middle Floor Escape": {
-        "requires": "{enoughClankBlock(4.5)} and {enoughHazardBlock(3.5)} and {enoughTreasure(4)} and {enoughrarity(5)} and |@Card:23|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughRarity(5)} and |@Card:23|"
     },
     "Black Mines Bottom Floor": {
         "connects_to": [
             "Burning Dark Entrance",
             "Black Mines Bottom Floor Escape"
         ],
-        "requires": "{enoughClankBlock(4.5)} and {enoughHazardBlock(3.5)} and {enoughTreasure(4)} and {enoughrarity(5)} and |@Card:26|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughRarity(5)} and |@Card:26|"
     },
     "Black Mines Bottom Floor Escape": {
-        "requires": "{enoughClankBlock(4.5)} and {enoughHazardBlock(3.5)} and {enoughTreasure(4)} and {enoughrarity(5.5)} and |@Card:26|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughRarity(5)} and |@Card:26|"
     },
     "Flooded Depths Entrance": {
         "connects_to": [
@@ -144,17 +144,17 @@
             "Black Market",
             "Flooded Depths Entrance Escape"
         ],
-        "requires": "{enoughClankBlock(3.5)} and {enoughHazardBlock(2.5)} and {enoughTreasure(4)} and {enoughrarity(4)} and |@Card:19|"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and {enoughTreasure(4)} and {enoughRarity(4)} and |@Card:19|"
     },
     "Flooded Depths Entrance Escape": {
-        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughrarity(5)} and |@Card:20|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(4)} and {enoughRarity(5)} and |@Card:20|"
     },
     "Flooded Depths Pipeways": {
         "connects_to": [
             "Flooded Depths Coral Reef",
             "Flooded Depths Pipeways Escape"
         ],
-        "requires": "|Second Wind:2| or |Ambrosia:1| or {enoughTreasure(5.5)}"
+        "requires": "|Second Wind:2| or |Ambrosia:1| or {enoughTreasure(5)}"
     },
     "Flooded Depths Pipeways Escape": {
         "requires": "|Second Wind:2| or |Ambrosia:1| or {enoughTreasure(6)}"
@@ -164,59 +164,61 @@
             "Flooded Depths Exit",
             "Flooded Depths Coral Reef Escape"
         ],
-        "requires": "{enoughClankBlock(4.5)} and {enoughHazardBlock(3.5)} and {enoughTreasure(5.5)} and {enoughrarity(5.5)} and |@Card:31|"
+        "requires": "{enoughClankBlock(4)} and {enoughHazardBlock(3)} and {enoughTreasure(5)} and {enoughRarity(5)} and |@Card:31|"
     },
     "Flooded Depths Coral Reef Escape": {
-        "requires": "{enoughClankBlock(5.5)} and {enoughHazardBlock(4.5)} and {enoughTreasure(6)} and {enoughrarity(5.5)}"
+        "requires": "{enoughClankBlock(5)} and {enoughHazardBlock(4)} and {enoughTreasure(6)} and {enoughRarity(5)}"
     },
     "Flooded Depths Exit": {
         "connects_to": [
             "Burning Dark Entrance",
             "Flooded Depths Exit Escape"
         ],
-        "requires": "{enoughrarity(6)} and |@Card:35|"
+        "requires": "{enoughRarity(6)} and |@Card:35|"
     },
     "Flooded Depths Exit Escape": {
-        "requires": "{enoughrarity(7)} and |@Card:37|"
+        "requires": "{enoughRarity(7)} and |@Card:37|"
     },
     "Burning Dark Entrance": {
         "connects_to": [
             "Back of Burning Dark",
             "Burning Dark Entrance Escape"
         ],
-        "requires": "{enoughClankBlock(5)} and {enoughHazardBlock(4)} and {enoughTreasure(8)} and {enoughrarity(5.5)} and (|Bounding Strides:2| or |Boots of Swiftness|) and |Card:37| and |@Survival:2|"
+        "requires": "{enoughClankBlock(5)} and {enoughHazardBlock(4)} and {enoughTreasure(8)} and {enoughRarity(5)} and (|Bounding Strides:2| or |Boots of Swiftness|) and |@Card:37| and |@Survival:2|"
     },
     "Burning Dark Entrance Escape": {
-        "requires": "{enoughClankBlock(6)} and {enoughHazardBlock(5)} and {enoughTreasure(8)} and {enoughrarity(7.5)} and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|)) and |@Speed:2|"
+        "requires": "{enoughClankBlock(6)} and {enoughHazardBlock(5)} and {enoughTreasure(8)} and {enoughRarity(7)} and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|)) and |@Speed:2|"
     },
     "Back of Burning Dark": {
         "connects_to": [
-            "Burning Dark Gateway"
+            "Burning Dark Gateway",
+            "Back of Burning Dark Escape"
         ],
-        "requires": "{enoughClankBlock(6)} and {enoughHazardBlock(5)} and {enoughTreasure(8)} and {enoughrarity(7.5)} and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|)) and |@Speed:2|"
+        "requires": "{enoughClankBlock(6)} and {enoughHazardBlock(5)} and {enoughTreasure(8)} and {enoughRarity(7)} and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|)) and |@Speed:2|"
     },
     "Back of Burning Dark Escape": {
-        "requires": "{enoughClankBlock(7)} and {enoughHazardBlock(6)} and {enoughTreasure(8)} and {enoughrarity(9.5)} and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|)) and |@Speed:4|"
+        "requires": "{enoughClankBlock(7)} and {enoughHazardBlock(6)} and {enoughTreasure(8)} and {enoughRarity(9)} and (|Bounding Strides:3| or (|Bounding Strides| and |Boots of Swiftness|)) and |@Speed:4|"
     },
     "Burning Dark Gateway": {
         "connects_to": [
             "Hideout",
             "Burning Dark Gateway Escape"
         ],
-        "requires": "{enoughClankBlock(7)} and {enoughHazardBlock(6)} and {enoughTreasure(8)} and {enoughrarity(9.5)} and (|Bounding Strides:3| or (|Bounding Strides:2| and |Boots of Swiftness|)) and |@Speed:4|"
+        "requires": "{enoughClankBlock(7)} and {enoughHazardBlock(6)} and {enoughTreasure(8)} and {enoughRarity(9)} and (|Bounding Strides:3| or (|Bounding Strides:2| and |Boots of Swiftness|)) and |@Speed:4|"
     },
     "Burning Dark Gateway Escape": {
-        "requires": "{enoughClankBlock(8)} and {enoughHazardBlock(7)} and {enoughTreasure(8)} and {enoughrarity(11.5)} and (|Bounding Strides:3| or (|Bounding Strides:2| and |Boots of Swiftness|)) and |@Speed:6|"
+        "requires": "{enoughClankBlock(8)} and {enoughHazardBlock(7)} and {enoughTreasure(8)} and {enoughRarity(11)} and (|Bounding Strides:3| or (|Bounding Strides:2| and |Boots of Swiftness|)) and |@Speed:6|"
     },
     "Hideout": {
-        "requires": "{enoughClankBlock(9)} and {enoughHazardBlock(8)} and {enoughTreasure(8)} and {enoughrarity(13.5)} and |Bounding Strides:3| and |Boots of Swiftness| and |@Speed:6| and |Second Wind| and (|Second Wind:2| or |Ambrosia| or |Enlightenment|) and |@Card:40|"
+        "requires": "{enoughClankBlock(9)} and {enoughHazardBlock(8)} and {enoughTreasure(8)} and {enoughRarity(13)} and |Bounding Strides:3| and |Boots of Swiftness| and |@Speed:6| and |Second Wind| and (|Second Wind:2| or |Ambrosia| or |Enlightenment|) and |@Card:40|"
     },
     "Ember Shop": {
         "connects_to": [
             "Ember Shop - Common Cards",
             "Ember Shop - Uncommon Cards",
             "Ember Shop - Rare Cards",
-            "Ember Shop - Legendary Cards"
+            "Ember Shop - Legendary Cards",
+            "Ember Shop - Victory Tomes"
         ],
         "requires": []
     },

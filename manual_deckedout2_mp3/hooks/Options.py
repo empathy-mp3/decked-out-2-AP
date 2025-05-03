@@ -78,16 +78,10 @@ class Common(DefaultOnToggle):
 class Uncommon(DefaultOnToggle):
     """Should there be locations for Uncommon Card purchases in the Ember Shop? Adds 15 Locations."""
     display_name = "Uncommon Card Locations"
-    range_start = 0
-    range_end = 6
-    default = 0
 
 class Rare(DefaultOnToggle):
     """Should there be locations for Rare Card purchases in the Ember Shop? Adds 13 Locations."""
     display_name = "Rare Card Locations"
-    range_start = 0
-    range_end = 6
-    default = 0
 
 class Legendary(Toggle):
     """Should there be locations for Legendary Card purchases in the Ember Shop?
@@ -108,56 +102,56 @@ class TacticalApproachCount(Range):
     display_name = "Tactical Approach Count"
     range_start = 0
     range_end = 30
-    default = 10
+    default = 15
 
 class PorkChopPowerCount(Range):
     """Number of filler to be replaced by the Pork Chop Power Card (a single-use crown shop card)."""
     display_name = "Pork Chop Power Count"
     range_start = 0
     range_end = 30
-    default = 10
+    default = 15
 
 class DungeonLackeyCount(Range):
     """Number of filler to be replaced by the Dungeon Lackey Card (a single-use crown shop card)."""
     display_name = "Dungeon Lackey Count"
     range_start = 0
     range_end = 30
-    default = 10
+    default = 15
 
 class PayToWinCount(Range):
     """Number of filler to be replaced by the Pay To Win Card (a single-use crown shop card)."""
     display_name = "Pay to Win Count"
     range_start = 0
     range_end = 30
-    default = 10
+    default = 15
 
 class TailorForSuccessCount(Range):
     """Number of filler to be replaced by the Tailor for Success Card (a single-use strong crown shop card)."""
     display_name = "Tailor for Success Count"
     range_start = 0
     range_end = 16
-    default = 6
+    default = 8
 
 class LastStandCount(Range):
     """Number of filler to be replaced by the Last Stand Card (a single-use strong crown shop card)."""
     display_name = "Last Stand Count"
     range_start = 0
     range_end = 16
-    default = 6
+    default = 8
 
 class RevelationCount(Range):
     """Number of filler to be replaced by the Revelation Card (a single-use uncommon card)."""
     display_name = "Revelation Count"
     range_start = 0
     range_end = 12
-    default = 5
+    default = 6
 
 class AquataBreatherCount(Range):
     """Number of filler to be replaced by the Aquata Breather Card (a single-use rare card)."""
     display_name = "Aquata Breather Count"
     range_start = 0
     range_end = 12
-    default = 5
+    default = 9
 
 class ForTheWorthyCount(Range):
     """Number of filler to be replaced by the For the Worthy Card (a single-use legendary card).
@@ -179,28 +173,28 @@ class CavesOfCarnageKeyCount(Range):
     display_name = "The Caves of Carnage Key Count"
     range_start = 0
     range_end = 18
-    default = 7
+    default = 9
 
 class BlackMinesKeyCount(Range):
     """Number of filler to be replaced by The Black Mines Key (key to the third area)."""
     display_name = "The Black Mines Key Count"
     range_start = 0
     range_end = 12
-    default = 5
+    default = 6
 
 class FloodedDepthsKeyCount(Range):
     """Number of filler to be replaced by The Flooded Depths Key (key to the alt third area)."""
     display_name = "The Flooded Depths Key Count"
     range_start = 0
     range_end = 12
-    default = 5
+    default = 6
 
 class BurningDarkKeyCount(Range):
     """Number of filler to be replaced by The Burning Dark Key (key to the fourth area)."""
     display_name = "The Burning Dark Key Count"
     range_start = 0
     range_end = 12
-    default = 5
+    default = 6
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:

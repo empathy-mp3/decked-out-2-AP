@@ -1079,14 +1079,6 @@
         "category": [
             "Frost Embers"
         ],
-        "requires": "{endEmbers(76)}",
-        "region": "Embers In Hand"
-    },
-    {
-        "name": "Beat a Run with 77 Frost Embers",
-        "category": [
-            "Frost Embers"
-        ],
         "requires": "{endEmbers(77)}",
         "region": "Embers In Hand"
     },
@@ -1156,7 +1148,7 @@
         "category": [
             "Crowns"
         ],
-        "region": "Crowns In Hands",
+        "region": "Crowns In Hand",
         "requires": "{endCrowns(1)}"
     },
     {
@@ -1927,7 +1919,7 @@
             "Frozen Caverns"
         ],
         "region": "The Frozen Caverns",
-        "requires": "{enoughTreasure(1.5)}"
+        "requires": "{enoughTreasure(1)}"
     },
     {
         "name": "L2: Repair Rusty",

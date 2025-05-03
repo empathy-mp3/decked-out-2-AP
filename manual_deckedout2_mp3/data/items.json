@@ -11,7 +11,7 @@
         "name": "Tactical Approach",
         "count": 30,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -19,7 +19,7 @@
         "name": "Pork Chop Power",
         "count": 30,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -27,7 +27,7 @@
         "name": "Dungeon Lackey",
         "count": 30,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -35,7 +35,7 @@
         "name": "Pay to Win",
         "count": 30,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -43,7 +43,7 @@
         "name": "Tailor for Success",
         "count": 16,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -51,7 +51,7 @@
         "name": "Last Stand",
         "count": 16,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -59,7 +59,7 @@
         "name": "Revelation",
         "count": 12,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -67,7 +67,7 @@
         "name": "Aquata Breather",
         "count": 12,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -75,7 +75,7 @@
         "name": "For the Worthy",
         "count": 8,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -83,7 +83,7 @@
         "name": "Eureka",
         "count": 4,
         "category": [
-            "Ethereal"
+            "Ethereal Cards"
         ],
         "useful": true
     },
@@ -124,7 +124,7 @@
         "name": "Sneak",
         "category": [
             "Card",
-            "Common",
+            "Common Cards",
             "Clank Block"
         ],
         "progression": true
@@ -134,7 +134,7 @@
         "name": "Stability",
         "category": [
             "Card",
-            "Common",
+            "Common Cards",
             "Hazard Block"
         ],
         "progression": true
@@ -144,7 +144,7 @@
         "name": "Treasure Hunter",
         "category": [
             "Card",
-            "Common",
+            "Common Cards",
             "Treasure"
         ],
         "progression": true
@@ -154,7 +154,7 @@
         "name": "Ember Seeker",
         "category": [
             "Card",
-            "Common",
+            "Common Cards",
             "Frost Ember"
         ],
         "progression": true
@@ -164,7 +164,7 @@
         "name": "Evasion",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Clank Block"
         ],
         "progression": true
@@ -174,7 +174,7 @@
         "name": "Tread Lightly",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Hazard Block"
         ],
         "progression": true
@@ -184,7 +184,7 @@
         "name": "Frost Focus",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Frost Ember"
         ],
         "progression": true
@@ -194,7 +194,7 @@
         "name": "Loot & Scoot",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Treasure",
             "Speed"
         ],
@@ -205,7 +205,7 @@
         "name": "Second Wind",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Survival",
             "Speed"
         ],
@@ -216,7 +216,7 @@
         "name": "Beast Sense",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Survival"
         ],
         "progression": true
@@ -226,7 +226,7 @@
         "name": "Bounding Strides",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Hazard Block"
         ],
         "progression": true
@@ -236,7 +236,7 @@
         "name": "Reckless Charge",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Frost Ember"
         ],
         "progression": true
@@ -246,7 +246,7 @@
         "name": "Sprint",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Speed"
         ],
         "progression": true
@@ -256,7 +256,7 @@
         "name": "Nimble Looting",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Treasure"
         ],
         "progression": true
@@ -266,7 +266,7 @@
         "name": "Smash & Grab",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Treasure"
         ],
         "progression": true
@@ -276,7 +276,7 @@
         "name": "Quickstep",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Clank Block",
             "Speed"
         ],
@@ -287,7 +287,7 @@
         "name": "Suit Up",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Survival"
         ],
         "progression": true
@@ -297,7 +297,7 @@
         "name": "Adrenaline Rush",
         "category": [
             "Card",
-            "Uncommon",
+            "Uncommon Cards",
             "Treasure"
         ],
         "progression": true
@@ -307,7 +307,7 @@
         "name": "Eerie Silence",
         "category": [
             "Card",
-            "Rare",
+            "Rare Cards",
             "Clank Block",
             "Hazard Block"
         ],
@@ -318,7 +318,7 @@
         "name": "Dungeon Repairs",
         "category": [
             "Card",
-            "Rare",
+            "Rare Cards",
             "Hazard Block"
         ],
         "progression": true
@@ -328,7 +328,7 @@
         "name": "Swagger",
         "category": [
             "Card",
-            "Rare",
+            "Rare Cards",
             "Treasure",
             "Frost Ember"
         ],
@@ -339,7 +339,7 @@
         "name": "Chill Step",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -348,7 +348,7 @@
         "name": "Speed Runner",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -357,7 +357,7 @@
         "name": "Eyes on the Prize",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -366,7 +366,7 @@
         "name": "Pirate's Booty",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -375,7 +375,7 @@
         "name": "Cold Snap",
         "category": [
             "Card",
-            "Rare",
+            "Rare Cards",
             "Frost Ember"
         ],
         "progression": true
@@ -385,7 +385,7 @@
         "name": "Silent Runner",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -394,7 +394,7 @@
         "name": "Fuzzy Bunny Slippers",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -403,7 +403,7 @@
         "name": "Deepfrost",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -412,7 +412,7 @@
         "name": "Brilliance",
         "category": [
             "Card",
-            "Rare"
+            "Rare Cards"
         ],
         "progression": true
     },
@@ -421,7 +421,7 @@
         "name": "Ambrosia",
         "category": [
             "Card",
-            "Rare",
+            "Rare Cards",
             "Survival"
         ],
         "progression": true
@@ -431,7 +431,7 @@
         "name": "Beast Master",
         "category": [
             "Card",
-            "Legendary",
+            "Legendary Cards",
             "Survival"
         ],
         "progression": true
@@ -441,7 +441,7 @@
         "name": "Enlightenment",
         "category": [
             "Card",
-            "Legendary",
+            "Legendary Cards",
             "Survival",
             "Clank Block"
         ],
@@ -452,7 +452,7 @@
         "name": "Boots of Swiftness",
         "category": [
             "Card",
-            "Legendary",
+            "Legendary Cards",
             "Speed"
         ],
         "progression": true
@@ -462,7 +462,7 @@
         "name": "Glorious Moment",
         "category": [
             "Card",
-            "Legendary",
+            "Legendary Cards",
             "Hazard Block",
             "Clank Block"
         ],
@@ -473,7 +473,7 @@
         "name": "Cash Cow",
         "category": [
             "Card",
-            "Legendary",
+            "Legendary Cards",
             "Treasure"
         ],
         "progression": true
@@ -483,7 +483,7 @@
         "name": "Avalanche",
         "category": [
             "Card",
-            "Legendary",
+            "Legendary Cards",
             "Frost Ember"
         ],
         "progression": true
