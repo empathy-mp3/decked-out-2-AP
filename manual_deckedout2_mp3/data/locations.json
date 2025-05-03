@@ -2264,16 +2264,16 @@
         "requires": "{endEmbers(70)}"
     },
     {
-        "name": "Complete a 80 Ember run",
+        "name": "Complete an 80 Ember run",
         "region": "Embers In Hand",
         "victory": true,
         "requires": "{endEmbers(80)}"
     },
     {
-        "name": "Complete a 80 Ember and 16 Crown run",
+        "name": "Complete an 80 Ember and 20 Crown run",
         "region": "Embers In Hand",
         "victory": true,
-        "requires": "{endEmbers(80)} and {endCrowns(16)}"
+        "requires": "{endEmbers(80)} and {endCrowns(20)}"
     },
     {
         "name": "Complete a Deepfrost Difficulty run",
