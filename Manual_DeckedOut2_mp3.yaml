@@ -130,7 +130,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    10: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -141,7 +141,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    10: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -152,7 +152,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    10: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -163,7 +163,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 30
-    10: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -174,7 +174,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 16
-    6: 50
+    8: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -185,7 +185,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 16
-    6: 50
+    8: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -196,7 +196,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    5: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -207,7 +207,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    5: 50
+    9: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -241,7 +241,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 18
-    7: 50
+    9: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -252,7 +252,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    5: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -263,7 +263,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    5: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -274,7 +274,7 @@ Manual_DeckedOut2_mp3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    5: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
