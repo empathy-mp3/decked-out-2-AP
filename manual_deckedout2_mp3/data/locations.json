@@ -1762,14 +1762,16 @@
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "The Frozen Crypt"
+        "region": "The Frozen Crypt",
+        "requires": "|@Card:3|"
     },
     {
         "name": "Beat a Run in Medium Difficulty",
         "category": [
             "Difficulty Objectives"
         ],
-        "region": "The Frozen Crypt Escape"
+        "region": "The Frozen Crypt Escape",
+        "requires": "|@Card:3|"
     },
     {
         "name": "Obtain an Artifact in Hard Difficulty",

@@ -91,11 +91,11 @@ def enoughEmbers(world: World, multiworld: MultiWorld, state: CollectionState, p
 
 def levelTwoAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter level 2 and escape?"""
-    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,1) or cryptKeyPlatform(world, multiworld, state, player) or tntLake(world, multiworld, state, player)) and enoughCards(world, multiworld, state, player,12)
+    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughCards(world, multiworld, state, player,12)
 
 def backLevelTwoAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter the back of level 2 and escape?"""
-    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,1) or cryptKeyPlatform(world, multiworld, state, player) or tntLake(world, multiworld, state, player)) and enoughRarity(world, multiworld, state, player,2) and enoughCards(world, multiworld, state, player,19)
+    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughRarity(world, multiworld, state, player,2) and enoughCards(world, multiworld, state, player,19)
 
 def levelThreeAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter level 3 and escape?"""
@@ -125,13 +125,13 @@ def emberCount(world: World, multiworld: MultiWorld, state: CollectionState, pla
     """How many embers can the player end the run with?"""
     ember = 0
     if gatewayAccess(world, multiworld, state, player):
-        ember = 60
+        ember = 55
     elif backLevelFourAccess(world, multiworld, state, player):
-        ember = 50
-    elif levelFourAccess(world, multiworld, state, player):
         ember = 45
-    elif bottomBlackMinesAccess(world, multiworld, state, player):
+    elif levelFourAccess(world, multiworld, state, player):
         ember = 40
+    elif bottomBlackMinesAccess(world, multiworld, state, player):
+        ember = 35
     elif levelThreeAccess(world, multiworld, state, player):
         ember = 30
     elif backLevelTwoAccess(world, multiworld, state, player):
@@ -141,8 +141,8 @@ def emberCount(world: World, multiworld: MultiWorld, state: CollectionState, pla
     else:
         ember = 10
     if tntLake(world, multiworld, state, player):
-        ember += 3
-    if backLevelTwoAccess(world, multiworld, state, player) and enoughTreasure(world, multiworld, state, player,5):
+        ember += 2
+    if backLevelTwoAccess(world, multiworld, state, player) and enoughTreasure(world, multiworld, state, player,5): #rusty
         ember += 5
     ember += embers(world, multiworld, state, player)
     return ember
@@ -156,21 +156,22 @@ def endEmbers(world: World, multiworld: MultiWorld, state: CollectionState, play
 def crownCount(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How many crowns can the player end the run with?"""
     crowns = 0
+    treasures = 2
     if gatewayAccess(world, multiworld, state, player):
-        crowns = 15
-    elif bottomBlackMinesAccess(world, multiworld, state, player):
-        crowns = 7
+        crowns = 8
+    if bottomBlackMinesAccess(world, multiworld, state, player):
+        treasures = 8
     elif levelThreeAccess(world, multiworld, state, player):
-        crowns = 5
+        treasures = 6
     elif backLevelTwoAccess(world, multiworld, state, player):
-        crowns = 3
+        treasures = 4
     elif levelTwoAccess(world, multiworld, state, player):
-        crowns = 2
+        treasures = 3
     if tntLake(world, multiworld, state, player):
-        crowns += 3
-    if backLevelTwoAccess(world, multiworld, state, player) and enoughTreasure(world, multiworld, state, player,5):
-        crowns += 5
-    crowns += treasure(world, multiworld, state, player)
+        treasures += 1
+    if backLevelTwoAccess(world, multiworld, state, player) and enoughTreasure(world, multiworld, state, player,5): #rusty
+        crowns += 4
+    crowns += treasure(world, multiworld, state, player)*treasures/6
     return crowns
 
 def endCrowns(world: World, multiworld: MultiWorld, state: CollectionState, player: int, crowns: int):
