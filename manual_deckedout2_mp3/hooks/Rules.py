@@ -143,8 +143,10 @@ def emberCount(world: World, multiworld: MultiWorld, state: CollectionState, pla
     elif levelThreeAccess(world, multiworld, state, player):
         ember = 30
     elif backLevelTwoAccess(world, multiworld, state, player):
-        ember = 20
+        ember = 22
     elif levelTwoAccess(world, multiworld, state, player):
+        ember = 17
+    elif enoughCards(world, multiworld, state, player, 3):
         ember = 13
     else:
         ember = 10
