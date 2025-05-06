@@ -1921,7 +1921,7 @@
             "Frozen Caverns"
         ],
         "region": "The Frozen Caverns",
-        "requires": "{enoughTreasure(1)} or {cryptKeyPlatform()}"
+        "requires": "{enoughTreasure(2)} or {cryptKeyPlatform()}"
     },
     {
         "name": "L2: Repair Rusty",

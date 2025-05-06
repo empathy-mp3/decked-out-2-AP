@@ -37,7 +37,7 @@ def enoughRarity(world: World, multiworld: MultiWorld, state: CollectionState, p
 
 def clankBlock(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How much clank can the player block?"""
-    clankBlock = state.count_group("Clank Block", player)/2 + state.count("Evasion", player)/2 + state.count("Eerie Silence", player) + state.count("Enlightenment", player)*3/2 + state.count("Glorious Moment", player)*3/2
+    clankBlock = 0.5 + state.count_group("Clank Block", player)/2 + state.count("Evasion", player)/2 + state.count("Eerie Silence", player) + state.count("Enlightenment", player)*3/2 + state.count("Glorious Moment", player)*3/2
     if state.has("Silent Runner", player):
         clankBlock += (state.count_group("Speed", player)/2 + state.count("Sprint", player)/2)
     if clankBlock > 5:
@@ -54,7 +54,7 @@ def enoughClankBlock(world: World, multiworld: MultiWorld, state: CollectionStat
 
 def hazardBlock(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How much hazard can the player block?"""
-    hazardBlock = state.count_group("Hazard Block", player)/2 + state.count("Tread Lightly", player)/2 + state.count("Dungeon Repairs", player) + state.count("Bounding Strides", player) + state.count("Boots of Swiftness", player)*2
+    hazardBlock = 0.5 + state.count_group("Hazard Block", player)/2 + state.count("Tread Lightly", player)/2 + state.count("Dungeon Repairs", player) + state.count("Bounding Strides", player) + state.count("Boots of Swiftness", player)*2
     if hazardBlock >= 2 and state.has("Brilliance", player):
         hazardBlock += 1
     return hazardBlock
@@ -67,7 +67,7 @@ def enoughHazardBlock(world: World, multiworld: MultiWorld, state: CollectionSta
 
 def treasure(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How much treasure can the player acquire?"""
-    treasure = state.count_group("Treasure", player)/2 + state.count("Loot and Scoot", player)*2/3 + state.count("Nimble Looting", player) + state.count("Smash & Grab", player) + state.count("Adrenaline Rush", player) + state.count("Swagger", player)
+    treasure = 0.5 + state.count_group("Treasure", player)/2 + state.count("Loot and Scoot", player)*2/3 + state.count("Nimble Looting", player) + state.count("Smash & Grab", player) + state.count("Adrenaline Rush", player) + state.count("Swagger", player)
     if state.has("Cash Cow", player):
         treasure += cardCount(world, multiworld, state, player)/10
     if treasure >= 2 and state.has("Brilliance", player):
@@ -82,7 +82,7 @@ def enoughTreasure(world: World, multiworld: MultiWorld, state: CollectionState,
 
 def embers(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How many embers can the player acquire?"""
-    embers = state.count_group("Frost Ember", player)/2 + state.count("Frost Focus", player)/2 + state.count("Reckless Charge", player)/2 + state.count("Swagger", player) + state.count("Chill Step", player)*state.count("Sneak", player)/6
+    embers = 0.5 + state.count_group("Frost Ember", player)/2 + state.count("Frost Focus", player)/2 + state.count("Reckless Charge", player)/2 + state.count("Swagger", player) + state.count("Chill Step", player)*state.count("Sneak", player)/6
     if state.has("Avalanche", player):
         embers += cardCount(world, multiworld, state, player)/10
     if embers > 3:
@@ -99,11 +99,11 @@ def enoughEmbers(world: World, multiworld: MultiWorld, state: CollectionState, p
 
 def levelTwoAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter level 2 and escape?"""
-    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughCards(world, multiworld, state, player,11)
+    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and (enoughCards(world, multiworld, state, player,11) or enoughRarity(world, multiworld, state, player, 4))
 
 def backLevelTwoAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter the back of level 2 and escape?"""
-    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughRarity(world, multiworld, state, player,2) and enoughCards(world, multiworld, state, player,17)
+    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughRarity(world, multiworld, state, player,2) and (enoughCards(world, multiworld, state, player,17) or enoughRarity(world, multiworld, state, player, 6))
 
 def levelThreeAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter level 3 and escape?"""
@@ -150,6 +150,12 @@ def emberCount(world: World, multiworld: MultiWorld, state: CollectionState, pla
         ember = 13
     else:
         ember = 10
+    if enoughTreasure(world, multiworld, state, player, 8) and levelThreeAccess(world, multiworld, state, player):
+        ember += 9
+    elif enoughTreasure(world, multiworld, state, player, 4) and backLevelTwoAccess(world, multiworld, state, player):
+        ember += 6
+    elif enoughTreasure(world, multiworld, state, player, 2) or cryptKeyPlatform(world, multiworld, state, player):
+        ember += 3
     if tntLake(world, multiworld, state, player):
         ember += 2
     if backLevelTwoAccess(world, multiworld, state, player) and enoughTreasure(world, multiworld, state, player,5): #rusty
@@ -166,19 +172,22 @@ def endEmbers(world: World, multiworld: MultiWorld, state: CollectionState, play
 def crownCount(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How many crowns can the player end the run with?"""
     crowns = 0
-    treasures = 4
     if gatewayAccess(world, multiworld, state, player):
         crowns = 8
     if bottomBlackMinesAccess(world, multiworld, state, player):
-        treasures = 10
+        treasures = 18
     elif levelThreeAccess(world, multiworld, state, player):
-        treasures = 8
+        treasures = 14
     elif backLevelTwoAccess(world, multiworld, state, player):
-        treasures = 6
+        treasures = 10
     elif levelTwoAccess(world, multiworld, state, player):
-        treasures = 5
+        treasures = 8
+    elif enoughCards(world, multiworld, state, player, 11):
+        treasures = 6
+    else:
+        treasures = 4
     if tntLake(world, multiworld, state, player):
-        treasures += 2
+        treasures += 1
     if backLevelTwoAccess(world, multiworld, state, player) and enoughTreasure(world, multiworld, state, player,5): #rusty
         crowns += 4
     crowns += treasure(world, multiworld, state, player)*treasures/6
