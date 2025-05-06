@@ -467,7 +467,7 @@
         "region": "Crown Shop"
     },
     {
-        "name": "Beat a Run with 1 Frost Ember",
+        "name": "Beat a Run with 01 Frost Ember",
         "category": [
             "Frost Embers"
         ],
@@ -475,7 +475,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 2 Frost Embers",
+        "name": "Beat a Run with 02 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -483,7 +483,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 3 Frost Embers",
+        "name": "Beat a Run with 03 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -491,7 +491,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 4 Frost Embers",
+        "name": "Beat a Run with 04 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -499,7 +499,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 5 Frost Embers",
+        "name": "Beat a Run with 05 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -507,7 +507,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 6 Frost Embers",
+        "name": "Beat a Run with 06 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -515,7 +515,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 7 Frost Embers",
+        "name": "Beat a Run with 07 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -523,7 +523,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 8 Frost Embers",
+        "name": "Beat a Run with 08 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -531,7 +531,7 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 9 Frost Embers",
+        "name": "Beat a Run with 09 Frost Embers",
         "category": [
             "Frost Embers"
         ],
@@ -1107,21 +1107,21 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 1 Coin",
+        "name": "Beat a Run with 0 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
         "region": "Crowns In Hand"
     },
     {
-        "name": "Beat a Run with 2 Coins",
+        "name": "Beat a Run with 0 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
         "region": "Crowns In Hand"
     },
     {
-        "name": "Beat a Run with 3 Coins",
+        "name": "Beat a Run with 0 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
