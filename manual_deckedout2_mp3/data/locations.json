@@ -1107,28 +1107,21 @@
         "region": "Embers In Hand"
     },
     {
-        "name": "Beat a Run with 0 Crowns and 1 Coin",
+        "name": "Beat a Run with 00 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
         "region": "Crowns In Hand"
     },
     {
-        "name": "Beat a Run with 0 Crowns and 2 Coins",
+        "name": "Beat a Run with 00 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
         "region": "Crowns In Hand"
     },
     {
-        "name": "Beat a Run with 0 Crowns and 3 Coins",
-        "category": [
-            "Crowns"
-        ],
-        "region": "Crowns In Hand"
-    },
-    {
-        "name": "Beat a Run with 1 Crown",
+        "name": "Beat a Run with 00 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1136,7 +1129,7 @@
         "requires": "{endCrowns(1)}"
     },
     {
-        "name": "Beat a Run with 1 Crown and 1 Coin",
+        "name": "Beat a Run with 01 Crown",
         "category": [
             "Crowns"
         ],
@@ -1144,7 +1137,7 @@
         "requires": "{endCrowns(1)}"
     },
     {
-        "name": "Beat a Run with 1 Crown and 2 Coins",
+        "name": "Beat a Run with 01 Crown and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1152,7 +1145,7 @@
         "requires": "{endCrowns(1)}"
     },
     {
-        "name": "Beat a Run with 1 Crown and 3 Coins",
+        "name": "Beat a Run with 01 Crown and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1160,7 +1153,7 @@
         "requires": "{endCrowns(1)}"
     },
     {
-        "name": "Beat a Run with 2 Crowns",
+        "name": "Beat a Run with 01 Crown and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1168,7 +1161,7 @@
         "requires": "{endCrowns(2)}"
     },
     {
-        "name": "Beat a Run with 2 Crowns and 1 Coin",
+        "name": "Beat a Run with 02 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1176,7 +1169,7 @@
         "requires": "{endCrowns(2)}"
     },
     {
-        "name": "Beat a Run with 2 Crowns and 2 Coins",
+        "name": "Beat a Run with 02 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1184,7 +1177,7 @@
         "requires": "{endCrowns(2)}"
     },
     {
-        "name": "Beat a Run with 2 Crowns and 3 Coins",
+        "name": "Beat a Run with 02 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1192,7 +1185,7 @@
         "requires": "{endCrowns(2)}"
     },
     {
-        "name": "Beat a Run with 3 Crowns",
+        "name": "Beat a Run with 02 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1200,7 +1193,7 @@
         "requires": "{endCrowns(3)}"
     },
     {
-        "name": "Beat a Run with 3 Crowns and 1 Coin",
+        "name": "Beat a Run with 03 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1208,7 +1201,7 @@
         "requires": "{endCrowns(3)}"
     },
     {
-        "name": "Beat a Run with 3 Crowns and 2 Coins",
+        "name": "Beat a Run with 03 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1216,7 +1209,7 @@
         "requires": "{endCrowns(3)}"
     },
     {
-        "name": "Beat a Run with 3 Crowns and 3 Coins",
+        "name": "Beat a Run with 03 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1224,7 +1217,7 @@
         "requires": "{endCrowns(3)}"
     },
     {
-        "name": "Beat a Run with 4 Crowns",
+        "name": "Beat a Run with 03 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1232,7 +1225,7 @@
         "requires": "{endCrowns(4)}"
     },
     {
-        "name": "Beat a Run with 4 Crowns and 1 Coin",
+        "name": "Beat a Run with 04 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1240,7 +1233,7 @@
         "requires": "{endCrowns(4)}"
     },
     {
-        "name": "Beat a Run with 4 Crowns and 2 Coins",
+        "name": "Beat a Run with 04 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1248,7 +1241,7 @@
         "requires": "{endCrowns(4)}"
     },
     {
-        "name": "Beat a Run with 4 Crowns and 3 Coins",
+        "name": "Beat a Run with 04 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1256,7 +1249,7 @@
         "requires": "{endCrowns(4)}"
     },
     {
-        "name": "Beat a Run with 5 Crowns",
+        "name": "Beat a Run with 04 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1264,7 +1257,7 @@
         "requires": "{endCrowns(5)}"
     },
     {
-        "name": "Beat a Run with 5 Crowns and 1 Coin",
+        "name": "Beat a Run with 05 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1272,7 +1265,7 @@
         "requires": "{endCrowns(5)}"
     },
     {
-        "name": "Beat a Run with 5 Crowns and 2 Coins",
+        "name": "Beat a Run with 05 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1280,7 +1273,7 @@
         "requires": "{endCrowns(5)}"
     },
     {
-        "name": "Beat a Run with 5 Crowns and 3 Coins",
+        "name": "Beat a Run with 05 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1288,7 +1281,7 @@
         "requires": "{endCrowns(5)}"
     },
     {
-        "name": "Beat a Run with 6 Crowns",
+        "name": "Beat a Run with 05 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1296,7 +1289,7 @@
         "requires": "{endCrowns(6)}"
     },
     {
-        "name": "Beat a Run with 6 Crowns and 1 Coin",
+        "name": "Beat a Run with 06 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1304,7 +1297,7 @@
         "requires": "{endCrowns(6)}"
     },
     {
-        "name": "Beat a Run with 6 Crowns and 2 Coins",
+        "name": "Beat a Run with 06 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1312,7 +1305,7 @@
         "requires": "{endCrowns(6)}"
     },
     {
-        "name": "Beat a Run with 6 Crowns and 3 Coins",
+        "name": "Beat a Run with 06 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1320,7 +1313,7 @@
         "requires": "{endCrowns(6)}"
     },
     {
-        "name": "Beat a Run with 7 Crowns",
+        "name": "Beat a Run with 06 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1328,7 +1321,7 @@
         "requires": "{endCrowns(7)}"
     },
     {
-        "name": "Beat a Run with 7 Crowns and 1 Coin",
+        "name": "Beat a Run with 07 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1336,7 +1329,7 @@
         "requires": "{endCrowns(7)}"
     },
     {
-        "name": "Beat a Run with 7 Crowns and 2 Coins",
+        "name": "Beat a Run with 07 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1344,7 +1337,7 @@
         "requires": "{endCrowns(7)}"
     },
     {
-        "name": "Beat a Run with 7 Crowns and 3 Coins",
+        "name": "Beat a Run with 07 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1352,7 +1345,7 @@
         "requires": "{endCrowns(7)}"
     },
     {
-        "name": "Beat a Run with 8 Crowns",
+        "name": "Beat a Run with 07 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1360,7 +1353,7 @@
         "requires": "{endCrowns(8)}"
     },
     {
-        "name": "Beat a Run with 8 Crowns and 1 Coin",
+        "name": "Beat a Run with 08 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1368,7 +1361,7 @@
         "requires": "{endCrowns(8)}"
     },
     {
-        "name": "Beat a Run with 8 Crowns and 2 Coins",
+        "name": "Beat a Run with 08 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1376,7 +1369,7 @@
         "requires": "{endCrowns(8)}"
     },
     {
-        "name": "Beat a Run with 8 Crowns and 3 Coins",
+        "name": "Beat a Run with 08 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
@@ -1384,7 +1377,7 @@
         "requires": "{endCrowns(8)}"
     },
     {
-        "name": "Beat a Run with 9 Crowns",
+        "name": "Beat a Run with 08 Crowns and 3 Coins",
         "category": [
             "Crowns"
         ],
@@ -1392,7 +1385,7 @@
         "requires": "{endCrowns(9)}"
     },
     {
-        "name": "Beat a Run with 9 Crowns and 1 Coin",
+        "name": "Beat a Run with 09 Crowns",
         "category": [
             "Crowns"
         ],
@@ -1400,7 +1393,7 @@
         "requires": "{endCrowns(9)}"
     },
     {
-        "name": "Beat a Run with 9 Crowns and 2 Coins",
+        "name": "Beat a Run with 09 Crowns and 1 Coin",
         "category": [
             "Crowns"
         ],
@@ -1408,12 +1401,20 @@
         "requires": "{endCrowns(9)}"
     },
     {
-        "name": "Beat a Run with 9 Crowns and 3 Coins",
+        "name": "Beat a Run with 09 Crowns and 2 Coins",
         "category": [
             "Crowns"
         ],
         "region": "Crowns In Hand",
         "requires": "{endCrowns(9)}"
+    },
+    {
+        "name": "Beat a Run with 09 Crowns and 3 Coins",
+        "category": [
+            "Crowns"
+        ],
+        "region": "Crowns In Hand",
+        "requires": "{endCrowns(10)}"
     },
     {
         "name": "Beat a Run with 10 Crowns",
@@ -1445,7 +1446,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(10)}"
+        "requires": "{endCrowns(11)}"
     },
     {
         "name": "Beat a Run with 11 Crowns",
@@ -1477,7 +1478,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(11)}"
+        "requires": "{endCrowns(12)}"
     },
     {
         "name": "Beat a Run with 12 Crowns",
@@ -1509,7 +1510,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(12)}"
+        "requires": "{endCrowns(13)}"
     },
     {
         "name": "Beat a Run with 13 Crowns",
@@ -1541,7 +1542,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(13)}"
+        "requires": "{endCrowns(14)}"
     },
     {
         "name": "Beat a Run with 14 Crowns",
@@ -1573,7 +1574,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(14)}"
+        "requires": "{endCrowns(15)}"
     },
     {
         "name": "Beat a Run with 15 Crowns",
@@ -1605,7 +1606,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(15)}"
+        "requires": "{endCrowns(16)}"
     },
     {
         "name": "Beat a Run with 16 Crowns",
@@ -1637,7 +1638,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(16)}"
+        "requires": "{endCrowns(17)}"
     },
     {
         "name": "Beat a Run with 17 Crowns",
@@ -1669,7 +1670,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(17)}"
+        "requires": "{endCrowns(18)}"
     },
     {
         "name": "Beat a Run with 18 Crowns",
@@ -1701,7 +1702,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(18)}"
+        "requires": "{endCrowns(19)}"
     },
     {
         "name": "Beat a Run with 19 Crowns",
@@ -1733,7 +1734,7 @@
             "Crowns"
         ],
         "region": "Crowns In Hand",
-        "requires": "{endCrowns(19)}"
+        "requires": "{endCrowns(20)}"
     },
     {
         "name": "Beat a Run with 20 Crowns",
