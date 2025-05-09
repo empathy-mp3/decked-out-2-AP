@@ -82,9 +82,7 @@ def enoughTreasure(world: World, multiworld: MultiWorld, state: CollectionState,
 
 def embers(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """How many embers can the player acquire?"""
-    embers = 0.5 + state.count_group("Frost Ember", player)/2 + state.count("Frost Focus", player)/2 + state.count("Reckless Charge", player)/2 + state.count("Swagger", player) + state.count("Chill Step", player)*state.count("Sneak", player)/6
-    if state.has("Avalanche", player):
-        embers += cardCount(world, multiworld, state, player)/10
+    embers = 0.5 + state.count_group("Frost Ember", player)/2 + state.count("Frost Focus", player)/2 + state.count("Reckless Charge", player) + state.count("Swagger", player) + state.count("Chill Step", player)*state.count("Sneak", player)/6 + state.count("Avalanche", player)*cardCount(world, multiworld, state, player)/10
     if embers > 3:
         embers += state.count("Cold Snap", player)
     if embers >= 2 and state.has("Brilliance", player):
@@ -97,13 +95,19 @@ def enoughEmbers(world: World, multiworld: MultiWorld, state: CollectionState, p
         return True
     return False
 
+def cardsOrClankHazard(world: World, multiworld: MultiWorld, state: CollectionState, player: int, cards: int, clank: int, hazard: int):
+    """Can the player get enough cards? or enough clank and hazard block?"""
+    if enoughCards(world, multiworld, state, player, cards) or (enoughClankBlock(world, multiworld, state, player, clank) and enoughHazardBlock(world, multiworld, state, player, hazard)):
+        return True
+    return False
+
 def levelTwoAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter level 2 and escape?"""
-    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and (enoughCards(world, multiworld, state, player,11) or enoughRarity(world, multiworld, state, player, 4))
+    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and cardsOrClankHazard(world, multiworld, state, player, 11, 4, 3)
 
 def backLevelTwoAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter the back of level 2 and escape?"""
-    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughRarity(world, multiworld, state, player,2) and (enoughCards(world, multiworld, state, player,17) or enoughRarity(world, multiworld, state, player, 6))
+    return enoughClankBlock(world, multiworld, state, player,3) and enoughHazardBlock(world, multiworld, state, player,2) and (enoughTreasure(world, multiworld, state, player,2) or cryptKeyPlatform(world, multiworld, state, player)) and enoughRarity(world, multiworld, state, player,2) and cardsOrClankHazard(world, multiworld, state, player, 17, 4, 3)
 
 def levelThreeAccess(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Can the player enter level 3 and escape?"""
@@ -175,13 +179,9 @@ def crownCount(world: World, multiworld: MultiWorld, state: CollectionState, pla
     if gatewayAccess(world, multiworld, state, player):
         crowns = 8
     if bottomBlackMinesAccess(world, multiworld, state, player):
-        treasures = 18
-    elif levelThreeAccess(world, multiworld, state, player):
-        treasures = 14
+        treasures = 16
     elif backLevelTwoAccess(world, multiworld, state, player):
-        treasures = 10
-    elif levelTwoAccess(world, multiworld, state, player):
-        treasures = 8
+        treasures = 9
     elif enoughCards(world, multiworld, state, player, 11):
         treasures = 6
     else:
@@ -198,26 +198,3 @@ def endCrowns(world: World, multiworld: MultiWorld, state: CollectionState, play
     if crownCount(world, multiworld, state, player) >= crowns:
         return True
     return False
-
-# Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.
-# Define a function here, and you can use it in a requires string with {function_name()}.
-def overfishedAnywhere(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """Has the player collected all fish from any fishing log?"""
-    for cat, items in world.item_name_groups:
-        if cat.endswith("Fishing Log") and state.has_all(items, player):
-            return True
-    return False
-
-# You can also pass an argument to your function, like {function_name(15)}
-# Note that all arguments are strings, so you'll need to convert them to ints if you want to do math.
-def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, player: int, level: str):
-    """Has the player reached the given level in any class?"""
-    for item in ["Figher Level", "Black Belt Level", "Thief Level", "Red Mage Level", "White Mage Level", "Black Mage Level"]:
-        if state.count(item, player) >= int(level):
-            return True
-    return False
-
-# You can also return a string from your function, and it will be evaluated as a requires string.
-def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """Returns a requires string that checks if the player has unlocked the tank."""
-    return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"

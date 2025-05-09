@@ -48,40 +48,40 @@
             "Cave Spider Den",
             "Mushroom Spore Forest Escape"
         ],
-        "requires": "{{enoughClankBlock(1)} and {enoughHazardBlock(1)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and (|@Card:9| or {enoughRarity(3)})}"
+        "requires": "{enoughClankBlock(1)} and {enoughHazardBlock(1)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and {cardsOrClankHazard(9,2,2)}"
     },
     "Mushroom Spore Forest Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and (|@Card:11| or {enoughRarity(4)})"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and {cardsOrClankHazard(11,4,3)}"
     },
     "Black Magma Cave": {
         "connects_to": [
             "Central Caves",
             "Black Magma Cave Escape"
         ],
-        "requires": "{enoughClankBlock(1)} and {enoughHazardBlock(1)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and (|@Card:9| or {enoughRarity(3)})"
+        "requires": "{enoughClankBlock(1)} and {enoughHazardBlock(1)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and {cardsOrClankHazard(9,2,2)}"
     },
     "Black Magma Cave Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and (|@Card:11| or {enoughRarity(4)})"
+        "requires": "{enoughClankBlock(3)} and {enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and {cardsOrClankHazard(11,4,3)}"
     },
     "Central Caves": {
         "connects_to": [
             "Willy's Lake",
             "Central Caves Escape"
         ],
-        "requires": "{enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and |@Card:10| and {enoughRarity(1)} and (|@Card:13| or {enoughRarity(4)})"
+        "requires": "{enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and |@Card:10| and {enoughRarity(1)} and {cardsOrClankHazard(13,3,2)}"
     },
     "Central Caves Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughRarity(2)} and (|@Card:16| or {enoughRarity(5)})"
+        "requires": "{enoughClankBlock(3)} and {enoughRarity(2)} and {cardsOrClankHazard(16,4,4)}"
     },
     "Cave Spider Den": {
         "connects_to": [
             "Willy's Lake",
             "Cave Spider Den Escape"
         ],
-        "requires": "{enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and |@Card:10| and {enoughRarity(1)} and (|@Card:14| or {enoughRarity(4)}) and |@Survival:1|"
+        "requires": "{enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and |@Card:10| and {enoughRarity(1)} and {cardsOrClankHazard(14,2,3)} and |@Survival:1|"
     },
     "Cave Spider Den Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughRarity(2)} and (|@Card:16| or {enoughRarity(5)})"
+        "requires": "{enoughClankBlock(3)} and {enoughRarity(2)} and {cardsOrClankHazard(16,4,3)}"
     },
     "Willy's Lake": {
         "connects_to": [
@@ -89,10 +89,10 @@
             "Flooded Depths Entrance",
             "Willy's Lake Escape"
         ],
-        "requires": "{enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and {enoughRarity(1)} and (|@Card:11| or {enoughRarity(5)})"
+        "requires": "{enoughHazardBlock(2)} and ({enoughTreasure(2)} or {cryptKeyPlatform()}) and {enoughRarity(2)} and {cardsOrClankHazard(15,2,3)}"
     },
     "Willy's Lake Escape": {
-        "requires": "{enoughClankBlock(3)} and {enoughRarity(2)} and (|@Card:17| or {enoughRarity(6)})"
+        "requires": "{enoughClankBlock(3)} and {enoughRarity(3)} and {cardsOrClankHazard(17,4,3)}"
     },
     "Black Market": {
         "connects_to": [
