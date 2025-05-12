@@ -1930,7 +1930,7 @@
             "Caves of Carnage"
         ],
         "region": "Central Caves",
-        "requires": "{enoughTreasure(6)}"
+        "requires": "{enoughTreasure(8)} and {tntLake()}"
     },
     {
         "name": "L2: Berries in Mushroom Forest",
@@ -2072,14 +2072,14 @@
         "category": [
             "The Black Mines"
         ],
-        "region": "Black Mines Top Floor"
+        "region": "Black Mines Bottom Floor"
     },
     {
         "name": "L3: Escape with an Artifact from The Black Mines",
         "category": [
             "The Black Mines"
         ],
-        "region": "Black Mines Top Floor Escape"
+        "region": "Black Mines Bottom Floor Escape"
     },
     {
         "name": "L3: Unlock The Burning Dark from the Black Mines",
