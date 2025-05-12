@@ -164,7 +164,7 @@
             "Flooded Depths Exit",
             "Flooded Depths Coral Reef Escape"
         ],
-        "requires": "{enoughHazardBlock(3)} and (|Second Wind:2| or |Ambrosia:1| or |Pirate's Booty:1| or {enoughTreasure(7)}) and {enoughRarity(5)} and {cardsOrClankHazard(27,3,4)"
+        "requires": "{enoughHazardBlock(3)} and (|Second Wind:2| or |Ambrosia:1| or |Pirate's Booty:1| or {enoughTreasure(7)}) and {enoughRarity(5)} and {cardsOrClankHazard(27,3,4)}"
     },
     "Flooded Depths Coral Reef Escape": {
         "requires": "{enoughClankBlock(5)} and {enoughHazardBlock(4)} and (|Second Wind:2| or |Ambrosia:1| or |Pirate's Booty:1| or {enoughTreasure(6)}) and {cardsOrClankHazard(29,6,5)}"
