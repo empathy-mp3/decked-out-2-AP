@@ -37,7 +37,7 @@ The locations are for:
 
 - Throw away everything that's in your ender chest by default.
 - The pancake that spawns at the start of each run is for making sure you're topped off on food at the start of the run, not for bringing into the dungeon.
-- The game doesn't start if you have an empty deck, and breaks if you have a deck with only Ethereal cards. If you have no cards, put a Sneak into your deck, temporarily, until you get any non-Ethereal cards. It should happen relatively quickly, unless you're playing in a really cursed async.
+- The game doesn't start if you have a deck of 1 or 0 cards, and breaks if you have a deck with only Ethereal cards. If you don't have enough cards, put a Sneak and a Stability into your deck, temporarily, until you get any non-Ethereal cards. It should happen relatively quickly, unless you're playing in a really cursed async.
 
 ## What is the goal of a Manual game when randomized?
 
@@ -116,7 +116,7 @@ Also, you can install [Lithium](https://modrinth.com/mod/lithium/version/mc1.20.
 - Launch your modded install
 - Open the Decked Out Expansion Pack
 - Obtain a Shulker Box (your deck), put all of the cards you've received thus far into your deck (except for Ethereal cards, which you can save for later), and put a Frozen Shard into the barrel next to the dungeon entrance. 
-  - Note: The game doesn't start if you have an empty deck, and breaks if you have a deck with only Ethereal cards. If you have no cards, put a Sneak into your deck, temporarily, until you get any non-Ethereal cards.
+  - Note: The game doesn't start if you have a deck of 1 or 0 cards, and breaks if you have a deck with only Ethereal cards. If you don't have enough cards, put a Sneak and Stability into your deck, temporarily, until you get any non-Ethereal cards.
 - Click the buttons associated with the locations you get in-game on the Manual Client.
 
 ## how do i get legendary card locations?
