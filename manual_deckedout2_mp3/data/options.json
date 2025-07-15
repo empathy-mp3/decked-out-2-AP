@@ -1,0 +1,312 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "group": "Game Options",
+            "default": 8
+        },
+        "death_link": {
+            "group": "Game Options"
+        },
+        "filler_traps": {
+            "description": [
+                "What percentage of Moments of Clarity (filler) should be replaced by Stumbles (traps)?",
+                "0 means no Stumbles, 100 means all Moments of Clarity are replaced with Stumbles."
+            ],
+            "group": "Game Options"
+        }
+    },
+    "user": {
+        "frost_ember_locations":{
+            "display_name": "Frost Ember Locations",
+            "description": [
+                "Should there be locations for having at least a specified amount of Embers in hand at the end of a run?",
+                "Adds 80 Locations, for having 1 Ember in hand to having 80 Embers."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "coin_crown_locations":{
+            "display_name": "Coin & Crown Locations",
+            "description": [
+                "Should there be locations for having at least a specified amount of Crowns and Coins in hand at the end of a run?",
+                "Adds 80 Locations, for having 1 Coin in hand to having 20 Crowns."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "difficulty_objective_locations":{
+            "display_name": "Difficulty Objective Locations",
+            "description": [
+                "Should there be locations for obtaining an artifact and beating a run on each difficulty?",
+                "Adds 10 Locations, 2 for each difficulty."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "frozen_caverns_locations":{
+            "display_name": "Frozen Caverns Locations",
+            "description": [
+                "Should there be locations for going to some places and doing tasks in the Frozen Caverns (Level 1)?",
+                "Most of these are for getting berries from Berry Bushes. Adds 15 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "caves_of_carnage_locations":{
+            "display_name": "Caves of Carnage Locations",
+            "description": [
+                "Should there be locations for going to some places and doing tasks in the Caves of Carnage (Level 2)?",
+                "Most of these are for getting berries from Berry Bushes. Adds 13 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "the_black_mines_locations":{
+            "display_name": "The Black Mines Locations",
+            "description": [
+                "Should there be locations for going to some places and doing tasks in The Black Mines (Level 3)?",
+                "Most of these are for getting berries from Berry Bushes. Adds 10 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "the_flooded_depths_locations":{
+            "display_name": "The Flooded Depths Locations",
+            "description": [
+                "Should there be locations for going to some places and doing tasks in The Flooded Depths (Alternate Level 3)?",
+                "No berries in this one, actually! Adds 7 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "the_burning_dark_locations":{
+            "display_name": "The Burning Dark Locations",
+            "description": [
+                "Should there be locations for going to some places and doing tasks in The Burning Dark (Level 4)?",
+                "Most of these are for getting berries from Berry Bushes. Adds 13 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "common_card_locations":{
+            "display_name": "Common Card Locations",
+            "description": [
+                "Should there be locations for Common Card purchases in the Ember Shop? Adds 5 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "uncommon_card_locations":{
+            "display_name": "Uncommon Card Locations",
+            "description": [
+                "Should there be locations for Uncommon Card purchases in the Ember Shop? Adds 15 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "rare_card_locations":{
+            "display_name": "Rare Card Locations",
+            "description": [
+                "Should there be locations for Rare Card purchases in the Ember Shop? Adds 13 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "legendary_card_locations":{
+            "display_name": "Legendary Card Locations",
+            "description": [
+                "Should there be locations for Legendary Card purchases in the Ember Shop?",
+                "Be warned: these are extremely lengthy and annoying locations. Adds 7 Locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "victory_tome_locations":{
+            "display_name": "Victory Tome Locations",
+            "description": [
+                "Should there be locations for Victory Tome purchases in the Ember Shop? Adds 3 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "crown_shop_locations":{
+            "display_name": "Crown Shop Locations",
+            "description": [
+                "Should there be locations for purchases in the Crown Shop? Adds 10 Locations."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "tactical_approach_count":{
+            "display_name": "Tactical Approach Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Tactical Approach Card (a single-use crown shop card)."
+            ],
+            "range_start": 0,
+            "range_end": 30,
+            "default": 15,
+            "group": "Useful Item Count Options"
+        },
+        "pork_chop_power_count":{
+            "display_name": "Pork Chop Power Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Pork Chop Power Card (a single-use crown shop card)."
+            ],
+            "range_start": 0,
+            "range_end": 30,
+            "default": 15,
+            "group": "Useful Item Count Options"
+        },
+        "dungeon_lackey_count":{
+            "display_name": "Dungeon Lackey Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Dungeon Lackey Card (a single-use crown shop card)."
+            ],
+            "range_start": 0,
+            "range_end": 30,
+            "default": 15,
+            "group": "Useful Item Count Options"
+        },
+        "pay_to_win_count":{
+            "display_name": "Pay To Win Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Pay To Win Card (a single-use crown shop card)."
+            ],
+            "range_start": 0,
+            "range_end": 30,
+            "default": 15,
+            "group": "Useful Item Count Options"
+        },
+        "tailor_for_success_count":{
+            "display_name": "Tailor for Success Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Tailor for Success Card (a single-use strong crown shop card)."
+            ],
+            "range_start": 0,
+            "range_end": 16,
+            "default": 8,
+            "group": "Useful Item Count Options"
+        },
+        "last_stand_count":{
+            "display_name": "Last Stand Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Last Stand Card (a single-use strong crown shop card)."
+            ],
+            "range_start": 0,
+            "range_end": 16,
+            "default": 8,
+            "group": "Useful Item Count Options"
+        },
+        "revelation_count":{
+            "display_name": "Revelation Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Revelation Card (a single-use uncommon card)."
+            ],
+            "range_start": 0,
+            "range_end": 12,
+            "default": 6,
+            "group": "Useful Item Count Options"
+        },
+        "aquata_breather_count":{
+            "display_name": "Aquata Breather Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Aquata Breather Card (a single-use rare card)."
+            ],
+            "range_start": 0,
+            "range_end": 12,
+            "default": 9,
+            "group": "Useful Item Count Options"
+        },
+        "for_the_worthy_count":{
+            "display_name": "For the Worthy Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the For the Worthy Card (a single-use legendary card).",
+                "It's not very useful, to be honest."
+            ],
+            "range_start": 0,
+            "range_end": 8,
+            "default": 0,
+            "group": "Useful Item Count Options"
+        },
+        "eureka_count":{
+            "display_name": "Eureka Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by the Eureka Card (a single-use legendary card)."
+            ],
+            "range_start": 0,
+            "range_end": 4,
+            "default": 2,
+            "group": "Useful Item Count Options"
+        },
+        "caves_of_carnage_key_count":{
+            "display_name": "The Caves of Carnage Key",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by The Caves of Carnage Key (key to the second area)."
+            ],
+            "range_start": 0,
+            "range_end": 18,
+            "default": 9,
+            "group": "Useful Item Count Options"
+        },
+        "black_mines_key_count":{
+            "display_name": "The Black Mines Key Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by The Black Mines Key (key to the third area)."
+            ],
+            "range_start": 0,
+            "range_end": 12,
+            "default": 6,
+            "group": "Useful Item Count Options"
+        },
+        "flooded_depths_key_count":{
+            "display_name": "The Flooded Depths Key Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by The Flooded Depths Key (key to the alt third area)."
+            ],
+            "range_start": 0,
+            "range_end": 12,
+            "default": 6,
+            "group": "Useful Item Count Options"
+        },
+        "burning_dark_key_count":{
+            "display_name": "The Burning Dark Key Count",
+            "type": "Range",
+            "description": [
+                "Number of filler to be replaced by The Burning Dark Key (key to the fourth area)."
+            ],
+            "range_start": 0,
+            "range_end": 12,
+            "default": 6,
+            "group": "Useful Item Count Options"
+        }
+    }
+}
